@@ -52,8 +52,8 @@ export default function Home() {
   ];
 
   return (
-    <div className="card p-8 bg-white w-screen flex justify-center">
-      <Menubar model={items}></Menubar>
+    <div className="card p-8 bg-white w-screen flex justify-center text-black">
+      <Menubar className="text-black" model={items}></Menubar>
     </div>
   );
 }
