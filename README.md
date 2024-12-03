@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`c3`](https:
 
 ## Getting Started
 
+npm create cloudflare@latest -- my-next-app --framework=next
+
+git remote add origin https://github.com/<your-gh-username>/<repository-name>
+git branch -M main
+git push -u origin main
+
 First, run the development server:
 
 ```bash
