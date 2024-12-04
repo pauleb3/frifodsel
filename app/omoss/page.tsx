@@ -74,8 +74,8 @@ export default function OmOss() {
           beskrivelse av deg selv, ta imot et bilde av deg og få det publisert
           på nettsiden.
         </div>
-        <div className="flex justify-evenly">
-          <div className="bg-pink-100 w-[25vw] p-5">
+        <div className="lg:flex lg:flex-row md:flex-col justify-evenly">
+          <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw] m-3 p-5">
             Hvis du tilslutter deg nettverket i kategorien «kvinner som har
             direkte erfaring med vill graviditet og frifødsel», så kan du
             presente deg ved å svare på disse spørsmålene:{" "}
@@ -91,7 +91,7 @@ export default function OmOss() {
               <li>Hvorfor var frifødsel riktig for deg og dine barn?</li>
             </ol>
           </div>
-          <div className="bg-pink-100 w-[25vw] p-5">
+          <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw] m-3 p-5">
             Hvis du tilslutter deg nettverket i kategorien «de som genuint
             ønsker å friføde sine fremtidige barn», så kan du presente deg ved å
             svare på disse spørsmålene:
@@ -107,7 +107,7 @@ export default function OmOss() {
               <li>Hva inspirerer deg ved frifødsel?</li>
             </ol>
           </div>
-          <div className="bg-pink-100 w-[25vw] p-5">
+          <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw] m-3 p-5">
             Spørsmål for deg som tilslutter deg nettverket i kategorien
             «mennesker som støtter, feirer og gleder seg over denne typen
             graviditet og fødsel» uten nødvendigvis å ha opplevd det selv eller
