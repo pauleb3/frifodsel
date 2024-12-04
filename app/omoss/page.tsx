@@ -65,39 +65,68 @@ export default function OmOss() {
         at kvinner vet hvor de kan finne støtte som er trygg for dem.
       </div>
       <div className="bg-white">
-        <h1 className="font-bold text-3xl m-auto text-center">
+        <h1 className="font-bold text-3xl m-auto text-center py-10">
           Ønsker du å slutte deg til nettverket?
         </h1>
-        Hvis du ønsker å tilslutte deg nettverket tar du personlig kontakt med
-        en av personene som er i nettverket nå. De vil da godkjenne din
-        beskrivelse av deg selv, ta imot et bilde av deg og få det publisert på
-        nettsiden.
+        <div className="mx-[10vw] mb-5">
+          Hvis du ønsker å tilslutte deg nettverket tar du personlig kontakt med
+          en av personene som er i nettverket nå. De vil da godkjenne din
+          beskrivelse av deg selv, ta imot et bilde av deg og få det publisert
+          på nettsiden.
+        </div>
         <div className="flex justify-evenly">
-          <div className="bg-pink-100 w-[25vw]">
+          <div className="bg-pink-100 w-[25vw] p-5">
             Hvis du tilslutter deg nettverket i kategorien «kvinner som har
             direkte erfaring med vill graviditet og frifødsel», så kan du
-            presente deg ved å svare på disse spørsmålene: Beskriv din direkte,
-            selvopplevde erfaring med vill graviditet og frifødsel: Beskriv din
-            direkte, selvopplevde erfaring med å være fødselsvitne: Hvorfor var
-            frifødsel riktig for deg og dine barn?
+            presente deg ved å svare på disse spørsmålene:{" "}
+            <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
+              <li>
+                Beskriv din direkte, selvopplevde erfaring med vill graviditet
+                og frifødsel:
+              </li>
+              <li>
+                Beskriv din direkte, selvopplevde erfaring med å være
+                fødselsvitne:
+              </li>
+              <li>Hvorfor var frifødsel riktig for deg og dine barn?</li>
+            </ol>
           </div>
-          <div className="bg-pink-100 w-[25vw]">
+          <div className="bg-pink-100 w-[25vw] p-5">
             Hvis du tilslutter deg nettverket i kategorien «de som genuint
             ønsker å friføde sine fremtidige barn», så kan du presente deg ved å
-            svare på disse spørsmålene: Beskriv din direkte, selvopplevde
-            erfaring med graviditet og fødsel: Beskriv din direkte, selvopplevde
-            erfaring med å være fødselsvitne: Hva inspirerer deg ved frifødsel?
+            svare på disse spørsmålene:
+            <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
+              <li>
+                Beskriv din direkte, selvopplevde erfaring med graviditet og
+                fødsel:
+              </li>
+              <li>
+                Beskriv din direkte, selvopplevde erfaring med å være
+                fødselsvitne:
+              </li>
+              <li>Hva inspirerer deg ved frifødsel?</li>
+            </ol>
           </div>
-          <div className="bg-pink-100 w-[25vw]">
+          <div className="bg-pink-100 w-[25vw] p-5">
             Spørsmål for deg som tilslutter deg nettverket i kategorien
             «mennesker som støtter, feirer og gleder seg over denne typen
             graviditet og fødsel» uten nødvendigvis å ha opplevd det selv eller
             ha utsikter til å oppleve det i fremtiden. Fortell det du vet og
             ønsker å dele om din egen fødsel, altså da du kom til verden:
-            Beskriv din direkte, selvopplevde erfaring med å føde og å være
-            fødselsvitne: Hva er grunnene til at du støtter og feirer frifødsel
-            og vill graviditet? Hva kan du tilby av støtte og hjelp, og hvor
-            finner vi beskrivelsen av dine eventuelle tjenester?
+            <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
+              <li>
+                Beskriv din direkte, selvopplevde erfaring med å føde og å være
+                fødselsvitne:
+              </li>
+              <li>
+                Hva er grunnene til at du støtter og feirer frifødsel og vill
+                graviditet?
+              </li>
+              <li>
+                Hva kan du tilby av støtte og hjelp, og hvor finner vi
+                beskrivelsen av dine eventuelle tjenester?
+              </li>
+            </ol>
           </div>
         </div>
       </div>
