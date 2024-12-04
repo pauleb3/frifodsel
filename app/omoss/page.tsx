@@ -1,7 +1,11 @@
 "use client";
 import { Button } from "primereact/button";
 
+import { Accordion, AccordionTab } from "primereact/accordion";
 import { Card } from "primereact/card";
+import { Image } from "primereact/image";
+import maren from "./maren.avif";
+import "./bilder.css";
 import "primereact/resources/themes/lara-light-indigo/theme.css";
 export default function OmOss() {
   return (
@@ -19,17 +23,131 @@ export default function OmOss() {
         få det publisert på nettsiden.
       </div>
       <Card className="w-full">
-        <Card>Maren Berg Dybvik</Card>
+        <Card>
+          <div className="flex">
+            <div className="maren shrink-0 lg:h-[20vw] md:h-[30vw] lg:w-[20vw] md:w-[30vw]"></div>
 
-        <Card>Maria Heiberg</Card>
+            <Accordion activeIndex={0}>
+              <AccordionTab header="Maren Berg Dybvik">
+                <p className="m-0">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                  irure dolor in reprehenderit in voluptate velit esse cillum
+                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                  cupidatat non proident, sunt in culpa qui officia deserunt
+                  mollit anim id est laborum.
+                </p>
+              </AccordionTab>
+            </Accordion>
+          </div>
+        </Card>
 
-        <Card>Anja Bache-Wiig Solberg</Card>
+        <Card>
+          <div className="flex">
+            <div className="maria shrink-0 lg:h-[20vw] md:h-[30vw] lg:w-[20vw] md:w-[30vw]"></div>
 
-        <Card>Marlene Omlid</Card>
+            <Accordion activeIndex={0}>
+              <AccordionTab header="Maria Heiberg">
+                <p className="m-0">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                  irure dolor in reprehenderit in voluptate velit esse cillum
+                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                  cupidatat non proident, sunt in culpa qui officia deserunt
+                  mollit anim id est laborum.
+                </p>
+              </AccordionTab>
+            </Accordion>
+          </div>
+        </Card>
 
-        <Card>Kristin Indreeide</Card>
+        <Card>
+          <div className="flex">
+            <div className="anja shrink-0 lg:h-[20vw] md:h-[30vw] lg:w-[20vw] md:w-[30vw]"></div>
 
-        <Card>Helene B. Clarke</Card>
+            <Accordion activeIndex={0}>
+              <AccordionTab header="Anja Bache-Wiig Solberg">
+                <p className="m-0">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                  irure dolor in reprehenderit in voluptate velit esse cillum
+                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                  cupidatat non proident, sunt in culpa qui officia deserunt
+                  mollit anim id est laborum.
+                </p>
+              </AccordionTab>
+            </Accordion>
+          </div>
+        </Card>
+
+        <Card>
+          <div className="flex">
+            <div className="marlene shrink-0 lg:h-[20vw] md:h-[30vw] lg:w-[20vw] md:w-[30vw]"></div>
+
+            <Accordion activeIndex={0}>
+              <AccordionTab header="Marlene Omlid">
+                <p className="m-0">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                  irure dolor in reprehenderit in voluptate velit esse cillum
+                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                  cupidatat non proident, sunt in culpa qui officia deserunt
+                  mollit anim id est laborum.
+                </p>
+              </AccordionTab>
+            </Accordion>
+          </div>
+        </Card>
+
+        <Card>
+          <div className="flex">
+            <div className="kristin shrink-0 lg:h-[20vw] md:h-[30vw] lg:w-[20vw] md:w-[30vw]"></div>
+
+            <Accordion activeIndex={0}>
+              <AccordionTab header="Kristin Indreeide">
+                <p className="m-0">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                  irure dolor in reprehenderit in voluptate velit esse cillum
+                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                  cupidatat non proident, sunt in culpa qui officia deserunt
+                  mollit anim id est laborum.
+                </p>
+              </AccordionTab>
+            </Accordion>
+          </div>
+        </Card>
+
+        <Card>
+          <div className="flex">
+            <div className="helene shrink-0 lg:h-[20vw] md:h-[30vw] lg:w-[20vw] md:w-[30vw]"></div>
+            Helene B. Clarke
+            <Accordion activeIndex={0}>
+              <AccordionTab header="Header I">
+                <p className="m-0">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                  irure dolor in reprehenderit in voluptate velit esse cillum
+                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                  cupidatat non proident, sunt in culpa qui officia deserunt
+                  mollit anim id est laborum.
+                </p>
+              </AccordionTab>
+            </Accordion>
+          </div>
+        </Card>
       </Card>
 
       <div className="p-[2vh] w-[80vw]">

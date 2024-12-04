@@ -1,5 +1,4 @@
 "use client";
-/* tslint:disable */
 import { Button } from "primereact/button";
 import "./globals.css";
 import { Card } from "primereact/card";
