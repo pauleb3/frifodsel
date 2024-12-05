@@ -14,14 +14,16 @@ export default function Home() {
       egen videre utforsking, ikke som endelig konklusjon.
       <Card className="m-16 p-8">
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Frifødsel: </span>En
-          fysiologisk, naturlig og uforstyrret fødsel utført av den fødende selv
-          som har alt ansvar og bestemmelsesrett. Valget om å friføde må være
-          tatt av egen fri vilje og lyst, helhjertet, bevisst og i personlig
-          integritet. Hvis valget og intensjonen med å føde uassistert ikke
-          opplevdes helt fritt er det ikke en frifødsel. En frifødsel kan skje
-          alene, i samvær med familien eller støttet av en doula eller venner
-          som helhjertet støtter valget om å friføde og ikke saboterer.
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Frifødsel:{" "}
+          </span>
+          En fysiologisk, naturlig og uforstyrret fødsel utført av den fødende
+          selv som har alt ansvar og bestemmelsesrett. Valget om å friføde må
+          være tatt av egen fri vilje og lyst, helhjertet, bevisst og i
+          personlig integritet. Hvis valget og intensjonen med å føde uassistert
+          ikke opplevdes helt fritt er det ikke en frifødsel. En frifødsel kan
+          skje alene, i samvær med familien eller støttet av en doula eller
+          venner som helhjertet støtter valget om å friføde og ikke saboterer.
           Frifødsel er den typen fødsel menneskearten dypest sett er kalibrert
           for, spesielt hormonsystemet vårt, men også vår åndelige konstitusjon.
           <br />
@@ -57,7 +59,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Påbegynt frifødsel:{" "}
           </span>
           En frifødsel der helsepersonell er tilkalt i løpet av fødselsforløpet,
@@ -73,7 +75,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Transportfødsel:{" "}
           </span>
           Når siste del av fødselen skjer i løpet av transport til sykehuset og
@@ -92,7 +94,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Uassistert fødsel:{" "}
           </span>
           Fødsler der helsepersonell ikke er til stede. Den er altså ikke
@@ -124,7 +126,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Frifødselsdoula-assistert fødsel:{" "}
           </span>
           En frifødsel planlagt i samarbeid med en uavhengig frifødselsdoula, og
@@ -141,7 +143,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Fødsel i fangenskap:{" "}
           </span>
           «Birth in captivity», et uttrykk Sister MorningStar har funnet opp for
@@ -163,7 +165,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Hjemmefødsel:{" "}
           </span>
           Å engasjere en autorisert jordmor som du kan tilkalle og som vil
@@ -183,7 +185,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Sykehusfødsel:{" "}
           </span>
           Å komme som gravid privatperson inn på andre menneskers arbeidsplass
@@ -201,7 +203,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Fysiologisk fødsel:{" "}
           </span>
           En fødsel som starter og fortsetter av seg selv helt til barnet er
@@ -226,7 +228,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Naturlig fødsel:{" "}
           </span>
           En fødsel uten legemidler. En naturlig fødsel fasilitert av autorisert
@@ -246,7 +248,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Normal fødsel:
           </span>{" "}
           Er en vaginal fødsel en autorisert jordmor fasiliterer. Gjelder
@@ -274,7 +276,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Patologisk fødsel:
           </span>{" "}
           En fødsel som vurderes som sykelig, og krever at en lege er delaktig
@@ -292,7 +294,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Variasjon av normal:{" "}
           </span>
           Vi og flere med oss ønsker å utvide begrepet normal fødsel. Vi vet at
@@ -310,7 +312,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Suveren fødsel:{" "}
           </span>
           Souvereign birth. Begrepet Emiliee Saldaya bruker på den typen fødsel
@@ -327,7 +329,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Radical Birth Keeper:{" "}
           </span>
           En tittel man kan kalle seg etter å ha tatt Radical Birth Keeper
@@ -341,7 +343,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Freebirth Society:{" "}
           </span>
           FBS, en podcast og frifødselbevegelse, startet av Nord-Amerikaneren
@@ -354,7 +356,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             The Complete Guide to Freebirth:{" "}
           </span>
           Et pratete og ganske abstrakt nettkurs laget av Emiliee Saldaya og
@@ -412,7 +414,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Iatrogen skade:{" "}
           </span>
           Skader en er påført av medisinsk behandling, undersøkelse og
@@ -435,7 +437,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Iatrogent drap:{" "}
           </span>
           Å bli drept av en medisinsk intervensjon, uavhengig av om
@@ -450,7 +452,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Faglig forsvarlig:{" "}
           </span>
           Det helsevesenet og deres kontrollorganer vurderer sine handlinger og
@@ -467,7 +469,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Obstetrisk vold:{" "}
           </span>
           En dårlig måte å utøve sitt yrke som autorisert jordmor og fødselslege
@@ -486,7 +488,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Etterfødselssamtale:{" "}
           </span>
           Å fortelle om, forstå og bearbeide de barnefødslene en selv som
@@ -503,7 +505,9 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Barnevernet: </span>
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Barnevernet:{" "}
+          </span>
           Det norske barnevern har som mandat å sørge for at de umyndige
           statsborgerne og beboere får nødvendig omsorg og kjærlighet i
           familien, og er fri for omsorgssvikt og vold i hjemmet.
@@ -517,7 +521,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Omsorgssvikt:{" "}
           </span>
           Å ikke elske og ta vare på barna sine til den grad som dekker deres
@@ -551,7 +555,9 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Morkake: </span>
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Morkake:{" "}
+          </span>
           Morkaken er et blodfylt organ som har en morsside og en barnside.
           Dette er ikke mor sin kake. Menneskekropp, navlesnor og morkake er en
           treenighet laget av det fertiliserte egget. Morkaken tilhører barnet,
@@ -565,7 +571,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Morkakefødsel:{" "}
           </span>
           Etter at babyens kropp er født er morkaken fortsatt inne i livmoren.
@@ -578,7 +584,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Morkakebegravelse:{" "}
           </span>
           Morkaken er et levende organ som dør i løpet av fødselsprosessen. Den
@@ -594,7 +600,9 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Lotusfødsel: </span>
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Lotusfødsel:{" "}
+          </span>
           Å la navlesnor og morkake være påkoblet den nyfødte til den løsner fra
           navlen av seg selv. Dette har en spirituell dimensjon og er i tillegg
           et trygt valg der man ikke har tilgang på sterilt utstyr og
@@ -612,7 +620,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Fødsels hormonelle mal:{" "}
           </span>
           (Hormonal blueprint of birth) er et uttrykk som ble lansert av Dr.
@@ -627,7 +635,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Autorisert jordmor:{" "}
           </span>
           En utdannet sykepleier med mastergrad i jordmorfag som ikke er blitt
@@ -645,7 +653,9 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Fødselslege: </span>
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Fødselslege:{" "}
+          </span>
           En utdannet lege som har en tilleggsspesialisering i obstetrikk og
           gynekologi, altså fødsel, svangerskap og kvinnesykdommer. Det er disse
           legene som kan utføre bukkirurgien kjent som keisersnitt for å få
@@ -659,7 +669,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Medisinsk kidnapping:{" "}
           </span>
           Når helsepersonell skiller mor og barn ved tvang eller kobler på
@@ -678,7 +688,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Helsepersonell:{" "}
           </span>
           Det er individer med en utdannelse som gjør at de på fritiden har en
@@ -696,7 +706,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Informert samtykke:{" "}
           </span>
           Når en har fått informasjon fra helsepersonell om fordeler og ulemper,
@@ -712,7 +722,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Informert avslag:{" "}
           </span>
           Å avslå tilbudet om medisinsk overvåkning, oppfølging og behandling
@@ -736,7 +746,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Retten til privatliv:{" "}
           </span>
           Privatliv er de delene av livet som ikke deles med og overvåkes av
@@ -754,7 +764,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Bekymringsmelding til barnevernet:{" "}
           </span>
           Noe helsepersonell og andre kan skrive som et maktmisbruk når de gjør
@@ -774,7 +784,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Vill graviditet:{" "}
           </span>
           Å la perioden mellom unnfangelsen og fødselen forløpe uten kroppslig
@@ -791,7 +801,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Tilstedeværelse i øyeblikket:{" "}
           </span>
           Å ikke dømme tankene eller tankene som dømmer tankene, men la det
@@ -808,19 +818,21 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Ultralyd: </span>En
-          type lydbølger som oversettes til et bilde. Ufødte babyer blir
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Ultralyd:{" "}
+          </span>
+          En type lydbølger som oversettes til et bilde. Ufødte babyer blir
           rutinemessig utsatt for denne strålingen og opplever det muligens som
           ubehagelig, bråkete og invaderende. I høye doser kan ultralydbølger
           ødelegge vev og forstyrre celledeling.
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">​</span>
+          <span className="wixui-rich-text__text font-bold font-bold">​</span>
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Selvbestemt abort:{" "}
           </span>
           Retten kvinner har til å få sitt svangerskap avsluttet ved hjelp av
@@ -840,9 +852,11 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Kvinne: </span>En
-          kvinne er et voksent, myndig menneske og et individ. Når vi skriver at
-          dette nettverket er for «kvinner som har direkte erfaring med vill
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Kvinne:{" "}
+          </span>
+          En kvinne er et voksent, myndig menneske og et individ. Når vi skriver
+          at dette nettverket er for «kvinner som har direkte erfaring med vill
           graviditet og frifødsel», så gjør konteksten det åpenbart at vi
           refererer til ciss-kvinner. Trans-kvinner er kvinner på andre måter
           enn gjennom å være gravid og føde.
@@ -872,7 +886,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Fosterovervåkning:
           </span>{" "}
           Er overvåkning av fosterets hjertefrekvens under fødselen. Det kan
@@ -890,7 +904,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             CTG eller STAN:
           </span>{" "}
           Kontinuerlig fosterovervåkning betyr belter rundt magen som spenner
@@ -907,7 +921,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Skalpelektrode:{" "}
           </span>
           en spirallignende skrue som skrus inn i hodet på ufødte barn inn
@@ -922,7 +936,9 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Episiotomi: </span>
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Episiotomi:{" "}
+          </span>
           En spesialsaks stikkes inn i skjeden og klipper over både muskler,
           bindevev og deler av klitoris i det babyens hode er på vei ut av
           fødselskanalen. Dette er meget skadelig og kan skape nervesmerter og
@@ -942,7 +958,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Kasakaden av intervensjoner:{" "}
           </span>
           Dette er en beskrivelse av en slags dominoeffekt. Det er sjeldent det
@@ -959,8 +975,10 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Venterom: </span>Et
-          sted å bruke den lille, våkne fritiden vi har tilgjengelig i dagens
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Venterom:{" "}
+          </span>
+          Et sted å bruke den lille, våkne fritiden vi har tilgjengelig i dagens
           samfunn. Der venter man på at det er sin tur til å komme inn til
           legen, som da er på jobb, og har sin fritid senere på dagen.
           <br />
@@ -973,7 +991,9 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Symptomer: </span>
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Symptomer:{" "}
+          </span>
           Kroppslige opplevelser og ubehag mange tror de er pålagt å fortelle
           helsepersonell om for å få dem vurdert, men du kan ha symptomer uten å
           blande inn helsepersonell. Dette er retten til å ikke bli pasient.
@@ -985,9 +1005,11 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Sykdom: </span>Hvis
-          kroppen var en maskin så ville sykdommene vært feilene som oppstår,
-          men kroppen er liv, ikke maskin. Det vi kaller sykdommer er
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Sykdom:{" "}
+          </span>
+          Hvis kroppen var en maskin så ville sykdommene vært feilene som
+          oppstår, men kroppen er liv, ikke maskin. Det vi kaller sykdommer er
           meningsfulle adaptasjoner, men de kan likefullt være dødelige.
           <br />
           <br />
@@ -999,9 +1021,11 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Medisin: </span>En
-          medisin helbreder. Legemidler er derfor ofte ikke medisiner, men noe
-          som angriper og fjerner symptomer.
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Medisin:{" "}
+          </span>
+          En medisin helbreder. Legemidler er derfor ofte ikke medisiner, men
+          noe som angriper og fjerner symptomer.
           <br />
           <br />
         </p>
@@ -1012,7 +1036,9 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Helsevesenet:</span>{" "}
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Helsevesenet:
+          </span>{" "}
           Toppen av samfunnets hierarki. Mer innflytelsesrike enn økonomien,
           politikken og vitenskap generelt.
           <br />
@@ -1025,8 +1051,10 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Åndelighet:</span> Å
-          ha kontakt med ikke-fysiske aspekter av livet.
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Åndelighet:
+          </span>{" "}
+          Å ha kontakt med ikke-fysiske aspekter av livet.
           <br />
           <br />
         </p>
@@ -1037,7 +1065,9 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Spirituell: </span>
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Spirituell:{" "}
+          </span>
           Alt har en spirituell dimensjon ved seg og uttrykker en viss
           spiritualitet. Naturvitenskapelig medisin uttrykker en spiritualitet
           uten Gud, med materialisme som grunnlag, en ikke-spirituell
@@ -1050,7 +1080,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Helsestasjonen:{" "}
           </span>
           Det frivillige gratis tilbudet for den lovpålagte helsekontrollen
@@ -1066,7 +1096,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Skatteetaten:{" "}
           </span>
           Teller, navngir og kjønner nasjonalstatens befolkning.
@@ -1080,7 +1110,9 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Byråkrati:</span>{" "}
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Byråkrati:
+          </span>{" "}
           Storskalaorganisering.
           <br />
           <br />
@@ -1092,7 +1124,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Barselopprøret, Bunadsgeriljaen, Landsforeningen 1001 dager og
             BirthRights Norge:{" "}
           </span>
@@ -1114,7 +1146,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Helsedirektoratet:{" "}
           </span>
           De som gir retningslinjer og kvalitetssikrer utdannelser innen
@@ -1127,7 +1159,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             UKOM og Helsetilsynet:{" "}
           </span>
           De som lager rapporter ved alvorlige hendelser i helsevesenet.
@@ -1139,7 +1171,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Rapport etter uønsket hendelse:{" "}
           </span>
           Et byråkratisk skriveri med lærdommer og endringer av praksis som det
@@ -1155,10 +1187,12 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">Må: </span>Når man
-          velger noe uten å ta eierskap til valget sier man «jeg måtte». Når man
-          tvinger andre sier man «du må», uten å anerkjenne den andres frihet og
-          valg. <br />
+          <span className="wixui-rich-text__text font-bold font-bold">
+            Må:{" "}
+          </span>
+          Når man velger noe uten å ta eierskap til valget sier man «jeg måtte».
+          Når man tvinger andre sier man «du må», uten å anerkjenne den andres
+          frihet og valg. <br />
           <br />
         </p>
 
@@ -1169,7 +1203,7 @@ export default function Home() {
         </p>
 
         <p className="font_8 wixui-rich-text__text">
-          <span className="wixui-rich-text__text font-bold">
+          <span className="wixui-rich-text__text font-bold font-bold">
             Ordlisten er utarbeidet av A. B-W. Solberg og H. B. Clarke, med
             gjensidig tilbakemelding, tillegg og godkjennelse.
           </span>
