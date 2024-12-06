@@ -6,7 +6,7 @@ import { Card } from "primereact/card";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center text-black justify-between bg-pink-100">
-      <Card className="w-[50vw] m-10 p-2 text-black">
+      <Card className="w-[90vw] lg:w-[50vw] m-10 p-2 text-black">
         <h1 className="font-bold text-3xl m-auto text-center">
           FRIFØDSEL NETTVERK
         </h1>
