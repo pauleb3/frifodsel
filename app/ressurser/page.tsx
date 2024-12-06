@@ -29,7 +29,7 @@ export default function Home() {
         ​​​
       </Card>
       <div>
-        <div className="w-[90vw] overflow-hidden">
+        <div className="w-[90vw] overflow-ellipsis">
           <div>
             <p className="font_2 text-black">
               <span className="color_37 text-black">
@@ -352,12 +352,12 @@ export default function Home() {
       <div
         data-mesh-id="comp-m438gbt1inlineContent"
         data-testid="inline-content"
-        className="bg-white w-screen pt-16"
+        className="bg-white w-screen "
       >
         <div
           data-mesh-id="comp-m438gbt1inlineContent-gridContainer"
           data-testid="mesh-container-content"
-          className="p-16"
+          className="p-8"
         >
           <div
             id="comp-m438poac"
@@ -521,19 +521,6 @@ export default function Home() {
       </div>
       {/* ============ Section 3 =================================================*/}
       <div
-        id="bgLayers_comp-m439g04q"
-        data-hook="bgLayers"
-        data-motion-part="BG_LAYER"
-        className="MW5IWV"
-      >
-        <div data-testid="colorUnderlay" className="LWbAav Kv1aVt"></div>
-        <div
-          id="bgMedia_comp-m439g04q"
-          data-motion-part="BG_MEDIA"
-          className="VgO9Yg"
-        ></div>
-      </div>
-      <div
         data-mesh-id="comp-m439g04qinlineContent"
         data-testid="inline-content"
         className=""
@@ -541,7 +528,7 @@ export default function Home() {
         <div
           data-mesh-id="comp-m439g04qinlineContent-gridContainer"
           data-testid="mesh-container-content"
-          className="p-16"
+          className="p-8 w-screen overflow-ellipsis"
         >
           <div
             id="comp-m439h4sf"
@@ -652,19 +639,6 @@ export default function Home() {
       </div>
       {/** ============== Section 4 =================================== */}
       <div
-        id="bgLayers_comp-m3xmt4ks"
-        data-hook="bgLayers"
-        data-motion-part="BG_LAYER"
-        className="MW5IWV"
-      >
-        <div data-testid="colorUnderlay" className="LWbAav Kv1aVt"></div>
-        <div
-          id="bgMedia_comp-m3xmt4ks"
-          data-motion-part="BG_MEDIA"
-          className="VgO9Yg"
-        ></div>
-      </div>
-      <div
         data-mesh-id="comp-m3xmt4ksinlineContent"
         data-testid="inline-content"
         className=""
@@ -672,7 +646,7 @@ export default function Home() {
         <div
           data-mesh-id="comp-m3xmt4ksinlineContent-gridContainer"
           data-testid="mesh-container-content"
-          className="bg-white p-16"
+          className="bg-white p-8 overflow-ellipsis w-screen"
         >
           <div
             id="comp-m439ll7o"
@@ -827,19 +801,6 @@ export default function Home() {
       </div>
       {/** ============== Section 5 =================================== */}
       <div
-        id="bgLayers_comp-m439p3b1"
-        data-hook="bgLayers"
-        data-motion-part="BG_LAYER"
-        className="MW5IWV"
-      >
-        <div data-testid="colorUnderlay" className="LWbAav Kv1aVt"></div>
-        <div
-          id="bgMedia_comp-m439p3b1"
-          data-motion-part="BG_MEDIA"
-          className="VgO9Yg"
-        ></div>
-      </div>
-      <div
         data-mesh-id="comp-m439p3b1inlineContent"
         data-testid="inline-content"
         className=""
@@ -847,7 +808,7 @@ export default function Home() {
         <div
           data-mesh-id="comp-m439p3b1inlineContent-gridContainer"
           data-testid="mesh-container-content"
-          className="p-16"
+          className="p-8 overflow-ellipsis w-screen"
         >
           <div
             id="comp-m439u34j"
@@ -1116,22 +1077,9 @@ export default function Home() {
       </div>
       {/** ============== Section 6 =================================== */}
       <div
-        id="bgLayers_comp-m439v920"
-        data-hook="bgLayers"
-        data-motion-part="BG_LAYER"
-        className="MW5IWV"
-      >
-        <div data-testid="colorUnderlay" className="LWbAav Kv1aVt"></div>
-        <div
-          id="bgMedia_comp-m439v920"
-          data-motion-part="BG_MEDIA"
-          className="VgO9Yg"
-        ></div>
-      </div>
-      <div
         data-mesh-id="comp-m439v920inlineContent"
         data-testid="inline-content"
-        className=""
+        className="overflow-ellipsis p-8 w-screen bg-white"
       >
         <div
           data-mesh-id="comp-m439v920inlineContent-gridContainer"
