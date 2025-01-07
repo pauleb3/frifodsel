@@ -11,17 +11,30 @@ export default function Home() {
           FRIFØDSEL NETTVERK ny
         </h1>
         <br />
-        Dette er et desentralisert nettverk for kvinner som har direkte erfaring
-        med vill graviditet og frifødsel, som også inkluderer de som genuint
-        ønsker å friføde sine fremtidige barn, og dernest mennesker som støtter,
-        feirer og gleder seg over denne typen graviditet og fødsel.
+        Velkommen til frifodsel.net, en varmende plattform for frifødsel. 
+        Her er både enige og uenige velkommen til å titte og forholde seg 
+        til disse prinsippene som er gjort offentlig for å fremme klarhet, 
+        dialog og forståelse. Nettsiden representerer ikke en organisasjon,  
+        men derimot et desentralisert nettverk for kvinner som har direkte 
+        erfaring med vill graviditet og frifødsel, i tillegg til mennesker 
+        som støtter, feirer og gleder seg over denne typen graviditet og fødsel. 
         <br /> <br />
-        Nettsiden er en kilde til, og en kilde til andre kilder til,
-        erfaringsbasert informasjon om å navigere i det norske samfunn som vill
-        gravid, friføder og vill og fri mor. Siden inneholder ikke medisinske
-        råd. Vi deler meninger om medisinske råd og hva vi ønsker helsepersonell
-        skulle sagt, men det utgjør ikke medisinske råd til deg som potensiell
-        pasient. Her er det radikalt selvansvar i sentrum.
+        Nettsiden er en kilde til, og en kilde til andre kilder til, 
+        erfaringsbasert kunnskap om å navigere i det norske samfunn 
+        som vill gravid, friføder og vill og fri mor. 
+        Siden inneholder ikke medisinske råd. Det som 
+        deles er tidvis sterke meninger om helsevesenets praksiser, 
+        men en slik diskusjon må ikke misforstås som 
+        medisinske råd til pasienter. 
+        I tråd med våre prinsipper oppfordrer vi ikke til spesifikk handling, 
+        men til en holdning av radikalt selvansvar. Vi oppfordrer til å tenke 
+        på det som står her, men ikke handle på det. Handling er opp til deg. 
+        Våre prinsipper oppfordrer til å handle motivert av personlig integritet, 
+        med et integrert forhold til ytre autoritet. 
+
+
+
+    
       </Card>
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex"></div>
     </main>
