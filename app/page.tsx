@@ -8,7 +8,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center text-black justify-between bg-pink-100">
       <Card className="w-[90vw] lg:w-[50vw] m-10 p-2 text-black">
         <h1 className="font-bold text-3xl m-auto text-center">
-          FRIFØDSEL NETTVERK ny
+          FRIFØDSEL NETTVERK
         </h1>
         <br />
         Velkommen til frifodsel.net, en varmende plattform for frifødsel. 
