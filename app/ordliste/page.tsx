@@ -5,7 +5,11 @@ import "primereact/resources/themes/lara-light-indigo/theme.css";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-16 justify-between bg-pink-100">
-      <h1 className="text-5xl font-bold">ORDLISTE</h1>​​ <br /> <br /> Dette er
+      <h1 className="text-5xl font-bold">ORDLISTE</h1>​​ <br /> <br />
+      {/*
+
+
+       Dette er
       en fragmentarisk ordliste som blander definering med normering. Dette
       inngår ikke i våre prinsipper, men forklarer hva som kan legges i noen av
       begrepene som brukes der. Tilslutning til nettverket er delvis uavhengig
@@ -1167,6 +1171,7 @@ export default function Home() {
           </span>
         </p>
       </Card>
+ */}
     </main>
   );
 }

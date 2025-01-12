@@ -10,6 +10,7 @@ export default function Home() {
       <h1 className="text-5xl font-bold m-6">Frifødsel Nettverk Blogg</h1>​​{" "}
       <div className="cover shrink-0 h-[30vw] w-[70vw]"></div>
       <br /> <br />{" "}
+      {/* =====
       <div className="m-12 p-8 lg:mx-48">
         <Card className="p-2 overflow-hidden">
           Her er en liste over blogger eid av nettverkets medlemmer:
@@ -72,6 +73,7 @@ export default function Home() {
           #villgraviditet #radikaltselvannsvar
         </Card>
       </div>
+ */}
     </main>
   );
 }

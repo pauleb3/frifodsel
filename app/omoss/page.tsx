@@ -11,6 +11,7 @@ export default function OmOss() {
       <h1 className="font-bold text-5xl m-auto text-center my-[5vh]">
         Om oss.
       </h1>
+      {/*
       <div className="p-[2vh] w-[80vw]">
         Vi er kvinner som har direkte erfaring med vill graviditet og frifødsel,
         som også inkluderer de som genuint ønsker å friføde sine fremtidige
@@ -469,6 +470,8 @@ export default function OmOss() {
           </div>
         </div>
       </div>
+
+ */}
     </main>
   );
 }

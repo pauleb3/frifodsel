@@ -12,6 +12,8 @@ export default function Home() {
         </h1>
         <br />
         <br />
+        {/**
+ * 
         Ved å tilslutte deg nettverket støtter du essensen av våre grunnleggende
         prinsipper, og våre grunnleggende prinsipper er utarbeidet av oss som
         utgjør nettverket. Alle tilsluttede individer kan snakke som
@@ -143,6 +145,7 @@ export default function Home() {
         <br /> - Fødsel handler ikke kun om kvinnene som føder, men også
         individene som blir født og deres rett på en varsom, fredelig og
         kjærlighetsfylt ankomst til verden.
+          */}
       </Card>
     </main>
   );

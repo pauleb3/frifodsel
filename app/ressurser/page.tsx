@@ -9,6 +9,7 @@ export default function Home() {
     <main className="flex min-h-screen p-16 flex-col items-center justify-between bg-pink-100">
       <h1 className="text-5xl font-bold mb-10">RESSURSER </h1>
       <br /> <br />
+      {/*
       Her finner du ressurser knyttet til frifødselnettverket. Det ligger en
       liste her med gode, inspirerende bøker. Du finner infoskriv som kan styrke
       deg i møte med helsevesenet. Våre åpne brev til offentlige etater,
@@ -349,6 +350,7 @@ export default function Home() {
         </div>
       </div>
       {/* ================================================== Section 2 ---------------- */}
+      {/* =====
       <div
         data-mesh-id="comp-m438gbt1inlineContent"
         data-testid="inline-content"
@@ -520,6 +522,7 @@ export default function Home() {
         </div>
       </div>
       {/* ============ Section 3 =================================================*/}
+      {/* =====
       <div
         data-mesh-id="comp-m439g04qinlineContent"
         data-testid="inline-content"
@@ -638,6 +641,7 @@ export default function Home() {
         </div>
       </div>
       {/** ============== Section 4 =================================== */}
+      {/* =====
       <div
         data-mesh-id="comp-m3xmt4ksinlineContent"
         data-testid="inline-content"
@@ -800,6 +804,7 @@ export default function Home() {
         </div>
       </div>
       {/** ============== Section 5 =================================== */}
+      {/* =====
       <div
         data-mesh-id="comp-m439p3b1inlineContent"
         data-testid="inline-content"
@@ -1076,6 +1081,7 @@ export default function Home() {
         </div>
       </div>
       {/** ============== Section 6 =================================== */}
+      {/* =====
       <div
         data-mesh-id="comp-m439v920inlineContent"
         data-testid="inline-content"
@@ -1201,6 +1207,8 @@ export default function Home() {
           </div>
         </div>
       </div>
+
+ */}
     </main>
   );
 }

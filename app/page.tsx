@@ -11,6 +11,9 @@ export default function Home() {
           FRIFØDSEL NETTVERK
         </h1>
         <br />
+        {/*
+
+
         Velkommen til frifodsel.net, en varmende plattform for frifødsel. 
         Her er både enige og uenige velkommen til å titte og forholde seg 
         til disse prinsippene som er gjort offentlig for å fremme klarhet, 
@@ -35,6 +38,7 @@ export default function Home() {
 
 
     
+        */}
       </Card>
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex"></div>
     </main>
