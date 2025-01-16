@@ -12,13 +12,74 @@ export default function OmOss() {
         Om oss.
       </h1>
       <div className="p-[2vh] w-[80vw]">
-        Vi er kvinner som har direkte erfaring med vill graviditet og frifødsel,
-        som også inkluderer de som genuint ønsker å friføde sine fremtidige
-        barn, og dernest mennesker som støtter, feirer og gleder seg over denne
-        typen graviditet og fødsel. Hvis du ønsker å tilslutte deg nettverket
-        tar du personlig kontakt med en av personene som er i nettverket nå. De
-        vil da godkjenne din beskrivelse av deg selv, ta imot et bilde av deg og
-        få det publisert på nettsiden.
+      Vi er kvinner som har direkte erfaring med vill graviditet og frifødsel,
+      og mennesker som støtter, feirer og gleder seg over denne typen graviditet
+      og fødsel. Ved å samle oss for frifødselssaken uten å være formelt organisert, 
+      kan vi invitere inn i den ikraftgjørende dynamikken ved et desentralisert nettverk. 
+      Dynamikken fanger ingen i kategoriene følger og forbruker, men lar alle forbli skapende individer.
+      <br /><br />
+      Hvis du ønsker å tilslutte deg nettverket tar du personlig 
+      kontakt med en av de som er i nettverket nå. De vil da 
+      godkjenne din beskrivelse av deg selv, ta imot et bilde 
+      av deg og få det publisert på nettsiden, på sikt.
+      <br /><br />
+      Av støttepersoner er traumeterapauter, 
+      frie fødselsvitner/birthkeepers 
+      og jurister/advokater etterspurt av 
+      folk i miljøene rundt frifødsel.
+      <br /><br />
+      Ulike terapauter:<br />
+      Det kan være ensomt å velge annerledes. 
+      Påbegynte frifødsler kan ende i vanskelige opplevelser som trenger å bearbeides. 
+      En fødsel innad i systemet kan bearbeides i 
+      kontrast til hva som er mulig å oppleve i en frifødsel. 
+      <br />
+      Om du er en traumeterapaut/coach som feirer frifødsel kan du 
+      tilslutte deg nettverket med presentasjon av deg selv og link 
+      til dine tjenester, slik at kvinner vet hvor de kan kontakte deg. 
+      <br /><br />
+      Birthkeeper: <br />
+      Frihetssøkende fødende kan ønske å motta støtte fra en birthkeeper 
+      (frifødselsdoula, fødselsvitne), og noen handler på et dypt kall til
+       å innta rollen. Birthkeepere, slik dette nettverket definerer det, 
+       tilbyr praktisk, emosjonell, psykologisk og energetisk støtte i svangerskap, 
+       fødsel og barseltid, med klare grenser og tydelig kommunikasjon.
+       <br />
+       Birthkeepers tar ikke på seg ansvar for utfallet av uassisterte fødsler, 
+       innehar ikke medisinsk ansvar og utfører ingen medisinske intervensjoner 
+       eller diagnostisering.
+       <br />
+       Jordmor er kanskje menneskeartens eldste yrke, og birthkeepere 
+       viderefører noen aspekter ved det. Mulighetspotensialet er en 
+       gjensidig samtykket relasjon som styrker og helbreder. 
+       Kvinneressonans og å bli holdt kan være berikende i en fødsel. 
+       Å få støtte en kvinne i fødsel, og et menneskets ankomst til jordlivet, 
+       er en ære som gir et uslåelig energetisk påfyll. 
+       <br />
+       I tråd med nettverkets prinsipper har birthkeepers et ansvar 
+       for å kun ta til seg klienter som er i stand til å ta fullt ansvar 
+       for seg selv og sin egen fødsel. Det er ikke hos den selvstendige 
+       birthkeeperen som fulgte en kvinne i graviditet eller fødsel ansvaret 
+       ligger dersom fødselen ender annerledes enn den fødende og hennes 
+       familie hadde ønsket.
+       <br />
+       Birthkeeperens frihet står i sterk kontrast til posisjonen 
+       helsepersonell er i når de må hjelpe alle som kommer til 
+       dem med et reelt behov, og hvor systemet de jobber i må 
+       stå til ansvar for utfallet. Birthkeepere er fritatt fra både plikt og ansvar.
+       <br />
+       Om du er en birthkeeper eller doula som feirer frifødsel, 
+       kan du tilslutte deg nettverket med presentasjon av deg 
+       selv og link til dine tjenester, slik at kvinner vet hvor de kan finne deg.
+       <br /><br />
+       Jurister og advokater:<br />
+       Frifødere og frie mødre kan trenge bistand fra advokater 
+       for å opprettholde foreldreretten for sine barn. 
+       Har du kompetanse på lovverket rundt foreldreskap og 
+       brenner for foresattes medisinske frihet på vegne av sine barn, 
+       tilslutt deg gjerne nettverket. 
+       <br /><br />
+
       </div>
       <Card className="w-full">
         <Card>
@@ -78,14 +139,13 @@ export default function OmOss() {
             <Accordion>
               <AccordionTab header="Maria Heiberg">
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident, sunt in culpa qui officia deserunt
-                  mollit anim id est laborum.
+                Hold deg oppdatert på hennes tjenester, retreats og coachingtilbud her https://www.mariaheiberg.com
+                <br/>
+
+                Og på Instagram @maria.heiberg
+              
+                <br/>
+
                 </p>
               </AccordionTab>
             </Accordion>
@@ -430,20 +490,6 @@ export default function OmOss() {
               <li>Hvorfor var frifødsel riktig for deg og dine barn?</li>
             </ol>
           </div>
-          <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw] m-3 p-5">
-            Hvis du tilslutter deg nettverket i kategorien «de som genuint
-            ønsker å friføde sine fremtidige barn», så kan du presente deg ved å
-            svare på disse spørsmålene:
-            <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
-              <li>
-                Beskriv din direkte, selvopplevde erfaring med graviditet og
-                fødsel:
-              </li>
-              <li>
-                Beskriv din direkte, selvopplevde erfaring med å være
-                fødselsvitne:
-              </li>
-              <li>Hva inspirerer deg ved frifødsel?</li>
             </ol>
           </div>
           <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw] m-3 p-5">

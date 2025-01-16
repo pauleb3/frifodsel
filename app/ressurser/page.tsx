@@ -9,7 +9,8 @@ export default function Home() {
     <main className="flex min-h-screen p-16 flex-col items-center justify-between bg-pink-100">
       <h1 className="text-5xl font-bold mb-10">RESSURSER </h1>
       <br /> <br />
-      Her finner du ressurser knyttet til frifødselnettverket. Det ligger en
+     <div className="mx-20" style={{ marginLeft: "10vw", width: "80vw" }}>
+       Her finner du ressurser knyttet til frifødselnettverket. Det ligger en
       liste her med gode, inspirerende bøker. Du finner infoskriv som kan styrke
       deg i møte med helsevesenet. Våre åpne brev til offentlige etater,
       myndigheter, organisasjoner, medier og andre er også å finne her. Her kan
@@ -28,6 +29,7 @@ export default function Home() {
         </ol>
         ​​​
       </Card>
+      </div>
       <div>
         <div className="w-[90vw] overflow-ellipsis">
           <div>

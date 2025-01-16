@@ -11,27 +11,35 @@ export default function Home() {
           FRIFØDSEL NETTVERK
         </h1>
         <br />
-        Velkommen til frifodsel.net, en varmende plattform for frifødsel. 
-        Her er både enige og uenige velkommen til å titte og forholde seg 
-        til disse prinsippene som er gjort offentlig for å fremme klarhet, 
-        dialog og forståelse. Nettsiden representerer ikke en organisasjon,  
-        men derimot et desentralisert nettverk for kvinner som har direkte 
-        erfaring med vill graviditet og frifødsel, i tillegg til mennesker 
-        som støtter, feirer og gleder seg over denne typen graviditet og fødsel. 
-        <br /> <br />
+        Velkommen til frifodsel.net, en varmende plattform for frifødsel.
+        Her er både enige og uenige velkommen til å titte og forholde seg til 
+        innholdet som er gjort tilgjengelig for å fremme klarhet, dialog og forståelse. 
+        <br />
+        Nettsiden representerer ikke en organisasjon, men derimot et desentralisert 
+        nettverk for kvinner som har direkte erfaring med vill graviditet og frifødsel, 
+        i tillegg til mennesker som støtter, feirer og gleder seg over denne typen 
+        graviditet og fødsel. 
+        <br />
         Nettsiden er en kilde til, og en kilde til andre kilder til, 
-        erfaringsbasert kunnskap om å navigere i det norske samfunn 
-        som vill gravid, friføder og vill og fri mor. 
-        Siden inneholder ikke medisinske råd. Det som 
-        deles er tidvis sterke meninger om helsevesenets praksiser, 
-        men en slik diskusjon må ikke misforstås som 
-        medisinske råd til pasienter. 
-        I tråd med våre prinsipper oppfordrer vi ikke til spesifikk handling, 
-        men til en holdning av radikalt selvansvar. Vi oppfordrer til å tenke 
-        på det som står her, men ikke handle på det. Handling er opp til deg. 
-        Våre prinsipper oppfordrer til å handle motivert av personlig integritet, 
-        med et integrert forhold til ytre autoritet. 
+        erfaringer og tanker om å navigere i det norske samfunn 
+        som vill gravid, friføder og vill og fri mor.
+        <br />
+         Siden inneholder ikke medisinske råd. <br />
 
+         Det som deles er tidvis sterk, ufaglært forankret, 
+         kritikk av helsevesenets praksiser. 
+         Denne diskusjonen går innunder ytringsfriheten og må 
+         ikke misforstås som medisinske råd til pasienter. 
+         I tråd med våre prinsipper oppfordrer vi ikke til spesifikk handling, 
+         men til en holdning av radikalt selvansvar og personlig integritet. 
+         Vi oppfordrer til å tenke på det som står her, 
+         men ikke handle på det. Din handling er opp til deg. 
+         <br /> <br />
+         Ansvarsfraskrivelse: 
+         Nettverkets tilsluttede individer fraskriver seg alt 
+         ansvar for hvordan du lar innholdet på denne nettsiden 
+         påvirker deg, og konsekvenser av dine etterfølgende handlinger. 
+         <br />
 
 
     
