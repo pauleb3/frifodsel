@@ -18,10 +18,10 @@ export default function Home() {
           Anja Bache-Wiig Solberg:{" "}
           <Button
             className="text-left"
-            label="anbawiso5.wixsite.com/anjabws/"
+            label="www.anjabache-wiigsolberg.no"
             link
             onClick={() =>
-              window.open("https://anbawiso5.wixsite.com/anjabws/", "_blank")
+              window.open("https://www.anjabache-wiigsolberg.no", "_blank")
             }
           />
           <br /> Helene B. Clarke:{" "}
@@ -69,7 +69,7 @@ export default function Home() {
           blogg:
           <br />
           #frifodselnet #frifodsel #fodselsfrihet #kvinneligfodsel
-          #villgraviditet #radikaltselvannsvar
+          #villgraviditet #radikaltselvansvar
         </Card>
       </div>
     </main>

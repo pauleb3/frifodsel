@@ -12,74 +12,81 @@ export default function OmOss() {
         Om oss.
       </h1>
       <div className="p-[2vh] w-[80vw]">
-      Vi er kvinner som har direkte erfaring med vill graviditet og frifødsel,
-      og mennesker som støtter, feirer og gleder seg over denne typen graviditet
-      og fødsel. Ved å samle oss for frifødselssaken uten å være formelt organisert, 
-      kan vi invitere inn i den ikraftgjørende dynamikken ved et desentralisert nettverk. 
-      Dynamikken fanger ingen i kategoriene følger og forbruker, men lar alle forbli skapende individer.
-      <br /><br />
-      Hvis du ønsker å tilslutte deg nettverket tar du personlig 
-      kontakt med en av de som er i nettverket nå. De vil da 
-      godkjenne din beskrivelse av deg selv, ta imot et bilde 
-      av deg og få det publisert på nettsiden, på sikt.
-      <br /><br />
-      Av støttepersoner er traumeterapauter, 
-      frie fødselsvitner/birthkeepers 
-      og jurister/advokater etterspurt av 
-      folk i miljøene rundt frifødsel.
-      <br /><br />
-      Ulike terapauter:<br />
-      Det kan være ensomt å velge annerledes. 
-      Påbegynte frifødsler kan ende i vanskelige opplevelser som trenger å bearbeides. 
-      En fødsel innad i systemet kan bearbeides i 
-      kontrast til hva som er mulig å oppleve i en frifødsel. 
-      <br />
-      Om du er en traumeterapaut/coach som feirer frifødsel kan du 
-      tilslutte deg nettverket med presentasjon av deg selv og link 
-      til dine tjenester, slik at kvinner vet hvor de kan kontakte deg. 
-      <br /><br />
-      Birthkeeper: <br />
-      Frihetssøkende fødende kan ønske å motta støtte fra en birthkeeper 
-      (frifødselsdoula, fødselsvitne), og noen handler på et dypt kall til
-       å innta rollen. Birthkeepere, slik dette nettverket definerer det, 
-       tilbyr praktisk, emosjonell, psykologisk og energetisk støtte i svangerskap, 
-       fødsel og barseltid, med klare grenser og tydelig kommunikasjon.
-       <br />
-       Birthkeepers tar ikke på seg ansvar for utfallet av uassisterte fødsler, 
-       innehar ikke medisinsk ansvar og utfører ingen medisinske intervensjoner 
-       eller diagnostisering.
-       <br />
-       Jordmor er kanskje menneskeartens eldste yrke, og birthkeepere 
-       viderefører noen aspekter ved det. Mulighetspotensialet er en 
-       gjensidig samtykket relasjon som styrker og helbreder. 
-       Kvinneressonans og å bli holdt kan være berikende i en fødsel. 
-       Å få støtte en kvinne i fødsel, og et menneskets ankomst til jordlivet, 
-       er en ære som gir et uslåelig energetisk påfyll. 
-       <br />
-       I tråd med nettverkets prinsipper har birthkeepers et ansvar 
-       for å kun ta til seg klienter som er i stand til å ta fullt ansvar 
-       for seg selv og sin egen fødsel. Det er ikke hos den selvstendige 
-       birthkeeperen som fulgte en kvinne i graviditet eller fødsel ansvaret 
-       ligger dersom fødselen ender annerledes enn den fødende og hennes 
-       familie hadde ønsket.
-       <br />
-       Birthkeeperens frihet står i sterk kontrast til posisjonen 
-       helsepersonell er i når de må hjelpe alle som kommer til 
-       dem med et reelt behov, og hvor systemet de jobber i må 
-       stå til ansvar for utfallet. Birthkeepere er fritatt fra både plikt og ansvar.
-       <br />
-       Om du er en birthkeeper eller doula som feirer frifødsel, 
-       kan du tilslutte deg nettverket med presentasjon av deg 
-       selv og link til dine tjenester, slik at kvinner vet hvor de kan finne deg.
-       <br /><br />
-       Jurister og advokater:<br />
-       Frifødere og frie mødre kan trenge bistand fra advokater 
-       for å opprettholde foreldreretten for sine barn. 
-       Har du kompetanse på lovverket rundt foreldreskap og 
-       brenner for foresattes medisinske frihet på vegne av sine barn, 
-       tilslutt deg gjerne nettverket. 
-       <br /><br />
-
+        Vi er kvinner som har direkte erfaring med vill graviditet og frifødsel,
+        og mennesker som støtter, feirer og gleder seg over denne typen
+        graviditet og fødsel. Ved å samle oss for frifødselssaken uten å være
+        formelt organisert, kan vi invitere inn i den ikraftgjørende dynamikken
+        ved et desentralisert nettverk. Dynamikken fanger ingen i kategoriene
+        følger og forbruker, men lar alle forbli skapende individer.
+        <br />
+        <br />
+        Hvis du ønsker å tilslutte deg nettverket tar du personlig kontakt med
+        en av de som er i nettverket nå. De vil da godkjenne din beskrivelse av
+        deg selv, ta imot et bilde av deg og få det publisert på nettsiden, på
+        sikt.
+        <br />
+        <br />
+        Av støttepersoner er traumeterapauter, frie fødselsvitner/birthkeepers
+        og jurister/advokater etterspurt av folk i miljøene rundt frifødsel.
+        <br />
+        <br />
+        Ulike terapauter:
+        <br />
+        Det kan være ensomt å velge annerledes. Påbegynte frifødsler kan ende i
+        vanskelige opplevelser som trenger å bearbeides. En fødsel innad i
+        systemet kan bearbeides i kontrast til hva som er mulig å oppleve i en
+        frifødsel.
+        <br />
+        Om du er en traumeterapaut/coach som feirer frifødsel kan du tilslutte
+        deg nettverket med presentasjon av deg selv og link til dine tjenester,
+        slik at kvinner vet hvor de kan kontakte deg.
+        <br />
+        <br />
+        Birthkeeper: <br />
+        Frihetssøkende fødende kan ønske å motta støtte fra en birthkeeper
+        (frifødselsdoula, fødselsvitne), og noen handler på et dypt kall til å
+        innta rollen. Birthkeepere, slik dette nettverket definerer det, tilbyr
+        praktisk, emosjonell, psykologisk og energetisk støtte i svangerskap,
+        fødsel og barseltid, med klare grenser og tydelig kommunikasjon.
+        <br />
+        Birthkeepers tar ikke på seg ansvar for utfallet av uassisterte fødsler,
+        innehar ikke medisinsk ansvar og utfører ingen medisinske intervensjoner
+        eller diagnostisering.
+        <br />
+        Jordmor er kanskje menneskeartens eldste yrke, og birthkeepere
+        viderefører noen aspekter ved det. Mulighetspotensialet er en gjensidig
+        samtykket relasjon som styrker og helbreder. Kvinneressonans og å bli
+        holdt kan være berikende i en fødsel. Å få støtte en kvinne i fødsel, og
+        et menneskets ankomst til jordlivet, er en ære som gir et uslåelig
+        energetisk påfyll.
+        <br />
+        I tråd med nettverkets prinsipper har birthkeepers et ansvar for å kun
+        ta til seg klienter som er i stand til å ta fullt ansvar for seg selv og
+        sin egen fødsel. Det er ikke hos den selvstendige birthkeeperen som
+        fulgte en kvinne i graviditet eller fødsel ansvaret ligger dersom
+        fødselen ender annerledes enn den fødende og hennes familie hadde
+        ønsket.
+        <br />
+        Birthkeeperens frihet står i sterk kontrast til posisjonen
+        helsepersonell er i når de må hjelpe alle som kommer til dem med et
+        reelt behov, og hvor systemet de jobber i må stå til ansvar for
+        utfallet. Birthkeepere er fritatt fra både plikt og ansvar.
+        <br />
+        Om du er en birthkeeper eller doula som feirer frifødsel, kan du
+        tilslutte deg nettverket med presentasjon av deg selv og link til dine
+        tjenester, slik at kvinner vet hvor de kan finne deg.
+        <br />
+        <br />
+        Jurister og advokater:
+        <br />
+        Frifødere og frie mødre kan trenge bistand fra advokater for å
+        opprettholde foreldreretten for sine barn. Har du kompetanse på
+        lovverket rundt foreldreskap og brenner for foresattes medisinske frihet
+        på vegne av sine barn, tilslutt deg gjerne nettverket.
+        <br />
+        <br />
+        <br />
+        <br />
       </div>
       <Card className="w-full">
         <Card>
@@ -118,14 +125,22 @@ export default function OmOss() {
                   fødsel podkast Kontakt meg via instagram
                   <Button
                     className="text-left"
-                    label="instagram.com/marendybvik"
+                    label="@marendybvik"
                     link
                     onClick={() =>
                       window.open("https://instagram.com/marendybvik", "_blank")
                     }
                   />
                   <br />
-                  eller mail marendybvik@gmail.com
+                  eller mail marendybvik@gmail.com Book coaching:
+                  <Button
+                    className="text-left"
+                    label="https://stan.store/marendybvik/"
+                    link
+                    onClick={() =>
+                      window.open("https://stan.store/marendybvik/", "_blank")
+                    }
+                  />
                 </p>
               </AccordionTab>
             </Accordion>
@@ -139,13 +154,30 @@ export default function OmOss() {
             <Accordion>
               <AccordionTab header="Maria Heiberg">
                 <p className="m-0">
-                Hold deg oppdatert på hennes tjenester, retreats og coachingtilbud her https://www.mariaheiberg.com
-                <br/>
-
-                Og på Instagram @maria.heiberg
-              
-                <br/>
-
+                  Hold deg oppdatert på hennes tjenester, retreats og
+                  coachingtilbud her:
+                  <Button
+                    className="text-left"
+                    label="www.mariaheiberg.com"
+                    link
+                    onClick={() =>
+                      window.open("https://www.mariaheiberg.com", "_blank")
+                    }
+                  />
+                  <br />
+                  Instagram
+                  <Button
+                    className="text-left"
+                    label="@maria.heiberg"
+                    link
+                    onClick={() =>
+                      window.open(
+                        "https://www.instagram.com/maria.heiberg/",
+                        "_blank"
+                      )
+                    }
+                  />
+                  <br />
                 </p>
               </AccordionTab>
             </Accordion>
@@ -159,35 +191,41 @@ export default function OmOss() {
             <Accordion>
               <AccordionTab header="Anja Bache-Wiig Solberg">
                 <p className="m-0">
-                  Jeg har gjennomgått en 9 måneder lang vill graviditet og
-                  frifødte mitt foreløpig eneste barn i Juni 2022. Dette sto jeg
-                  frem med i VG i 2024. Jeg opplevde graviditeten og fødselen
-                  som naturlig og selvsagt, etter å ha jobbet meg gjennom en del
-                  antakelser, følelser og forventninger både før jeg tenkte på å
-                  få barn og i løpet av graviditeten med sønnen min. Det var
-                  gjennom Freya Kellet sin Instagramprofil jeg ble introdusert
-                  for frifødsel, og jeg lot det påvirke meg fordi det resonnerte
-                  med mitt verdensbilde.
+                  Jeg har levd omtrent 270 av mine livsdager som «vill gravid»
+                  og frifødte mitt foreløpig eneste barn i juni 2022. Dette sto
+                  jeg frem med i VG i 2024. Jeg opplevde graviditeten og
+                  fødselen som naturlig og selvgående, etter å ha jobbet meg
+                  gjennom en del antakelser, følelser og forventninger både før
+                  jeg tenkte på å få barn og i løpet av graviditeten med sønnen
+                  min. Det var gjennom Freya Kellet sin Instagramprofil jeg ble
+                  introdusert for frifødsel, og jeg lot det påvirke meg fordi
+                  det resonnerte med mitt verdensbilde.
                   <br /> <br />
                   Jeg har ingen erfaring med å vitne menneskefødsler, men har
                   observert både familiekatten og familiehunden føde flere
                   ganger i løpet av oppveksten min. Dyrene og planterikets evne
                   til å springe ut i sitt eget tempo var min største
-                  inspirasjon, i tillegg til kroppsliggjorte erfaringer av
-                  tilstedeværelse, intensitet og pust gjennom yoga. <br />
+                  inspirasjon, i tillegg til The Complete Guide to Freebirth, og
+                  kroppsliggjorte erfaringer av tilstedeværelse, intensitet og
+                  pust gjennom yoga.
+                  <br />
                   <br />
                   Frifødsel var riktig for meg og mitt barn på grunn av dets
                   helsebevarende effekt. Roen, privatlivet og varsomheten det
                   setter ut i liv var også viktig for oss. Valget har gjort det
-                  enkelt å integrere opplevelsen og feire sønnen min sine
-                  fødselsdager uten forstyrrende tanker om hva jeg måtte utholde
-                  for å bringe han til verden, for det var ingen ting. I stedet
-                  var fødselen et hverdagslig og ikraftgjørende overgangsritual.
+                  enkelt å integrere opplevelsen og feire sønnen min sin første
+                  fødselsdag uten forstyrrende tanker om hva jeg måtte utholde
+                  for å bringe ham til verden - for det var ingen ting. Fødselen
+                  var i stedet et hverdagslig, med dypt ikraftgjørende
+                  overgangsritual for meg og en varsom start på livet for ham.
                   <br />
                   <br />
                   Dersom vi kjenner hverandre direkte eller indirekte, er jeg
                   her for å diskutere alt mulig. Jeg har en nettside du kan
-                  finne her:{" "}
+                  finne her: www.anjabache-wiigsolberg.no og en instagramprofil
+                  som heter: annjannas Dersom vi kjenner hverandre direkte eller
+                  indirekte, er jeg her for å diskutere alt mulig. Jeg har en
+                  nettside du kan finne her:{" "}
                   <Button
                     className="text-left"
                     label="www.anjabache-wiigsolberg.no"
@@ -198,23 +236,10 @@ export default function OmOss() {
                   />
                   <br />
                   <br />
-                  <Button
-                    className="text-left"
-                    label="https://anbawiso5.wixsite.com/anjabws/"
-                    link
-                    onClick={() =>
-                      window.open(
-                        "https://anbawiso5.wixsite.com/anjabws/",
-                        "_blank"
-                      )
-                    }
-                  />
-                  <br />
-                  <br />
                   og en instagramprofil som heter:
                   <Button
                     className="text-left"
-                    label="annjannas"
+                    label="@annjannas"
                     link
                     onClick={() =>
                       window.open("https://instagram.com/annjannas", "_blank")
@@ -240,7 +265,7 @@ export default function OmOss() {
                   veldig forskjellige fødsler. Jeg har alltid ønsket meg
                   hjemmefødsel, men mitt første barn ble født med et planlagt
                   keisersnitt pga seteleie. Mitt andre barn ble født ved en
-                  ufrivillig VBAC-sykehusfødsel, Dette var fordi hjemmejordmor
+                  ufrivillig VBAC-sykehusfødsel, dette var fordi hjemmejordmor
                   ikke fikk lov til å støtte meg pga. tidligere keisersnitt. Det
                   har satt sine traumespor. Nummer tre og nummer fire var
                   spontanaborter, som jeg fødte uassistert hjemme i full frihet.
@@ -354,36 +379,38 @@ export default function OmOss() {
                   Jeg har født to ganger og har både erfaring med en igangsatt
                   fødsel på sykehus i 2021 og deretter en frifødsel hjemme i
                   2024. Den første fødselen ble en vanskelig opplevelse for meg
-                  og barnet, og sykhusfødsel fristet ikke til gjentagelse. Da
-                  jeg ble gravid for andre gang begynte jeg å utforske å føde
-                  hjemme. Etter at jeg leste jeg Laura Kaplan Shanlys bok
+                  og barnet. Da jeg ble gravid for andre gang begynte jeg å
+                  utforske å føde hjemme. Jeg leste Laura Kaplan Shanlys bok
                   Unnasisted Childbirth, om hvordan vi bidrar til å skape vår
-                  egen virkelighet. Hvor hun også nevner det antropologiske
-                  arbeidet til Marjorie Shostak om !Kung San folket, der hun
-                  beskriver anekdotisk at !Kung-kvinner har kunnet føde alene,
-                  jeg var overbevist om at jeg også kunne gjøre det.
+                  egen virkelighet. Shanley refererer også til Marjorie Shostak
+                  sitt antropologiske arbeid om !Kung San folket, og hvordan
+                  kvinnene deres sikter mot å føde alene. Det traff meg dypt og
+                  jeg ble overbevist om at jeg også kunne gjøre det.
                   <br />
-                  <br /> En uforstyrret fysiologisk fødsel la også til rette for
-                  det jeg anså som en mest mulig skånsom overgang til livet
-                  utenfor livmor. Jeg anser fødselsprosessen og den første tiden
-                  etter fødselen som svært betydningsfull for tilknytning og
-                  helsen resten av livet, og derfor viktig å verne om. Ved å
-                  oppholde meg på et privat og uforstyrret sted, var det mulig
-                  for meg å velge en smertefri fødsel i full hengivenhet til
-                  Gud. <br />
+                  <br />
+                  En uforstyrret fysiologisk fødsel la også til rette for det
+                  jeg anså som en mest mulig skånsom overgang til livet utenfor
+                  livmor. Jeg anser fødselsprosessen og den første tiden etter
+                  fødselen som svært betydningsfull for tilknytning og helsen
+                  resten av livet, og derfor viktig å verne om. Ved å oppholde
+                  meg på et privat og uforstyrret sted, var det mulig for meg å
+                  oppleve en smertefri fødsel i full hengivenhet til Gud.
+                  <br />
                   <br />
                   Jeg har ingen erfaring som fødselsvitne. Jeg er overbevist om
-                  at kvinner i de aller fleste tilfeller kan føde uten å bli
-                  observert, altså at det ikke er nødvendig å ha en annen der.
-                  Jeg anerkjenner at noen fødekvinner likevel har et stort ønske
-                  om å bli vitnet. <br />
+                  at kvinnekroppen i de aller fleste tilfeller er kapabel til å
+                  føde uten å bli undersøkt og observert. Jeg anerkjenner at
+                  noen fødekvinner likevel har et stort ønske om å bli vitnet
+                  eller støttet.
+                  <br />
                   <br />I mitt andre svangerskap unngikk jeg de rutinemessige
-                  svangerskapskontrollene, noe som bidro til å styrke kontakten
+                  svangerskapskontrollene, og dette bidro til å styrke kontakten
                   med min egen intuisjon. Jeg er interessert i å lære mer om
                   andres opplevelser i fødsel, og forskjellige måter å se verden
                   på. Jeg ser at diskusjon og meningsutveksling er en kilde til
-                  læring. Mine interesser er yoga, meditasjon, antropologi, og
-                  historier. <br />
+                  læring. Mine interesser er yoga, meditasjon, antropologi og
+                  historier.
+                  <br />
                   <br />
                   Ønsker du kontakt kan du finne min kontakinfo og mine
                   tjenester og på{" "}
@@ -431,38 +458,6 @@ export default function OmOss() {
         </Card>
       </Card>
 
-      <div className="p-[2vh] w-[80vw]">
-        Vi er kvinner som har direkte erfaring med vill graviditet og frifødsel,
-        som også inkluderer de som genuint ønsker å friføde sine fremtidige
-        barn, og dernest mennesker som støtter, feirer og gleder seg over denne
-        typen graviditet og fødsel. ​​​​​
-        <br />
-        <br /> Av støttepersoner er spesielt traumeterapauter og birthkeepers
-        svært tiltrengt. <br />
-        <br />
-        Traumeterapauter:
-        <br />
-        Frifødere kan trenge traumeterapi. Det kan være ensomt å velge
-        annerledes. Påbegynte frifødsler kan ende i mange vanskelige opplevelser
-        som trenger å bearbeides. En fødsel innad i systemet kan bearbeides i
-        kontrast til hva som er mulig å oppleve i en frifødsel. Det er også
-        mulig at det oppstår ødeleggende og maktskjeve dynamikker mellom en
-        frifødselsdoula og en fødende. Om du er en traumeterapaut som feirer
-        frifødsel, tilslutt deg nettverket med presentasjon av deg selv og link
-        til dine tjenester, slik at kvinner vet hvor de kan finne støtte som er
-        trygg for dem.
-        <br />
-        <br /> Birthkeeper: <br />
-        Frifødende kan ønske en birthkeeper. Det er en som støtter kvinner i det
-        hun ønsker, tilbyr emosjonell, psykologisk og energetisk støtte i
-        svangerskap, fødsel og barseltid. Birthkeepers tar ikke på seg medisinsk
-        ansvar, og må kun ta til seg klienter som er i stand til å ta fullt
-        ansvar for sin egen fødsel. Andre begreper som blir brukt er
-        frifødsel-doula eller fødselsvitne som synonymt med birthkeeper. Om du
-        er en birthkeeper eller doula som feirer frifødsel, tilslutt deg
-        nettverket med presentasjon av deg selv og link til dine tjenester, slik
-        at kvinner vet hvor de kan finne støtte som er trygg for dem.
-      </div>
       <div className="bg-white">
         <h1 className="font-bold text-3xl m-auto text-center py-10">
           Ønsker du å slutte deg til nettverket?
@@ -473,47 +468,45 @@ export default function OmOss() {
           beskrivelse av deg selv, ta imot et bilde av deg og få det publisert
           på nettsiden.
         </div>
-        <div className="lg:flex lg:flex-row md:flex-col justify-evenly">
-          <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw] m-3 p-5">
-            Hvis du tilslutter deg nettverket i kategorien «kvinner som har
-            direkte erfaring med vill graviditet og frifødsel», så kan du
-            presente deg ved å svare på disse spørsmålene:{" "}
-            <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
-              <li>
-                Beskriv din direkte, selvopplevde erfaring med vill graviditet
-                og frifødsel:
-              </li>
-              <li>
-                Beskriv din direkte, selvopplevde erfaring med å være
-                fødselsvitne:
-              </li>
-              <li>Hvorfor var frifødsel riktig for deg og dine barn?</li>
-            </ol>
-          </div>
-            </ol>
-          </div>
-          <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw] m-3 p-5">
-            Spørsmål for deg som tilslutter deg nettverket i kategorien
-            «mennesker som støtter, feirer og gleder seg over denne typen
-            graviditet og fødsel» uten nødvendigvis å ha opplevd det selv eller
-            ha utsikter til å oppleve det i fremtiden. Fortell det du vet og
-            ønsker å dele om din egen fødsel, altså da du kom til verden:
-            <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
-              <li>
-                Beskriv din direkte, selvopplevde erfaring med å føde og å være
-                fødselsvitne:
-              </li>
-              <li>
-                Hva er grunnene til at du støtter og feirer frifødsel og vill
-                graviditet?
-              </li>
-              <li>
-                Hva kan du tilby av støtte og hjelp, og hvor finner vi
-                beskrivelsen av dine eventuelle tjenester?
-              </li>
-            </ol>
-          </div>
+      
+      </div>
+      <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw] m-3 p-5">
+      <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw]">
+      <br/><br/><br/><br/><br/>Hvis du tilslutter deg nettverket i kategorien «kvinner som har
+          direkte erfaring med vill graviditet og frifødsel», så kan du presente
+          deg ved å svare på disse spørsmålene:{" "}
+          <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
+            <li>
+              Beskriv din direkte, selvopplevde erfaring med vill graviditet og
+              frifødsel.
+            </li>
+            <li>
+              Beskriv din direkte, selvopplevde erfaring med å være
+              fødselsvitne.
+            </li>
+            <li>Hvorfor var frifødsel riktig for deg og dine barn?</li>
+          </ol>
         </div>
+        <br/><br/><br/><br/><br/>
+        Spørsmål for deg som tilslutter deg nettverket i kategorien «mennesker
+        som støtter, feirer og gleder seg over denne typen graviditet og fødsel»
+        uten nødvendigvis å ha opplevd det selv eller ha utsikter til å oppleve
+        det i fremtiden. Fortell det du vet og ønsker å dele om din egen fødsel,
+        altså da du kom til verden:
+        <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
+          <li>
+            Beskriv din direkte, selvopplevde erfaring med å føde og å være
+            fødselsvitne.
+          </li>
+          <li>
+            Hva er grunnene til at du støtter og feirer frifødsel og vill
+            graviditet?
+          </li>
+          <li>
+            Hva kan du tilby av støtte og hjelp, og hvor finner vi beskrivelsen
+            av dine eventuelle tjenester?<br/><br/><br/>
+          </li>
+        </ol>
       </div>
     </main>
   );

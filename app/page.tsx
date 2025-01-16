@@ -14,17 +14,17 @@ export default function Home() {
         Velkommen til frifodsel.net, en varmende plattform for frifødsel.
         Her er både enige og uenige velkommen til å titte og forholde seg til 
         innholdet som er gjort tilgjengelig for å fremme klarhet, dialog og forståelse. 
-        <br />
+        <br /><br />
         Nettsiden representerer ikke en organisasjon, men derimot et desentralisert 
         nettverk for kvinner som har direkte erfaring med vill graviditet og frifødsel, 
         i tillegg til mennesker som støtter, feirer og gleder seg over denne typen 
         graviditet og fødsel. 
-        <br />
+        <br /><br />
         Nettsiden er en kilde til, og en kilde til andre kilder til, 
         erfaringer og tanker om å navigere i det norske samfunn 
         som vill gravid, friføder og vill og fri mor.
-        <br />
-         Siden inneholder ikke medisinske råd. <br />
+        <br /><br />
+         Siden inneholder ikke medisinske råd. <br /><br />
 
          Det som deles er tidvis sterk, ufaglært forankret, 
          kritikk av helsevesenets praksiser. 
@@ -34,12 +34,12 @@ export default function Home() {
          men til en holdning av radikalt selvansvar og personlig integritet. 
          Vi oppfordrer til å tenke på det som står her, 
          men ikke handle på det. Din handling er opp til deg. 
-         <br /> <br />
+         <br /> <br /><br />
          Ansvarsfraskrivelse: 
          Nettverkets tilsluttede individer fraskriver seg alt 
          ansvar for hvordan du lar innholdet på denne nettsiden 
          påvirker deg, og konsekvenser av dine etterfølgende handlinger. 
-         <br />
+         <br /><br /><br />
 
 
     
