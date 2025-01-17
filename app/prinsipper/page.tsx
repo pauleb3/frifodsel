@@ -190,9 +190,27 @@ export default function Home() {
          - Menstruasjonsblod og blodet som viser seg under og etter fødselen er rent, vakkert og livgivende.
          <br />
          <br />
-         En frifødsel speiler den kjærlighetsfylte, 
+         - En frifødsel speiler den kjærlighetsfylte, 
          hjemmekoselige og private unnfangelsen fri for medisinsk overvåkning og innblanding.   <br />
-         <br />
+         <br /> <br /> <br /> <br />
+         
+         
+         
+         Sitter du igjen med en opplevelse av å bli dømt og vurdert etter å ha lest prinsippene? 
+         Som en kur mot dette inviterer vi til å tolke prinsippene på en både-og-måte. 
+         Ofte kan vi falle inn i å tenke enten-eller, i skarpe dikotomier. 
+         Ta for eksempel første prinsipp «Fullstendig fysiologisk, naturlig og fri 
+         fødsel kan kun skje i fravær av helsepersonell». Dikotomisk kan det høres ut 
+         som at en god fødsel er slik, og at det betyr at alle andre fødsler er dårlige. 
+         Men, virkeligheten er paradoksal og kompleks. En fysiologisk fødsel er virkelig bra. D
+         et ønsker vi at anerkjennes. Og en annen type fødsel kan være bra, og en tredje type fødsel 
+         kan være bra. Selv om en ting er sant, er ikke det motsatte nødvendigvis usant. 
+         La oss skape dialog gjennom både-og-tenkning.
+         <br /> <br /> <br />
+         Ansvarsfraskrivelse: Disse prinsippene utgjør verken medisinsk eller juridisk rådgivning.
+          Du er selv fullt ansvarlig for å holde deg oppdatert på gjeldende medisinske anbefalinger 
+          og lovverk. Videre er du ansvarlig for eventuelle konsekvenser av å adoptere eller følge 
+          disse prinsippene som dine egne. <br /> <br /> <br />
 
      
       </Card>
