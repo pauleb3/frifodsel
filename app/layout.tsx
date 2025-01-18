@@ -27,6 +27,9 @@ export default function RootLayout({
         <body className={inter.className}>
           <NavBar />
           {children}
+          <footer className="text-right bg-slate-200 border-t-2 p-16">
+            <span className="text-xl bold">Frifødsel nettverk 2025</span>
+          </footer>{" "}
         </body>
       </html>
     </PrimeReactProvider>

@@ -8,9 +8,7 @@ import { Button } from "primereact/button";
 export default function OmOss() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between text-black bg-pink-100">
-      <h1 className="font-bold text-5xl m-auto text-center my-[5vh]">
-        Om oss.
-      </h1>
+      <h1 className="font-bold text-5xl m-auto text-center my-[5vh]">Om oss</h1>
       <div className="p-[2vh] w-[80vw]">
         Vi er kvinner som har direkte erfaring med vill graviditet og frifødsel,
         og mennesker som støtter, feirer og gleder seg over denne typen
@@ -30,65 +28,80 @@ export default function OmOss() {
         og jurister/advokater etterspurt av folk i miljøene rundt frifødsel.
         <br />
         <br />
-        Ulike terapauter:
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">
+            {" "}
+            Ulike terapauter:{" "}
+          </span>
+          <br />
+          Det kan være ensomt å velge annerledes. Påbegynte frifødsler kan ende
+          i vanskelige opplevelser som trenger å bearbeides. En fødsel innad i
+          systemet kan bearbeides i kontrast til hva som er mulig å oppleve i en
+          frifødsel.
+          <br />
+          Om du er en traumeterapaut/coach som feirer frifødsel kan du tilslutte
+          deg nettverket med presentasjon av deg selv og link til dine
+          tjenester, slik at kvinner vet hvor de kan kontakte deg.
+          <br />
+          <br />
+        </p>
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">Birthkeeper: </span>
+          <br />
+          Frihetssøkende fødende kan ønske å motta støtte fra en birthkeeper
+          (frifødselsdoula, fødselsvitne), og noen handler på et dypt kall til å
+          innta rollen. Birthkeepere, slik dette nettverket definerer det,
+          tilbyr praktisk, emosjonell, psykologisk og energetisk støtte i
+          svangerskap, fødsel og barseltid, med klare grenser og tydelig
+          kommunikasjon.
+          <br />
+          Birthkeepers tar <span className="italic">ikke</span> på seg ansvar
+          for utfallet av uassisterte fødsler, innehar ikke medisinsk ansvar og
+          utfører ingen medisinske intervensjoner eller diagnostisering.
+          <br />
+          Jordmor er kanskje menneskeartens eldste yrke, og birthkeepere
+          viderefører noen aspekter ved det. Mulighetspotensialet er en
+          gjensidig samtykket relasjon som styrker og helbreder. Kvinneressonans
+          og å bli holdt kan være berikende i en fødsel. Å få støtte en kvinne i
+          fødsel, og et menneskets ankomst til jordlivet, er en ære som gir et
+          uslåelig energetisk påfyll.
+          <br />
+          I tråd med nettverkets prinsipper har birthkeepers et ansvar for å kun
+          ta til seg klienter som er i stand til å ta fullt ansvar for seg selv
+          og sin egen fødsel. Det er ikke hos den selvstendige birthkeeperen som
+          fulgte en kvinne i graviditet eller fødsel ansvaret ligger dersom
+          fødselen ender annerledes enn den fødende og hennes familie hadde
+          ønsket.
+          <br />
+          Birthkeeperens frihet står i sterk kontrast til posisjonen
+          helsepersonell er i når de må hjelpe alle som kommer til dem med et
+          reelt behov, og hvor systemet de jobber i må stå til ansvar for
+          utfallet. Birthkeepere er fritatt fra både plikt og ansvar.
+          <br />
+          Om du er en birthkeeper eller doula som feirer frifødsel, kan du
+          tilslutte deg nettverket med presentasjon av deg selv og link til dine
+          tjenester, slik at kvinner vet hvor de kan finne deg.
+        </p>
         <br />
-        Det kan være ensomt å velge annerledes. Påbegynte frifødsler kan ende i
-        vanskelige opplevelser som trenger å bearbeides. En fødsel innad i
-        systemet kan bearbeides i kontrast til hva som er mulig å oppleve i en
-        frifødsel.
-        <br />
-        Om du er en traumeterapaut/coach som feirer frifødsel kan du tilslutte
-        deg nettverket med presentasjon av deg selv og link til dine tjenester,
-        slik at kvinner vet hvor de kan kontakte deg.
         <br />
         <br />
-        Birthkeeper: <br />
-        Frihetssøkende fødende kan ønske å motta støtte fra en birthkeeper
-        (frifødselsdoula, fødselsvitne), og noen handler på et dypt kall til å
-        innta rollen. Birthkeepere, slik dette nettverket definerer det, tilbyr
-        praktisk, emosjonell, psykologisk og energetisk støtte i svangerskap,
-        fødsel og barseltid, med klare grenser og tydelig kommunikasjon.
-        <br />
-        Birthkeepers tar ikke på seg ansvar for utfallet av uassisterte fødsler,
-        innehar ikke medisinsk ansvar og utfører ingen medisinske intervensjoner
-        eller diagnostisering.
-        <br />
-        Jordmor er kanskje menneskeartens eldste yrke, og birthkeepere
-        viderefører noen aspekter ved det. Mulighetspotensialet er en gjensidig
-        samtykket relasjon som styrker og helbreder. Kvinneressonans og å bli
-        holdt kan være berikende i en fødsel. Å få støtte en kvinne i fødsel, og
-        et menneskets ankomst til jordlivet, er en ære som gir et uslåelig
-        energetisk påfyll.
-        <br />
-        I tråd med nettverkets prinsipper har birthkeepers et ansvar for å kun
-        ta til seg klienter som er i stand til å ta fullt ansvar for seg selv og
-        sin egen fødsel. Det er ikke hos den selvstendige birthkeeperen som
-        fulgte en kvinne i graviditet eller fødsel ansvaret ligger dersom
-        fødselen ender annerledes enn den fødende og hennes familie hadde
-        ønsket.
-        <br />
-        Birthkeeperens frihet står i sterk kontrast til posisjonen
-        helsepersonell er i når de må hjelpe alle som kommer til dem med et
-        reelt behov, og hvor systemet de jobber i må stå til ansvar for
-        utfallet. Birthkeepere er fritatt fra både plikt og ansvar.
-        <br />
-        Om du er en birthkeeper eller doula som feirer frifødsel, kan du
-        tilslutte deg nettverket med presentasjon av deg selv og link til dine
-        tjenester, slik at kvinner vet hvor de kan finne deg.
-        <br />
-        <br />
-        Jurister og advokater:
-        <br />
-        Frifødere og frie mødre kan trenge bistand fra advokater for å
-        opprettholde foreldreretten for sine barn. Har du kompetanse på
-        lovverket rundt foreldreskap og brenner for foresattes medisinske frihet
-        på vegne av sine barn, tilslutt deg gjerne nettverket.
-        <br />
-        <br />
-        <br />
-        <br />
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">
+            {" "}
+            Jurister og advokater:{" "}
+          </span>
+          <br />
+          Frifødere og frie mødre kan trenge bistand fra advokater for å
+          opprettholde foreldreretten for sine barn. Har du kompetanse på
+          lovverket rundt foreldreskap og brenner for foresattes medisinske
+          frihet på vegne av sine barn, tilslutt deg gjerne nettverket.
+          <br />
+          <br />
+          <br />
+          <br />
+        </p>
       </div>
-      <Card className="w-full">
+      <Card className="w-full p-0 lg:p-20">
         <Card>
           <div className="flex lg:flex-row flex-col">
             <div className="maren shrink-0 lg:h-[20vw] h-[70vw] lg:w-[20vw] w-[70vw]"></div>
@@ -153,32 +166,7 @@ export default function OmOss() {
 
             <Accordion>
               <AccordionTab header="Maria Heiberg">
-                <p className="m-0">
-                  Hold deg oppdatert på hennes tjenester, retreats og
-                  coachingtilbud her:
-                  <Button
-                    className="text-left"
-                    label="www.mariaheiberg.com"
-                    link
-                    onClick={() =>
-                      window.open("https://www.mariaheiberg.com", "_blank")
-                    }
-                  />
-                  <br />
-                  Instagram
-                  <Button
-                    className="text-left"
-                    label="@maria.heiberg"
-                    link
-                    onClick={() =>
-                      window.open(
-                        "https://www.instagram.com/maria.heiberg/",
-                        "_blank"
-                      )
-                    }
-                  />
-                  <br />
-                </p>
+                <p className="m-0"></p>
               </AccordionTab>
             </Accordion>
           </div>
@@ -468,11 +456,15 @@ export default function OmOss() {
           beskrivelse av deg selv, ta imot et bilde av deg og få det publisert
           på nettsiden.
         </div>
-      
       </div>
       <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw] m-3 p-5">
-      <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw]">
-      <br/><br/><br/><br/><br/>Hvis du tilslutter deg nettverket i kategorien «kvinner som har
+        <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw]">
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          Hvis du tilslutter deg nettverket i kategorien «kvinner som har
           direkte erfaring med vill graviditet og frifødsel», så kan du presente
           deg ved å svare på disse spørsmålene:{" "}
           <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
@@ -487,7 +479,11 @@ export default function OmOss() {
             <li>Hvorfor var frifødsel riktig for deg og dine barn?</li>
           </ol>
         </div>
-        <br/><br/><br/><br/><br/>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         Spørsmål for deg som tilslutter deg nettverket i kategorien «mennesker
         som støtter, feirer og gleder seg over denne typen graviditet og fødsel»
         uten nødvendigvis å ha opplevd det selv eller ha utsikter til å oppleve
@@ -504,9 +500,26 @@ export default function OmOss() {
           </li>
           <li>
             Hva kan du tilby av støtte og hjelp, og hvor finner vi beskrivelsen
-            av dine eventuelle tjenester?<br/><br/><br/>
+            av dine eventuelle tjenester?
+            <br />
+            <br />
+            <br />
           </li>
         </ol>
+      </div>
+
+      <div className="bg-white px-[15vw] py-12">
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">
+            Ansvarsfraskrivelse:{" "}
+          </span>
+          Hvis du bruker presentasjonen av nettverkets tilsluttede individer i
+          den hensikt å finne tjenester for deg selv, så må du vite at det er
+          mellom deg og den du kontakter. Ingen andre tilsluttede individer
+          eller nettverket som sådan står til ansvar for tjenestene. Du er selv
+          ansvarlig for å undersøke om de passer deg og forsikre deg om at de
+          følger gjeldende lover og regler.
+        </p>
       </div>
     </main>
   );

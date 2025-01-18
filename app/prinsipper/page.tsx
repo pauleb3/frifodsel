@@ -24,7 +24,7 @@ export default function Home() {
         De fleste prinsippene har tema fødsel, men det er også noen generelle prinsipper innimellom. 
         Dette nettverket er basert på å både ha like holdninger om fødsel, og lik motivasjon, 
         intensjon og livsholdning bakenfor disse holdningene. Derfor er det like viktig å være enig 
-        i de av prinsippene som ikke har fødselstema for å høre til i akkurat dette nettverket. 
+        i de av prinsippene som <span className="italic">ikke</span> har fødselstema for å høre til i akkurat dette nettverket. 
         Allerede tilsluttede individet har selv ansvar for å forlate nettverket 
         (og eventuelt opprette et nytt nettverk) dersom de ikke lenger står inne for 
         fellesgrunnlaget presentert på denne nettsiden. <br /><br />
@@ -81,14 +81,14 @@ export default function Home() {
         <br /> 
         - Den offentlige (og private), medisinske og autoriserte svangerskapsomsorgen 
         skal være basert på informert samtykke. Det forventes at kvinner deltar på oppfølgingen 
-        uten å først ha fått informasjon om ulempene ved å bli pasient, som er:
-            1. Risiko for overmedikalisering.
-            2. Å ikke få fullt ut realisert potensialet for intuisjon og kontakt innover som kan bygges opp gjennom en graviditet.
-            3. Tilvenning til å lene seg på ytre autoriteter, som også er en avvenning fra å lytte til sin indre autoritet.
-            4. Tap av privatliv.
-            5. Falsk trygghet.
-            6. Tilknytningsbrudd.
-            7. Fravær av varsomhet.  
+        uten å først ha fått informasjon om ulempene ved å bli pasient, som er: <br />
+            1. Risiko for overmedikalisering. <br />
+            2. Å ikke få fullt ut realisert potensialet for intuisjon og kontakt innover som kan bygges opp gjennom en graviditet. <br />
+            3. Tilvenning til å lene seg på ytre autoriteter, som også er en avvenning fra å lytte til sin indre autoritet. <br />
+            4. Tap av privatliv. <br />
+            5. Falsk trygghet. <br />
+            6. Tilknytningsbrudd. <br />
+            7. Fravær av varsomhet.   <br />
          <br />
          <br />
          - Vi står for at en vill graviditet kan være helsefremmende for både mor og barn, 
@@ -101,9 +101,7 @@ export default function Home() {
          <br />
          <br />
          - Vi skal ha et helsevesen og en sosialtjeneste med full aksept for vill graviditet og frifødsel, 
-         som møter frifødte barn med varsomhet og omsorg, og som legger til retter for legesjekk 
-         på Helsestasjonen i løpet av 72 timer etter fødsel, slik at barnets første kontroll kan 
-         skje i så skånsomme omgivelser som mulig. 
+         som møter frifødte barn med varsomhet og omsorg.
          <br />
          <br />
          - Skatteetaten skal legge til rette for enkel registrering av frifødte barn, 
@@ -114,10 +112,10 @@ export default function Home() {
          resonnans mellom livmor, eggstokker og hjerte.
          <br />
          <br />
-         Vi fremmer det moderlige, mors instinkt og nyfødtes instinkter.
+         - Vi fremmer det moderlige, mors instinkt og nyfødtes instinkter.
          <br />
          <br />
-         Vi hegner om fødemors mulighet for å amme de barna hun har født, 
+         - Vi hegner om fødemors mulighet for å amme de barna hun har født, 
          døgnet rundt, direkte fra brystene sine (i stedet for å pumpe), 
          lenger enn det samfunnets sosiale ordninger nå legger opp til. 
          Vi opplever at det legger opp til ca. 6 måneders amming, og foreslår 
