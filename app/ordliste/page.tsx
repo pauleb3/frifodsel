@@ -41,6 +41,8 @@ export default function Home() {
           En fysiologisk, naturlig og uforstyrret fødsel utført av den fødende
           selv, i totalt ansvar og med full bestemmelsesrett. Full
           bestemmelserett kan bare finne sted uten helsepersonell tilstede.
+          <br />
+          <br />
           Valget om å friføde er tatt av egen fri vilje og lyst, helhjertet,
           bevisst og i personlig integritet. Menneskearten er kalibrert for
           frifødsel, spesielt hormonsystemet vårt, men også vår åndelige
@@ -49,14 +51,18 @@ export default function Home() {
           <br />
           Frifødsel som begrep ble lansert av Jeannine Parvati Baker i hennes
           bok
-          <span className="italic">Prenatal Yoga & Natural Birth (1974)</span> ,
-          med følgende språklige former: A freebirth (en frifødsel) - to
-          freebirth (å friføde) - a freeborn baby (en frifødt baby). Baker mente
-          at fødselen også måtte være «free» i betydningen «gratis» for å være
-          en frifødsel, altså uten betalte fødselshjelpere. Denne definisjonen
-          av begrepet snevres videre inn av Emilee Saldaya, grunnlegger av Free
-          Birth Society, som mener at utbetalte fødselarbeidere heller ikke kan
-          være til stede for at det skal kunne skje en frifødsel.
+          <span className="italic">
+            {" "}
+            Prenatal Yoga & Natural Birth (1974)
+          </span>{" "}
+          , med følgende språklige former: «a freebirth» (en frifødsel) - «to
+          freebirth» (å friføde) - «a freeborn baby» (en frifødt baby). Baker
+          mente at fødselen også måtte være «free» i betydningen «gratis» for å
+          være en frifødsel, altså uten betalte fødselshjelpere. Denne
+          definisjonen av begrepet snevres videre inn av Emilee Saldaya,
+          grunnlegger av Free Birth Society, som mener at utbetalte
+          fødselarbeidere heller ikke kan være til stede for at det skal kunne
+          skje en frifødsel.
           <br />
           <br />
           Den Australske frifødselsdoulaen Amy Lou har en videre definisjon og
@@ -75,9 +81,12 @@ export default function Home() {
           friføder tar ikke ansvar for andre utfall enn sitt eget og sitt barns,
           i det svært begrensede fruktbare tidsvinduet i et menneskeliv. I
           kontrast må en institusjon føre statistikk og ta ansvar for alle
-          fødsler innad i systemet over en ubegrenset tidsperiode. Legg merke
-          til at mange frifødere ikke har noe erfaring med å vitne andres
-          fødsel, og heller ikke ønsker å innta denne rollen overfor andre.
+          fødsler innad i systemet over en ubegrenset tidsperiode.
+          <br />
+          <br />
+          Legg merke til at mange frifødere ikke har noe erfaring med å vitne
+          andres fødsel, og heller ikke ønsker å innta denne rollen overfor
+          andre.
           <br />
           <br />
           <br />
@@ -92,7 +101,8 @@ export default function Home() {
           overvåkning, måling og testing utført av helsepersonell, altså å
           fortsette livet som før. Dette er vilt i kontrast til domestikert, og
           begrepet ble lansert av Yolande Norris-Clark, festet til papiret i
-          hennes bok Portal (2023). Wild pregnancy på engelsk.
+          hennes bok <span className="italic"> Portal</span> (2023). «Wild
+          pregnancy» på engelsk.
           <br />
           <br />
           <br />
@@ -230,10 +240,12 @@ export default function Home() {
           overlater du en del av ansvaret for fødselens utfall og trygghet i de
           profesjonelle sin struktur, men du har hele veien et ansvar for å
           motsette deg eller samtykke til ethvert inngrep og legemiddel som
-          foreslås for deg. Behandler-pasientrelasjon er gjeldende. Din
-          sykehusfødsel vil huskes av deg og dine etterkommere i generasjoner,
-          og mest sannsynlig glemmes som bare en i mengden av de som var på jobb
-          den dagen.
+          foreslås for deg. Behandler-pasientrelasjon er gjeldende.
+          <br />
+          <br />
+          Din sykehusfødsel vil huskes av deg og dine etterkommere i
+          generasjoner, og mest sannsynlig glemmes som bare en i mengden av de
+          som var på jobb den dagen.
         </p>
 
         <p className="text-black">
@@ -299,7 +311,7 @@ export default function Home() {
           <span className="text-black font-bold font-bold">
             Suveren fødsel:{" "}
           </span>
-          Sovereign birth. Begrepet Emilee Saldaya i Free Birth Society bruker
+          «Sovereign birth». Begrepet Emilee Saldaya i Free Birth Society bruker
           på den typen fødsel Radical Birth Keepers skal legge til rette for.
           Altså, de opererer med et begrep for frifødsel der fødsel med
           profesjonelle fødselsarbeidere tilstede utelukkes.
@@ -433,7 +445,7 @@ export default function Home() {
           </span>
           Å fortelle om, forstå og bearbeide de barnefødslene en selv som
           fødemor har utført med sin egen kropp og måten de menneskene rundt var
-          på. Støttet av en søster eller medmenneske som har frifødselen som mal
+          på, støttet av en søster eller medmenneske som har frifødselen som mal
           og ledestjerne.
           <br />
           <br />
@@ -446,7 +458,7 @@ export default function Home() {
 
         <p className="text-black">
           <span className="text-black font-bold font-bold">Barnevernet: </span>
-          Det norske barnevern har som mandat å sørge for at de umyndige
+          Det norske barnevern har som mandat å sørge for at umyndige
           statsborgerne og beboere får nødvendig omsorg og kjærlighet i
           familien, og er fri for omsorgssvikt og vold i hjemmet. Barnevernet
           har vist seg å gjøre bedre vurderinger av friføderes omsorgsevne enn
@@ -465,13 +477,18 @@ export default function Home() {
           Å ikke elske og ta vare på barna sine til den grad som dekker deres
           behov tilfredsstillende, er å utøve omsorgssvikt. Å oppleve
           omsorgssvikt er å ikke få sine behov dekket, og samtidig få sine
-          rettigheter overkjørt. Frifødsel er ikke omsorgssikt, men i stedet en
-          måte å utøve omsorg og helsefremmende kjærlighet på. Vill graviditet
-          er ikke omsorgssvikt, men i stedet en strategi for å dekke barnets
-          rett på privatliv og frihet fra overvåkning. Vill graviditet og
-          frifødsel kan være fremragende omsorg som hegner om tilknytningen
-          mellom mor og barn, kanskje det mest definerende for hvordan det nye
-          individet vil klare seg i livet.
+          rettigheter overkjørt.
+          <br />
+          <br />
+          Frifødsel er ikke omsorgssikt, men i stedet en måte å utøve omsorg og
+          helsefremmende kjærlighet på. Vill graviditet er ikke omsorgssvikt,
+          men i stedet en strategi for å dekke barnets rett på privatliv og
+          frihet fra overvåkning.
+          <br />
+          <br />
+          Vill graviditet og frifødsel kan være fremragende omsorg som hegner om
+          tilknytningen mellom mor og barn, kanskje det mest definerende for
+          hvordan det nye individet vil klare seg i livet.
         </p>
 
         <p className="text-black">
@@ -484,10 +501,11 @@ export default function Home() {
         <p className="text-black">
           <span className="text-black font-bold font-bold">Morkake: </span>
           Morkaken er et blodfylt organ som har en morsside og en barnside.
-          Dette er ikke mor sin kake. Menneskekropp, navlesnor og morkake er en
-          treenighet laget av det fertiliserte egget. Morkaken tilhører barnet,
-          og etter fødsel ligger fortsatt en stor andel av babyens blod der. Det
-          må gis tid til at alt blodet får pulsere ut.
+          Dette er <span className="italic">ikke </span> mor sin kake.
+          Menneskekropp, navlesnor og morkake er en treenighet laget av det
+          fertiliserte egget. Morkaken tilhører barnet, og etter fødsel ligger
+          fortsatt en stor andel av babyens blod der. Det må gis tid til at alt
+          blodet får pulsere ut.
         </p>
 
         <p className="text-black">
@@ -501,11 +519,8 @@ export default function Home() {
           <span className="text-black font-bold font-bold">
             Morkakefødsel:{" "}
           </span>
-          Morkaken er et blodfylt organ som har en morsside og en barnside.
-          Dette er ikke mor sin kake. Menneskekropp, navlesnor og morkake er en
-          treenighet laget av det fertiliserte egget. Morkaken tilhører barnet,
-          og etter fødsel ligger fortsatt en stor andel av babyens blod der. Det
-          må gis tid til at alt blodet får pulsere inn i barnets kropp.
+          Etter at babyens kropp er født er morkaken fortsatt inne i livmoren.
+          Morkakens passasje gjennom fødselsportalen er morkakefødselen.
         </p>
 
         <p className="text-black">
@@ -554,11 +569,12 @@ export default function Home() {
           <span className="text-black font-bold font-bold">
             Fødselens hormonelle mal:{" "}
           </span>
-          (Hormonal blueprint of birth) er et uttrykk som ble lansert av legen
-          Dr. Sarah Buckly i boken Gentle Birth, Gentle Mothering (2008). Der
-          hun forklarer hvordan hormonsystemet vårt er kalibrert for å føde i
-          trygge og kjente omgivelser og hvordan stress og utrygghet hindrer og
-          skader fødselsprosessen.
+          «Hormonal blueprint of birth» er et uttrykk som ble lansert av legen
+          Dr. Sarah Buckly i boken{" "}
+          <span className="italic">Gentle Birth, Gentle Mothering </span>{" "}
+          (2008). Der hun forklarer hvordan hormonsystemet vårt er kalibrert for
+          å føde i omgivelser som føles trygge og kjente, og hvordan stress og
+          følesen av utrygghet hindrer og skader fødselsprosessen.
         </p>
 
         <p className="text-black">
@@ -594,10 +610,12 @@ export default function Home() {
           gynekologi, altså fødselshjelp og kvinnesykdommer. Det er disse legene
           som kan utføre bukkirurgien kjent som keisersnitt for å få babyer ut
           av magen, gjennom magen. Vi er svært takknemlig for at disse legene
-          finnes ved nødstilfeller og anerkjenner at de kan redde liv. Frifødere
-          tar selv på seg ansvaret for forsinkelsen i livreddende behandling
-          (den sjeldne gangen det trengs) som kommer med å føde utenfor
-          institusjon. Vi anerkjenner at dette er en utfordrende og
+          finnes ved nødstilfeller og anerkjenner at de kan redde liv.
+          <br />
+          <br />
+          Frifødere tar selv på seg ansvaret for forsinkelsen i livreddende
+          behandling (den sjeldne gangen det trengs) som kommer med å føde
+          utenfor institusjon. Vi anerkjenner at dette er en utfordrende og
           hjerteskjærende posisjon for legene å bli satt i, uten å sette dette
           over familien vår sine behov.
         </p>
@@ -910,9 +928,9 @@ export default function Home() {
           <span className="text-black font-bold font-bold">
             Helsestasjonen:{" "}
           </span>
-          Det frivillige gratis tilbudet for den lovpålagte helsekontrollen
-          gjennom barndommen. Norske mødres kontrollsenteret, et sted fedre drar
-          i mye midre grad.
+          Det frivillige og gratis tilbudet for den lovpålagte helsekontrollen
+          gjennom barndommen. Norske mødres kontrollsenter, et sted fedre drar i
+          mye midre grad.
         </p>
 
         <p className="text-black">
@@ -1016,7 +1034,7 @@ export default function Home() {
         </p>
 
         <p className="text-black">
-          <span className="text-black font-bold font-bold"> Unnfangelse:</span>
+          <span className="text-black font-bold font-bold"> Unnfangelse: </span>
           Samleie mellom fruktbar mann og kvinne kan føre til unnfangelse av et
           nytt individ som så vil vokse frem i kvinnens livmor. En graviditet
           starter med unnfangelse og avsluttes med fødsel, og det er både mange
@@ -1047,14 +1065,17 @@ export default function Home() {
           <span className="text-black font-bold font-bold">Døden: </span>
           Menneskeheten kan ikke seire over døden. Samtidig er naturgitt død og
           drap, svært forskjellige dynamikker å ende sitt liv til, og bli
-          etterlatt ved. Frykten for at barna våre skal dø før oss ender ikke
-          med at de har overlevet graviditeten og fødselen. Det er heller slik
-          at den intensiveres, ettersom vi som mor aldri har barna nærmere og
-          kan passe på dem bedre enn når de er koblet sammen med vår egen kropp.
-          Frykten for at vi skal dø fra dem og de må klare seg uten oss
-          fortsetter også evig forbi fødselsøyeblikket, og selv 90-åringer kan
-          lengte etter sin forlengst avdøde mamma.
+          etterlatt ved.
           <br />
+          <br />
+          Frykten for at barna våre skal dø før oss ender ikke med at de har
+          overlevet graviditeten og fødselen. Det er heller slik at den
+          intensiveres, ettersom vi som mor aldri har barna nærmere og kan passe
+          på dem bedre enn når de er koblet sammen med vår egen kropp. Frykten
+          for at vi skal dø fra dem og de må klare seg uten oss fortsetter også
+          evig forbi fødselsøyeblikket, og selv 90-åringer kan lengte etter sin
+          forlengst avdøde mamma.
+          <br /> <br />
           Noen ganger ender fødsel med død. Det er svært sjeldent, men
           forekommer i alle typer fødsler, både frifødsler og sykehusfødsler.
           Grensen for når fravær av medisinsk behandling, som så fører til død
@@ -1095,10 +1116,14 @@ export default function Home() {
             <br />
             <br />
           </span>
-          Ansvarsfraskrivelse: Dette er IKKE helsefaglig informasjon. Å lære av,
-          eller la seg provosere av, denne normative ordlisten gjøres på eget
-          ansvar, og avsenderne fraskriver seg alt ansvar for direkte og
-          etterfølgende konsekvenser av dette valget.
+          <span className="text-black font-bold font-bold">
+            {" "}
+            Ansvarsfraskrivelse:{" "}
+          </span>
+          Dette er IKKE helsefaglig informasjon. Å lære av, eller la seg
+          provosere av, denne normative ordlisten gjøres på eget ansvar, og
+          avsenderne fraskriver seg alt ansvar for direkte og etterfølgende
+          konsekvenser av dette valget.
         </p>
       </Card>
     </main>

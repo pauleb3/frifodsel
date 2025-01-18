@@ -318,7 +318,7 @@ export default function OmOss() {
             <Accordion>
               <AccordionTab header="Kristin Indreeide">
                 <p className="m-0">
-                  Kristin Indreeide <br />
+                  <br />
                   Jeg opplever graviditet og fødsel som en mulighet til å ta
                   radikalt ansvar for eget liv, ekspandere og skape. Det er
                   magisk og stort å være en portal for liv til denne planeten.{" "}
@@ -426,11 +426,11 @@ export default function OmOss() {
                   />
                   <br />
                   <br />
-                  Du kan høre mine fødselshistorier på Frifødsel Podcast
+                  Du kan høre mine fødselshistorier på
                   <br />
                   <Button
                     className="text-left"
-                    label="open.spotify.com/episode/7dxaXO5jW1gLthq2POZwvA?si=63e8ce52c4584b0d"
+                    label="   Frifødsel Podcast"
                     link
                     onClick={() =>
                       window.open(
