@@ -33,21 +33,21 @@ export default function Home() {
         <br />
         Det som deles er tidvis sterk, ufaglært forankret, kritikk av
         helsevesenets praksiser. Denne diskusjonen går innunder ytringsfriheten
-        og må
-        <span className="italic">ikke</span> misforstås som medisinske råd til
-        pasienter. I tråd med våre prinsipper oppfordrer vi ikke til spesifikk
-        handling, men til en holdning av radikalt selvansvar og personlig
-        integritet. Vi oppfordrer til å tenke på det som står her, men ikke
-        handle på det. Din handling er opp til deg.
+        og må <span className="italic">ikke</span> misforstås som medisinske råd
+        til pasienter. I tråd med våre prinsipper oppfordrer vi{" "}
+        <span className="italic">ikke</span> til spesifikk handling, men til en
+        holdning av radikalt selvansvar og personlig integritet. Vi oppfordrer
+        til å tenke på det som står her, men ikke handle på det. Din handling er
+        opp til deg.
         <br /> <br />
         <br />
         <span className="text-black font-bold font-bold">
           {" "}
           Ansvarsfraskrivelse:{" "}
         </span>
-        Ansvarsfraskrivelse: Nettverkets tilsluttede individer fraskriver seg
-        alt ansvar for hvordan du lar innholdet på denne nettsiden påvirker deg,
-        og konsekvenser av dine etterfølgende handlinger.
+        Nettverkets tilsluttede individer fraskriver seg alt ansvar for hvordan
+        du lar innholdet på denne nettsiden påvirker deg, og konsekvenser av
+        dine etterfølgende handlinger.
         <br />
         <br />
         <br />

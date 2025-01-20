@@ -59,25 +59,26 @@ export default function OmOss() {
           for utfallet av uassisterte fødsler, innehar ikke medisinsk ansvar og
           utfører ingen medisinske intervensjoner eller diagnostisering.
           <br />
+          <br />
           Jordmor er kanskje menneskeartens eldste yrke, og birthkeepere
           viderefører noen aspekter ved det. Mulighetspotensialet er en
           gjensidig samtykket relasjon som styrker og helbreder. Kvinneressonans
           og å bli holdt kan være berikende i en fødsel. Å få støtte en kvinne i
           fødsel, og et menneskets ankomst til jordlivet, er en ære som gir et
           uslåelig energetisk påfyll.
-          <br />
+          <br /> <br />
           I tråd med nettverkets prinsipper har birthkeepers et ansvar for å kun
           ta til seg klienter som er i stand til å ta fullt ansvar for seg selv
           og sin egen fødsel. Det er ikke hos den selvstendige birthkeeperen som
           fulgte en kvinne i graviditet eller fødsel ansvaret ligger dersom
           fødselen ender annerledes enn den fødende og hennes familie hadde
           ønsket.
-          <br />
+          <br /> <br />
           Birthkeeperens frihet står i sterk kontrast til posisjonen
           helsepersonell er i når de må hjelpe alle som kommer til dem med et
           reelt behov, og hvor systemet de jobber i må stå til ansvar for
           utfallet. Birthkeepere er fritatt fra både plikt og ansvar.
-          <br />
+          <br /> <br />
           Om du er en birthkeeper eller doula som feirer frifødsel, kan du
           tilslutte deg nettverket med presentasjon av deg selv og link til dine
           tjenester, slik at kvinner vet hvor de kan finne deg.
@@ -477,6 +478,10 @@ export default function OmOss() {
               fødselsvitne.
             </li>
             <li>Hvorfor var frifødsel riktig for deg og dine barn?</li>
+            <li>
+              Hva kan du tilby av støtte og hjelp, og hvor finner vi
+              beskrivelsen av dine eventuelle tjenester?
+            </li>
           </ol>
         </div>
         <br />
@@ -487,9 +492,11 @@ export default function OmOss() {
         Spørsmål for deg som tilslutter deg nettverket i kategorien «mennesker
         som støtter, feirer og gleder seg over denne typen graviditet og fødsel»
         uten nødvendigvis å ha opplevd det selv eller ha utsikter til å oppleve
-        det i fremtiden. Fortell det du vet og ønsker å dele om din egen fødsel,
-        altså da du kom til verden:
+        det i fremtiden.
         <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
+          <li>
+            Fortell gjerne om din egen fødsel, altså da du kom til verden.
+          </li>
           <li>
             Beskriv din direkte, selvopplevde erfaring med å føde og å være
             fødselsvitne.
@@ -501,9 +508,6 @@ export default function OmOss() {
           <li>
             Hva kan du tilby av støtte og hjelp, og hvor finner vi beskrivelsen
             av dine eventuelle tjenester?
-            <br />
-            <br />
-            <br />
           </li>
         </ol>
       </div>

@@ -25,14 +25,16 @@ export default function Home() {
         <br />
         <br />
         De fleste prinsippene har tema fødsel, men det er også noen generelle
-        prinsipper innimellom. Dette nettverket er basert på å både ha like
-        holdninger om fødsel, og lik motivasjon, intensjon og livsholdning
-        bakenfor disse holdningene. Derfor er det like viktig å være enig i de
-        av prinsippene som <span className="italic">ikke</span> har fødselstema
-        for å høre til i akkurat dette nettverket. Allerede tilsluttede
-        individet har selv ansvar for å forlate nettverket (og eventuelt
-        opprette et nytt nettverk) dersom de ikke lenger står inne for
-        fellesgrunnlaget presentert på denne nettsiden. <br />
+        prinsipper innimellom. Dette nettverket er basert på å{" "}
+        <span className="italic">både</span> ha like holdninger om fødsel,{" "}
+        <span className="italic">og</span>
+        lik motivasjon, intensjon og livsholdning bakenfor disse holdningene.
+        Derfor er det like viktig å være enig i de av prinsippene som{" "}
+        <span className="italic">ikke</span> har fødselstema for å høre til i
+        akkurat dette nettverket. Allerede tilsluttede individet har selv ansvar
+        for å forlate nettverket (og eventuelt opprette et nytt nettverk) dersom
+        de ikke lenger står inne for fellesgrunnlaget presentert på denne
+        nettsiden. <br />
         <br />
       </Card>
 
@@ -88,13 +90,16 @@ export default function Home() {
         - Vi tilstreber å ta fullstendig, radikalt ansvar for våre egne valg.
         <br />
         <br />
-        - Den offentlige (og private), medisinske og autoriserte
-        svangerskapsomsorgen skal være basert på informert samtykke. Det
-        forventes at kvinner deltar på oppfølgingen uten å først ha fått
-        informasjon om ulempene ved å bli pasient, som er: <br />
+        - Den offentlige, medisinske og autoriserte svangerskapsomsorgen skal
+        være frivillig og basert på informert samtykke (ikke på frivillig
+        tvang.) Det forventes at kvinner deltar på oppfølgingen uten å først ha
+        fått informasjon om ulempene ved å bli pasient, både for seg selv og
+        fostret, som blant annet er: <br />
         1. Risiko for overmedikalisering. <br />
-        2. Å ikke få fullt ut realisert potensialet for intuisjon og kontakt
-        innover som kan bygges opp gjennom en graviditet. <br />
+        2. Å ikke få fullt ut realisert potensialet for intuisjon og kontakt med
+        barnet i magen og kontakt med egen kropp, som kan bygges opp gjennom en
+        graviditet.
+        <br />
         3. Tilvenning til å lene seg på ytre autoriteter, som også er en
         avvenning fra å lytte til sin indre autoritet. <br />
         4. Tap av privatliv. <br />
@@ -102,8 +107,7 @@ export default function Home() {
         6. Tilknytningsbrudd. <br />
         7. Fravær av varsomhet. <br />
         <br />
-        <br />
-        - Vi står for at en vill graviditet kan være helsefremmende for både mor
+        Vi står for at en vill graviditet kan være helsefremmende for både mor
         og barn, og ofte er en uvurderlig forberedelse til å friføde. Vi
         påberoper oss retten til å utøve et informert avslag av autorisert,
         medisinsk svangerskapsoppfølging og gjennomleve vill graviditet.
@@ -211,25 +215,29 @@ export default function Home() {
         unnfangelsen fri for medisinsk overvåkning og innblanding. <br />
         <br /> <br /> <br /> <br />
         Sitter du igjen med en opplevelse av å bli dømt og vurdert etter å ha
-        lest prinsippene? Som en kur mot dette inviterer vi til å tolke
-        prinsippene på en både-og-måte. Ofte kan vi falle inn i å tenke
-        enten-eller, i skarpe dikotomier. Ta for eksempel første prinsipp
-        «Fullstendig fysiologisk, naturlig og fri fødsel kan kun skje i fravær
-        av helsepersonell». Dikotomisk kan det høres ut som at en god fødsel er
-        slik, og at det betyr at alle andre fødsler er dårlige. Men,
-        virkeligheten er paradoksal og kompleks. En fysiologisk fødsel er
-        virkelig bra. Det ønsker vi at anerkjennes.{" "}
-        <span className="italic">Og </span> en annen type fødsel kan være bra,{" "}
-        <span className="italic">og </span>
+        lest prinsippene? <br /> <br />
+        Som en kur mot dette inviterer vi til å tolke prinsippene på en
+        både-og-måte. Ofte kan vi falle inn i å tenke enten-eller, i skarpe
+        dikotomier. Ta for eksempel første prinsipp «Fullstendig fysiologisk,
+        naturlig og fri fødsel kan kun skje i fravær av helsepersonell».
+        Dikotomisk kan det høres ut som at en god fødsel er slik, og at det
+        betyr at alle andre fødsler er dårlige. Men, virkeligheten er paradoksal
+        og kompleks. En fysiologisk fødsel er virkelig bra. Det ønsker vi at
+        anerkjennes. <span className="italic">Og </span> en annen type fødsel
+        kan være bra, <span className="italic">og </span>
         en tredje type fødsel kan være bra. Selv om en ting er sant, er ikke det
         motsatte nødvendigvis usant. La oss skape dialog gjennom
         både-og-tenkning.
         <br /> <br /> <br />
-        Ansvarsfraskrivelse: Disse prinsippene utgjør verken medisinsk eller
-        juridisk rådgivning. Du er selv fullt ansvarlig for å holde deg
-        oppdatert på gjeldende medisinske anbefalinger og lovverk. Videre er du
-        ansvarlig for eventuelle konsekvenser av å adoptere eller følge disse
-        prinsippene som dine egne. <br /> <br /> <br />
+        <span className="text-black font-bold font-bold">
+          {" "}
+          Ansvarsfraskrivelse:{" "}
+        </span>
+        Disse prinsippene utgjør verken medisinsk eller juridisk rådgivning. Du
+        er selv fullt ansvarlig for å holde deg oppdatert på gjeldende
+        medisinske anbefalinger og lovverk. Videre er du ansvarlig for
+        eventuelle konsekvenser av å adoptere eller følge disse prinsippene som
+        dine egne. <br /> <br /> <br />
       </Card>
     </main>
   );

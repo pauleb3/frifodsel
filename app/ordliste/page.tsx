@@ -898,7 +898,7 @@ export default function Home() {
         </p>
 
         <p className="text-black">
-          <span className="text-black font-bold font-bold">Åndelighet:</span>Å
+          <span className="text-black font-bold font-bold">Åndelighet: </span>Å
           ha kontakt med ikke-fysiske aspekter av livet.
         </p>
 
@@ -973,12 +973,14 @@ export default function Home() {
           og forstår vill graviditet og frifødsel i ulik grad, men det virker
           ikke som de feirer og gleder seg over det. I 2024-debatten rammet de
           inn Frifødsel som et bekymringsverdig symptom på en for dårlig
-          svangerskapsomsorg og fødetilbud. Frifødselnettverket ser på frifødsel
-          som et gode som vil fortsette å eksistere også etter at offentlig
-          omsorg er optimalisert. Frifødselsnettverket kan virke å stå sammen
-          med organisasjonene i mye. Selv om organisasjonene endrer mening om
-          frifødsel, så vil måten de er organisert på skille seg fra dette
-          nettverket og forsvare vår adskillelse.
+          svangerskapsomsorg og fødetilbud. <br />
+          <br />
+          Frifødselnettverket ser på frifødsel som et gode som vil fortsette å
+          eksistere også etter at offentlig omsorg er optimalisert.
+          Frifødselsnettverket kan virke å stå sammen med organisasjonene i mye.
+          Selv om organisasjonene endrer mening om frifødsel, så vil måten de er
+          organisert på skille seg fra dette nettverket og forsvare vår
+          adskillelse.
           <br />
           <br />
         </p>
@@ -1120,10 +1122,14 @@ export default function Home() {
             {" "}
             Ansvarsfraskrivelse:{" "}
           </span>
-          Dette er IKKE helsefaglig informasjon. Å lære av, eller la seg
-          provosere av, denne normative ordlisten gjøres på eget ansvar, og
-          avsenderne fraskriver seg alt ansvar for direkte og etterfølgende
-          konsekvenser av dette valget.
+          Ansvarsfraskrivelse: Denne ordlisten er{" "}
+          <span className="italic">ikke</span> helsefaglig informasjon. Den er
+          utformet av ufaglærte som et normativt referanseverk, og eventuell
+          bruk, læring eller refleksjon – enten i samsvar med eller i opposisjon
+          til innholdet – skjer på eget ansvar. Forfatterne fraskriver seg
+          ethvert ansvar for direkte eller indirekte konsekvenser av hvordan
+          innholdet tolkes eller anvendes.
+          <br />
         </p>
       </Card>
     </main>
