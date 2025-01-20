@@ -9,7 +9,6 @@ export default function Home() {
         <br />
         ORDLISTE
       </h1>
-      ​​
       <div className="m-16 p-8">
         Dette er en fragmentarisk ordliste som blander definering med normering.
         Listen har som formål å utdype nettverkets prinsipper, berike
@@ -72,8 +71,8 @@ export default function Home() {
           <br />
           <br />
           Alt ettersom hvordan du velger å se på det kan frifødsel skje alene, i
-          samvær med familien eller støttet av en doula, birthkeeper eller
-          venner som helhjertet støtter valget om å friføde og ikke saboterer.
+          samvær med familien eller støttet av en birthkeeper eller venner som
+          helhjertet støtter valget om å friføde og ikke saboterer.
           <br />
           <br />
           En fødsel er i utgangspunktet en enkeltstående, private hendelser,
@@ -168,13 +167,12 @@ export default function Home() {
 
         <p className="text-black">
           <span className="text-black font-bold font-bold">
-            Frifødselsdoula-assistert fødsel:{" "}
+            Birthkeeper-assistert fødsel{" "}
           </span>
-          En frifødsel planlagt i samarbeid med en uavhengig
-          frifødselsdoula/birthkeeper, og utført med hennes støtte. Denne
-          doulaen er som en opprinnelig «Jordmor», som før praksisen ble kapret
-          av medisinen og før denne beklagelige utviklingen gjorde det nødvendig
-          å finne opp fenomenet frifødsel.
+          En frifødsel planlagt i samarbeid med en uavhengig birthkeeper eller
+          fødselsvitne på norsk, og utført med hennes støtte. Denne
+          birthkeeperen er som en opprinnelig «Jordmor», som før praksisen ble
+          kapret av medisinen.
         </p>
 
         <p className="text-black">
@@ -191,14 +189,14 @@ export default function Home() {
           «Født i fangenskap» (Born in captivity), er et uttrykk lansert av
           Sister MorningStar hvor hun beskriver hvordan mødre og nyfødte sliter
           med å utfolde sine iboende instinker når de opplever seg fanget og
-          overvåket på en institusjon. Uttrykket «Fødsel i fangenskap»(Birth in
+          overvåket på en institusjon. Uttrykket «Fødsel i fangenskap» (Birth in
           captivity) har blitt videreutviklet av Free Birth Society. Uttrykket
           beskriver opplevelsen av å føde mens man er innestengt, fastspent og
           under overvåkning. Det henviser ikke til opplevelsen av å føde med
           håndjern, mens man bokstavelig talt sitter fengslet for et lovbrudd,
           men det å la seg sperres inne av helsevesenet under fødsel i søken på
           trygghet og overlevelse. Som et dyr i bur tror den fødende kvinnen hun
-          er tryggere der enn i “villmarken”, og kanskje er det også sant om de
+          er tryggere der enn i “villmarken”, og kanskje er det også sant om hun
           har blitt domestikert i den grad at hun har mistet kontakten med sine
           urinstinkter. De som er født i fangenskap «velger» å føde i fangenskap
           helt til de bryter ut og gjenoppdager sin ville natur.
@@ -342,19 +340,19 @@ export default function Home() {
 
         <p className="text-black">
           <span className="text-black font-bold font-bold">
-            Freebirth Society:{" "}
-          </span>
-          Forkortet FBS er en podcast og frifødselbevegelse, startet av
-          Nord-Amerikaneren Emilee Saldaya i 2017. Saldaya integrerer verktøy
-          fra
-          <span className="italic">
-            {" "}
-            The 15 Commitments of Conscious Leadership{" "}
-          </span>
-          av Jim Dethmer i sin måte å lede på, og oppfordrer sine følgere til å
-          innta en holdning av radikalt selvansvar.
+            Free Birth Society:{" "}
+          </span>{" "}
+          Forkortet FBS er en bedrift startet av Nord-Amerikaneren Emilee
+          Saldaya. FBS tilbyr online coaching, utdannelser og kurs, som The
+          Radical Birth Keeper School, The MatriBirth Midwifery Institute og The
+          Complete Guide to Freebirth. Saldaya drifter en gratis podcast kalt
+          The Free Birth Society Podcast som ble startet i 2017. I podcasten
+          deler gjester frifødselhistorier og temaer innen radikalfeminisme,
+          kritikk av helsevesnet og holistisk kvinnehelse er gjennomgående.
+          Saldaya integrerer verktøy fra The Conscious Leadership Group i sin
+          måte å lede på, og oppfordrer sine følgere til å innta en holdning av
+          radikalt selvansvar.
         </p>
-
         <p className="text-black">
           <br />
           <br />
@@ -385,14 +383,14 @@ export default function Home() {
           intervensjon. Medisinsk inngrep kan være både livreddende og
           dettimentalt også i nødstilfeller. Praksis vi mener alltid også skaper
           iatrogen skade (både fysisk og spirituelt) er stripping,
-          igangsettelse, aminotomi, drypp med riestimulerende legemidler, å
-          kutte navlestrengen før en nyfødt puster selvstendig, voldsom suging
-          av nyfødtes luftveier, livmormassasje og å trekke løs en annens
-          morkake. Vi mener altså at disse inngrepene påfører mennesker iatrogen
-          skade, uavhengig om det også har foregått obstetrisk vold for å få
-          inngrepene utført. Vi sier ikke at de ikke kan være riktige å bruke,
-          men at også i de tilfellene det er riktig valg vil fordelene følges av
-          skade.
+          igangsettelse, aminotomi, drypp med riestimulerende legemidler,
+          skalpelektrode, skalplaktat, å kutte navlestrengen før en nyfødt
+          puster selvstendig, voldsom suging av nyfødtes luftveier,
+          livmormassasje og å trekke løs en annens morkake. Vi mener altså at
+          disse inngrepene påfører mennesker iatrogen skade, uavhengig om det
+          også har foregått obstetrisk vold for å få inngrepene utført. Vi sier
+          ikke at de ikke kan være riktige å bruke, men at også i de tilfellene
+          det er riktig valg vil fordelene følges av skade.
         </p>
 
         <p className="text-black">
@@ -554,10 +552,8 @@ export default function Home() {
           omgivelser, ettersom en avkuttet navlesnor er et åpent sår det kan gå
           infeksjon i, mens en intakt navlesnor ikke er det. Morkaken kan ligge
           i en bolle med urter og salt, og transporteres sammen med babyen ved
-          lotusfødsel. Et annet alternativ er å brenne navlestrengen i en
-          seremoni hjemme i sengen etter at den har blitt helt hvit og slapp.
+          lotusfødsel.
         </p>
-
         <p className="text-black">
           <br />
           <br />
@@ -978,9 +974,9 @@ export default function Home() {
           Frifødselnettverket ser på frifødsel som et gode som vil fortsette å
           eksistere også etter at offentlig omsorg er optimalisert.
           Frifødselsnettverket kan virke å stå sammen med organisasjonene i mye.
-          Selv om organisasjonene endrer mening om frifødsel, så vil måten de er
-          organisert på skille seg fra dette nettverket og forsvare vår
-          adskillelse.
+          Dersom organisasjonene hadde adoptert dette nettverkets syn på
+          frifødsel, så vil uansett måten de er organisert på skille seg fra
+          dette nettverket og forsvare vår adskillelse.
           <br />
           <br />
         </p>

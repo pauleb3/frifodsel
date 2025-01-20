@@ -24,8 +24,8 @@ export default function OmOss() {
         sikt.
         <br />
         <br />
-        Av støttepersoner er traumeterapauter, frie fødselsvitner/birthkeepers
-        og jurister/advokater etterspurt av folk i miljøene rundt frifødsel.
+        Av støttepersoner er traumeterapauter, birthkeepers og
+        jurister/advokater etterspurt av folk i miljøene rundt frifødsel.
         <br />
         <br />
         <p className="text-black">
@@ -49,13 +49,12 @@ export default function OmOss() {
           <span className="text-black font-bold font-bold">Birthkeeper: </span>
           <br />
           Frihetssøkende fødende kan ønske å motta støtte fra en birthkeeper
-          (frifødselsdoula, fødselsvitne), og noen handler på et dypt kall til å
-          innta rollen. Birthkeepere, slik dette nettverket definerer det,
-          tilbyr praktisk, emosjonell, psykologisk og energetisk støtte i
-          svangerskap, fødsel og barseltid, med klare grenser og tydelig
-          kommunikasjon.
+          (fødselsvitne), og noen handler på et dypt kall til å innta rollen.
+          Birthkeepere, slik dette nettverket definerer det, tilbyr praktisk,
+          emosjonell, psykologisk og energetisk støtte i svangerskap, fødsel og
+          barseltid, med klare grenser og tydelig kommunikasjon.
           <br />
-          Birthkeepers tar <span className="italic">ikke</span> på seg ansvar
+          Birthkeepers tar <span className="italic">ikke </span> på seg ansvar
           for utfallet av uassisterte fødsler, innehar ikke medisinsk ansvar og
           utfører ingen medisinske intervensjoner eller diagnostisering.
           <br />
@@ -79,9 +78,9 @@ export default function OmOss() {
           reelt behov, og hvor systemet de jobber i må stå til ansvar for
           utfallet. Birthkeepere er fritatt fra både plikt og ansvar.
           <br /> <br />
-          Om du er en birthkeeper eller doula som feirer frifødsel, kan du
-          tilslutte deg nettverket med presentasjon av deg selv og link til dine
-          tjenester, slik at kvinner vet hvor de kan finne deg.
+          Om du er en birthkeeper eller fødselsvitne som feirer frifødsel, kan
+          du tilslutte deg nettverket med presentasjon av deg selv og link til
+          dine tjenester, slik at kvinner vet hvor de kan finne deg.
         </p>
         <br />
         <br />

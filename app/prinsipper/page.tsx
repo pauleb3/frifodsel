@@ -26,8 +26,8 @@ export default function Home() {
         <br />
         De fleste prinsippene har tema fødsel, men det er også noen generelle
         prinsipper innimellom. Dette nettverket er basert på å{" "}
-        <span className="italic">både</span> ha like holdninger om fødsel,{" "}
-        <span className="italic">og</span>
+        <span className="italic">både </span> ha like holdninger om fødsel,{" "}
+        <span className="italic">og </span>
         lik motivasjon, intensjon og livsholdning bakenfor disse holdningene.
         Derfor er det like viktig å være enig i de av prinsippene som{" "}
         <span className="italic">ikke</span> har fødselstema for å høre til i
@@ -45,7 +45,7 @@ export default function Home() {
         <br />
         <br />
         - Fullstendig fysiologisk, naturlig og fri fødsel kan kun skje i fravær
-        av helsepersonell og vi ønsker å fremme og beskytte denne hellige
+        av helsepersonell. Vi ønsker å fremme og beskytte denne hellige
         hendelsen sosialt, spirituelt og juridisk.
         <br />
         <br />
@@ -94,7 +94,7 @@ export default function Home() {
         være frivillig og basert på informert samtykke (ikke på frivillig
         tvang.) Det forventes at kvinner deltar på oppfølgingen uten å først ha
         fått informasjon om ulempene ved å bli pasient, både for seg selv og
-        fostret, som blant annet er: <br />
+        fostret, som blant annet er: <br /> <br />
         1. Risiko for overmedikalisering. <br />
         2. Å ikke få fullt ut realisert potensialet for intuisjon og kontakt med
         barnet i magen og kontakt med egen kropp, som kan bygges opp gjennom en
@@ -235,9 +235,10 @@ export default function Home() {
         </span>
         Disse prinsippene utgjør verken medisinsk eller juridisk rådgivning. Du
         er selv fullt ansvarlig for å holde deg oppdatert på gjeldende
-        medisinske anbefalinger og lovverk. Videre er du ansvarlig for
-        eventuelle konsekvenser av å adoptere eller følge disse prinsippene som
-        dine egne. <br /> <br /> <br />
+        medisinske anbefalinger og lovverk. Nettverkets tilsluttede individer
+        fraskriver seg ethvert ansvar for hvordan disse prinsippene tolkes,
+        anvendes eller eventuelle konsekvenser som måtte oppstå som følge av
+        deres bruk. <br /> <br /> <br />
       </Card>
     </main>
   );
