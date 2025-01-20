@@ -9,26 +9,35 @@ export default function Home() {
     <main className="flex min-h-screen p-16 flex-col items-center justify-between bg-pink-100">
       <h1 className="text-5xl font-bold mb-10">RESSURSER </h1>
       <br /> <br />
-     <div className="mx-20" style={{ marginLeft: "10vw", width: "80vw" }}>
-       Her finner du ressurser knyttet til frifødselnettverket. Det ligger en
-      liste her med gode, inspirerende bøker. Du finner infoskriv som kan styrke
-      deg i møte med helsevesenet. Våre åpne brev til offentlige etater,
-      myndigheter, organisasjoner, medier og andre er også å finne her. Her kan
-      ressurser legges til etterhvert som de utarbeides, av ren inspirasjon.
-      <Card className="m-16 p-8 w-screen">
-        <span className="font-bold">INNHOLD</span>
-        <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
-          <li>Informasjon om frifødsel</li>
-          <li>
-            Registrering av barn av som er født uten helsepersonell tilstede
-          </li>
-          <li>Engangsstønad ved hjemmefødsel</li>
-          <li>Barns rett til helsekontroller</li>
-          <li>​Leseverdige bøker Podcaster</li>
-          <li>Podcaster</li>
-        </ol>
-        ​​​
-      </Card>
+      <div className="mx-20" style={{ marginLeft: "10vw", width: "80vw" }}>
+        Her finner du ressurser knyttet til frifødselnettverket. Det ligger en
+        liste her med gode, inspirerende bøker. Du finner infoskriv som kan
+        styrke deg i møte med helsevesenet. Våre åpne brev til offentlige
+        etater, myndigheter, organisasjoner, medier og andre er også å finne
+        her. Her kan ressurser legges til etterhvert som de utarbeides, av ren
+        inspirasjon.
+        <Card className="m-16 p-8 w-screen">
+          <span className="font-bold">INNHOLD</span>
+          <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
+            <li>Informasjon om frifødsel</li>
+            <li>
+              Registrering av barn av som er født uten helsepersonell tilstede
+            </li>
+            <li> Om frifødsel </li>
+            <li>Podcaster </li>
+            <li>Leseverdige bøker </li>
+            <li>
+              Registrering av barn av som er født uten elsepersonell tilstede
+            </li>
+            <li>Engangsstønad ved hjemmefødsel </li>
+            <li> Barns rett til helsekontroller</li>
+            <li> Engangsstønad ved hjemmefødsel</li>
+            <li>Barns rett til helsekontroller</li>
+            <li>​Leseverdige bøker Podcaster</li>
+            <li>Podcaster</li>
+          </ol>
+          ​​​
+        </Card>
       </div>
       <div>
         <div className="w-[90vw] overflow-ellipsis">
