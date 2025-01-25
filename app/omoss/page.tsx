@@ -364,27 +364,16 @@ export default function OmOss() {
             <Accordion>
               <AccordionTab header="Helene B. Clarke">
                 <p className="m-0">
-                  Første gang jeg hørte om frifødsel var i en artikkel på vg.no
-                  <Button
-                    className="text-left"
-                    label="vg.no"
-                    link
-                    onClick={() =>
-                      window.open(
-                        "https://www.vg.no/nyheter/i/mRAkqg/freebirth-uassistert-foedsel-derfor-foedte-vi-uten-hjelp"
-                      )
-                    }
-                  />
-                  i 2020. Jeg har født to ganger og har både erfaring med en
-                  igangsatt fødsel på sykehus i 2021 og deretter en frifødsel
-                  hjemme i 2024. Den første fødselen ble en vanskelig opplevelse
-                  for meg og barnet. Da jeg ble gravid for andre gang begynte
-                  jeg å utforske å føde hjemme. Jeg leste Laura Kaplan Shanlys
-                  bok Unnasisted Childbirth, om hvordan vi bidrar til å skape
-                  vår egen virkelighet. Shanley refererer også til Marjorie
-                  Shostak sitt antropologiske arbeid om !Kung San folket, og
-                  hvordan kvinnene deres sikter mot å føde alene. Det traff meg
-                  dypt og jeg ble overbevist om at jeg også kunne gjøre det.
+                  Jeg har født to ganger og har både erfaring med en igangsatt
+                  fødsel på sykehus i 2021 og deretter en frifødsel hjemme i
+                  2024. Den første fødselen ble en vanskelig opplevelse for meg
+                  og barnet. Da jeg ble gravid for andre gang begynte jeg å
+                  utforske å føde hjemme. Jeg leste Laura Kaplan Shanlys bok
+                  Unnasisted Childbirth, om hvordan vi bidrar til å skape vår
+                  egen virkelighet. Shanley refererer også til Marjorie Shostak
+                  sitt antropologiske arbeid om !Kung San folket, og hvordan
+                  kvinnene deres sikter mot å føde alene. Det traff meg dypt og
+                  jeg ble overbevist om at jeg også kunne gjøre det.
                   <br />
                   <br />
                   En uforstyrret fysiologisk fødsel la også til rette for det
@@ -411,8 +400,23 @@ export default function OmOss() {
                   historier.
                   <br />
                   <br />
-                  Ønsker du kontakt kan du finne min kontakinfo og mine
-                  tjenester og på{" "}
+                  Første gang jeg hørte om frifødsel var i en artikkel i{" "}
+                  <Button
+                    className="text-left"
+                    label="VG"
+                    link
+                    onClick={() =>
+                      window.open(
+                        "https://www.vg.no/nyheter/i/mRAkqg/freebirth-uassistert-foedsel-derfor-foedte-vi-uten-hjelp"
+                      )
+                    }
+                  />{" "}
+                  sommeren 2020. Det resonerte ikke med meg umiddelbart, men
+                  etter å ha kjent på kroppen hva man kan bli utsatt for i
+                  sykehusfødsel begynte jeg å utforske tema.
+                  <br />
+                  <br />
+                  Ønsker du kontakt kan du finne min kontakinfo på{" "}
                   <Button
                     className="text-left"
                     label="www.heleneshage.com"

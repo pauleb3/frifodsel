@@ -140,10 +140,8 @@ export default function Home() {
         morsomsorgen som ikke kan tas igjen senere i livet.
         <br />
         <br />
-        - Vi støtter et norsk jordmoropprør som vil hente opp igjen og
-        videreutvikle det som gikk tapt da jordmorfaget ble en spesialisering av
-        en sykepleierutdanning. Vi støtter fødselsvitners rett til å jobbe med
-        lojalitet til kvinnen, ikke institusjoner.
+        - Vi støtter fødselsvitners rett til å jobbe med lojalitet til kvinnen,
+        ikke institusjoner.
         <br />
         <br />
         - Vi anerkjenner norsk lov, og vet at kun helsepersonell i kraft av sin

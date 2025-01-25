@@ -400,6 +400,18 @@ export default function Home() {
 
         <p className="text-black">
           <span className="text-black font-bold font-bold">
+            Fødselens iboende, fysiologiske skadepotensial:{" "}
+          </span>
+          En fødsel kan føre til skade på mor og barn. Skader er alt fra
+          revning, til prolaps, fastsittende babyer, ekstrem utmattelse,
+          alvorlig blodtap, morkakeløsning, navlestrengprolaps, død og
+          smertesjokk, med mer. Når dette forekommer uten medisinsk innblanding
+          og overvåkning, er det et uttrykk for fødselens fysiologiske
+          skadepotensial.
+        </p>
+
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">
             Faglig forsvarlig:{" "}
           </span>
           Det helsevesenet og deres kontrollorganer vurderer sine handlinger og
@@ -585,11 +597,8 @@ export default function Home() {
           En utdannet sykepleier med mastergrad i jordmorfag som ikke er blitt
           fratatt sin autorisasjon av Helsedirektoratet for å ha brutt
           retningslinjer eller på andre måter vist seg uskikket som
-          helsepersonell. Ordent jordmor gir en følese av en person som gir
-          omsorg og støtte. Det står i kontrast til de arbeidsoppgavene yrke
-          inneholder i dag og å vi foretrekker å kalle det en obstetrisk
-          sykepleier. Det har lenge vært et svært kvinnedominert yrke som nå
-          opplever en noe økt rekruttering av ciss-menn.
+          helsepersonell. Obstetrisk sykepleier vært et svært kvinnedominert
+          yrke som nå opplever en noe økt rekruttering av ciss-menn.
         </p>
 
         <p className="text-black">
