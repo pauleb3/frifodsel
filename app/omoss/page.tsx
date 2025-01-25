@@ -12,7 +12,7 @@ export default function OmOss() {
       <div className="p-[2vh] w-[80vw]">
         Vi er kvinner som har direkte erfaring med vill graviditet og frifødsel,
         og mennesker som støtter, feirer og gleder seg over denne typen
-        graviditet og fødsel. Ved å samle oss for frifødselssaken uten å være
+        graviditet og fødsel. Ved å samle oss for frifødselsaken uten å være
         formelt organisert, kan vi invitere inn i den ikraftgjørende dynamikken
         ved et desentralisert nettverk. Dynamikken fanger ingen i kategoriene
         følger og forbruker, men lar alle forbli skapende individer.
@@ -24,14 +24,14 @@ export default function OmOss() {
         sikt.
         <br />
         <br />
-        Av støttepersoner er traumeterapauter, birthkeepers og
+        Av støttepersoner er traumeterapeuter, birthkeepers og
         jurister/advokater etterspurt av folk i miljøene rundt frifødsel.
         <br />
         <br />
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             {" "}
-            Ulike terapauter:{" "}
+            Ulike terapeuter:{" "}
           </span>
           <br />
           Det kan være ensomt å velge annerledes. Påbegynte frifødsler kan ende
@@ -39,7 +39,7 @@ export default function OmOss() {
           systemet kan bearbeides i kontrast til hva som er mulig å oppleve i en
           frifødsel.
           <br />
-          Om du er en traumeterapaut/coach som feirer frifødsel kan du tilslutte
+          Om du er en traumeterapeut/coach som feirer frifødsel kan du tilslutte
           deg nettverket med presentasjon av deg selv og link til dine
           tjenester, slik at kvinner vet hvor de kan kontakte deg.
           <br />
@@ -293,10 +293,10 @@ export default function OmOss() {
                   />
                   <br />
                   <br />
-                  Lytt til frifødsel podcast her
+                  Lytt til
                   <Button
                     className="text-left"
-                    label="https://open.spotify.com/show/4tUU6avucZNdQZv1sHSDgT?si=7a87cddff3b64878"
+                    label="Frifødsel Podcast"
                     link
                     onClick={() =>
                       window.open(
@@ -364,16 +364,27 @@ export default function OmOss() {
             <Accordion>
               <AccordionTab header="Helene B. Clarke">
                 <p className="m-0">
-                  Jeg har født to ganger og har både erfaring med en igangsatt
-                  fødsel på sykehus i 2021 og deretter en frifødsel hjemme i
-                  2024. Den første fødselen ble en vanskelig opplevelse for meg
-                  og barnet. Da jeg ble gravid for andre gang begynte jeg å
-                  utforske å føde hjemme. Jeg leste Laura Kaplan Shanlys bok
-                  Unnasisted Childbirth, om hvordan vi bidrar til å skape vår
-                  egen virkelighet. Shanley refererer også til Marjorie Shostak
-                  sitt antropologiske arbeid om !Kung San folket, og hvordan
-                  kvinnene deres sikter mot å føde alene. Det traff meg dypt og
-                  jeg ble overbevist om at jeg også kunne gjøre det.
+                  Første gang jeg hørte om frifødsel var i en artikkel på vg.no
+                  <Button
+                    className="text-left"
+                    label="vg.no"
+                    link
+                    onClick={() =>
+                      window.open(
+                        "https://www.vg.no/nyheter/i/mRAkqg/freebirth-uassistert-foedsel-derfor-foedte-vi-uten-hjelp"
+                      )
+                    }
+                  />
+                  i 2020. Jeg har født to ganger og har både erfaring med en
+                  igangsatt fødsel på sykehus i 2021 og deretter en frifødsel
+                  hjemme i 2024. Den første fødselen ble en vanskelig opplevelse
+                  for meg og barnet. Da jeg ble gravid for andre gang begynte
+                  jeg å utforske å føde hjemme. Jeg leste Laura Kaplan Shanlys
+                  bok Unnasisted Childbirth, om hvordan vi bidrar til å skape
+                  vår egen virkelighet. Shanley refererer også til Marjorie
+                  Shostak sitt antropologiske arbeid om !Kung San folket, og
+                  hvordan kvinnene deres sikter mot å føde alene. Det traff meg
+                  dypt og jeg ble overbevist om at jeg også kunne gjøre det.
                   <br />
                   <br />
                   En uforstyrret fysiologisk fødsel la også til rette for det
@@ -465,8 +476,8 @@ export default function OmOss() {
           <br />
           <br />
           Hvis du tilslutter deg nettverket i kategorien «kvinner som har
-          direkte erfaring med vill graviditet og frifødsel», så kan du presente
-          deg ved å svare på disse spørsmålene:{" "}
+          direkte erfaring med vill graviditet og frifødsel», så kan du
+          presentere deg ved å svare på disse spørsmålene:{" "}
           <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
             <li>
               Beskriv din direkte, selvopplevde erfaring med vill graviditet og

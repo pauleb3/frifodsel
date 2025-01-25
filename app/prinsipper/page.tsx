@@ -97,8 +97,7 @@ export default function Home() {
         fostret, som blant annet er: <br /> <br />
         1. Risiko for overmedikalisering. <br />
         2. Å ikke få fullt ut realisert potensialet for intuisjon og kontakt med
-        barnet i magen og kontakt med egen kropp, som kan bygges opp gjennom en
-        graviditet.
+        barnet i magen og egen kropp, som kan bygges opp gjennom en graviditet.
         <br />
         3. Tilvenning til å lene seg på ytre autoriteter, som også er en
         avvenning fra å lytte til sin indre autoritet. <br />

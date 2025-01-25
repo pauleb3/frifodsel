@@ -44,11 +44,11 @@ export default function Home() {
           <br />
           <br />
           Du kan også skrive og skape uten å blande inn andre, og da gjør du det
-          bare under eget navn. Radikalt selvutrykk som kilden til energi og
+          bare under eget navn. Radikalt selvuttrykk som kilden til energi og
           nyskapning kjennetegner dette desentraliserte nettverket.
           <br />
           <br />
-          Forslag til frifødselnettverket sine bloggkategorier:
+          Forslag til bloggkategorier for Frifødselnettverket:
           <br />
           - Fødselsdebatt i media
           <br />
@@ -65,7 +65,7 @@ export default function Home() {
           - Kvinnelighet og feminitet
           <br />
           <br />
-          Her er forslag til hashtager som kan brukes på sosiale medier og
+          Her er forslag til emneknagger som kan brukes på sosiale medier og
           blogg:
           <br />
           #frifodselnet #frifodsel #fodselsfrihet #kvinneligfodsel

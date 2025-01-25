@@ -170,9 +170,7 @@ export default function Home() {
             Birthkeeper-assistert fødsel{" "}
           </span>
           En frifødsel planlagt i samarbeid med en uavhengig birthkeeper eller
-          fødselsvitne på norsk, og utført med hennes støtte. Denne
-          birthkeeperen er som en opprinnelig «Jordmor», som før praksisen ble
-          kapret av medisinen.
+          fødselsvitne, og utført med hennes støtte.
         </p>
 
         <p className="text-black">
@@ -196,7 +194,7 @@ export default function Home() {
           håndjern, mens man bokstavelig talt sitter fengslet for et lovbrudd,
           men det å la seg sperres inne av helsevesenet under fødsel i søken på
           trygghet og overlevelse. Som et dyr i bur tror den fødende kvinnen hun
-          er tryggere der enn i “villmarken”, og kanskje er det også sant om hun
+          er tryggere der enn i «villmarken», og kanskje er det også sant om hun
           har blitt domestikert i den grad at hun har mistet kontakten med sine
           urinstinkter. De som er født i fangenskap «velger» å føde i fangenskap
           helt til de bryter ut og gjenoppdager sin ville natur.
@@ -587,8 +585,9 @@ export default function Home() {
           En utdannet sykepleier med mastergrad i jordmorfag som ikke er blitt
           fratatt sin autorisasjon av Helsedirektoratet for å ha brutt
           retningslinjer eller på andre måter vist seg uskikket som
-          helsepersonell. En autorisert jordmor er så forskjellig fra hva
-          jordmor en gang betød at vi foretrekker å kalle det en obstetrisk
+          helsepersonell. Ordent jordmor gir en følese av en person som gir
+          omsorg og støtte. Det står i kontrast til de arbeidsoppgavene yrke
+          inneholder i dag og å vi foretrekker å kalle det en obstetrisk
           sykepleier. Det har lenge vært et svært kvinnedominert yrke som nå
           opplever en noe økt rekruttering av ciss-menn.
         </p>
@@ -649,7 +648,7 @@ export default function Home() {
           Det er individer med en utdannelse som gjør at de på fritiden har en
           særskilt plikt til å hjelpe til i nødssituasjoner og ved ulykker. Når
           de er på jobb yter de helsetjenester og administrerer legemidler til
-          pasienter. Leger, sykepleiere, hjelpepleiere, fysioterapauter og
+          pasienter. Leger, sykepleiere, hjelpepleiere, fysioterapeuter og
           autoriserte jordmødre er eksempel på helsepersonell.
         </p>
 
@@ -1118,13 +1117,12 @@ export default function Home() {
             {" "}
             Ansvarsfraskrivelse:{" "}
           </span>
-          Ansvarsfraskrivelse: Denne ordlisten er{" "}
-          <span className="italic">ikke</span> helsefaglig informasjon. Den er
-          utformet av ufaglærte som et normativt referanseverk, og eventuell
-          bruk, læring eller refleksjon – enten i samsvar med eller i opposisjon
-          til innholdet – skjer på eget ansvar. Forfatterne fraskriver seg
-          ethvert ansvar for direkte eller indirekte konsekvenser av hvordan
-          innholdet tolkes eller anvendes.
+          Denne ordlisten er <span className="italic">ikke</span> helsefaglig
+          informasjon. Den er utformet av ufaglærte som et normativt
+          referanseverk, og eventuell bruk, læring eller refleksjon – enten i
+          samsvar med eller i opposisjon til innholdet – skjer på eget ansvar.
+          Forfatterne fraskriver seg ethvert ansvar for direkte eller indirekte
+          konsekvenser av hvordan innholdet tolkes eller anvendes.
           <br />
         </p>
       </Card>
