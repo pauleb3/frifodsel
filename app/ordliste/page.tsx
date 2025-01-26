@@ -408,6 +408,10 @@ export default function Home() {
           smertesjokk, med mer. Når dette forekommer uten medisinsk innblanding
           og overvåkning, er det et uttrykk for fødselens fysiologiske
           skadepotensial.
+          <br />
+          <br />
+          <br />
+          <br />
         </p>
 
         <p className="text-black">
