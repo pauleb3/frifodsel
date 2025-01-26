@@ -150,9 +150,9 @@ export default function Home() {
         <br />
         <br />
         - Vi gjør opprør mot den autoriserte, medisinske kapringen av ord,
-        utdannelser, kvaliteter og roller slik som «jordmor», «medisin» og
-        «helse». Vi mener dette er begreper som har et større potensial enn det
-        som dekkes av naturvitenskapens medisinfag og praksis.
+        utdannelser, kvaliteter og roller slik som «medisin» og «helse». Vi
+        mener dette er begreper som har et større potensial enn det som dekkes
+        av naturvitenskapens medisinfag og praksis.
         <br />
         <br />
         - Vi tar avstand fra voldelig språk og handlinger, og tar sikte på å

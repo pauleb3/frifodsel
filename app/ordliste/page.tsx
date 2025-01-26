@@ -416,7 +416,7 @@ export default function Home() {
           </span>
           Det helsevesenet og deres kontrollorganer vurderer sine handlinger og
           feilsteg opp mot. På denne måten tar de avstand fra faktiske
-          konsekvenser, og flytter vurderingen til et metanivå av
+          konsekvenser, og flytter delvis vurderingen til et metanivå av
           retningslinjer.
         </p>
 
@@ -431,13 +431,13 @@ export default function Home() {
           <span className="text-black font-bold font-bold">
             Obstetrisk vold:{" "}
           </span>
-          En dårlig måte å utøve sitt yrke som autorisert jordmor og fødselslege
-          på der en tvinger, presser og krenker sine pasienter for å få dem til
-          å innordne seg normer og retningslinjer. Å ha opplevd obstetrisk vold
-          er å ha blitt utsatt for dette, av det personell som skulle ha gitt
-          helsehjelp med omsorg og basert på informert samtykke. Dette er ofte
-          svært traumatiserende å oppleve, men også noe det kan ta lang tid å
-          innse.
+          En dårlig måte å utøve sitt yrke som autorisert jordmor eller
+          fødselslege på der en tvinger, presser og krenker sine pasienter for å
+          få dem til å innordne seg normer og retningslinjer. Å ha opplevd
+          obstetrisk vold er å ha blitt utsatt for dette, av det personell som
+          skulle ha gitt helsehjelp med omsorg og basert på informert samtykke.
+          Dette er ofte svært traumatiserende å oppleve, men også noe det kan ta
+          lang tid å innse at man har vært utsatt for.
         </p>
 
         <p className="text-black">

@@ -59,12 +59,10 @@ export default function OmOss() {
           utfører ingen medisinske intervensjoner eller diagnostisering.
           <br />
           <br />
-          Jordmor er kanskje menneskeartens eldste yrke, og birthkeepere
-          viderefører noen aspekter ved det. Mulighetspotensialet er en
-          gjensidig samtykket relasjon som styrker og helbreder. Kvinneressonans
-          og å bli holdt kan være berikende i en fødsel. Å få støtte en kvinne i
-          fødsel, og et menneskets ankomst til jordlivet, er en ære som gir et
-          uslåelig energetisk påfyll.
+          Mulighetspotensialet er en gjensidig samtykket relasjon som styrker og
+          helbreder. Kvinneressonans og å bli holdt kan være berikende i en
+          fødsel. Å få støtte en kvinne i fødsel, og et menneskets ankomst til
+          jordlivet, er en ære som gir et uslåelig energetisk påfyll.
           <br /> <br />
           I tråd med nettverkets prinsipper har birthkeepers et ansvar for å kun
           ta til seg klienter som er i stand til å ta fullt ansvar for seg selv
