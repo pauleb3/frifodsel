@@ -219,9 +219,9 @@ export default function Home() {
         naturlig og fri fødsel kan kun skje i fravær av helsepersonell».
         Dikotomisk kan det høres ut som at en god fødsel er slik, og at det
         betyr at alle andre fødsler er dårlige. Men, virkeligheten er paradoksal
-        og kompleks. En fysiologisk fødsel er virkelig bra. Det ønsker vi at
-        anerkjennes. <span className="italic">Og </span> en annen type fødsel
-        kan være bra, <span className="italic">og </span>
+        og kompleks. En fysiologisk fødsel er bra.{" "}
+        <span className="italic">Og </span> en annen type fødsel kan være bra,{" "}
+        <span className="italic">og </span>
         en tredje type fødsel kan være bra. Selv om en ting er sant, er ikke det
         motsatte nødvendigvis usant. La oss skape dialog gjennom
         både-og-tenkning.

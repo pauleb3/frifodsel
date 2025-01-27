@@ -91,7 +91,6 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Vill graviditet:{" "}
@@ -107,7 +106,6 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Påbegynt frifødsel:{" "}
@@ -127,7 +125,6 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Transportfødsel:{" "}
@@ -142,7 +139,6 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Uassistert fødsel:{" "}
@@ -164,7 +160,6 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Birthkeeper-assistert fødsel{" "}
@@ -180,6 +175,22 @@ export default function Home() {
           <br />
         </p>
 
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">
+            Familiefødsel:{" "}
+          </span>
+          En fellesskapssentrert, uassistert fødsel der eldre barn, partner,
+          tanter, søstre eller andre familiemedlemmer er de eneste tilskuerne og
+          hjelperne for fødemor. En seremoni til ære for det nye
+          familiemedlemmets ankomst og morskap.
+        </p>
+
+        <p className="text-black">
+          <br />
+          <br />
+          <br />
+          <br />
+        </p>
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Fødsel i fangenskap:{" "}
@@ -199,14 +210,12 @@ export default function Home() {
           urinstinkter. De som er født i fangenskap «velger» å føde i fangenskap
           helt til de bryter ut og gjenoppdager sin ville natur.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Hjemmefødsel: </span>
           Å engasjere en autorisert jordmor som du kan tilkalle og som vil
@@ -219,14 +228,12 @@ export default function Home() {
           fra deg, i den siste, sårbare delen av graviditeten da alt du ønsker
           er stabilitet og tryggheten i at du er holdt.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Sykehusfødsel:{" "}
@@ -243,14 +250,12 @@ export default function Home() {
           generasjoner, og mest sannsynlig glemmes som bare en i mengden av de
           som var på jobb den dagen.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Fysiologisk fødsel:{" "}
@@ -260,14 +265,12 @@ export default function Home() {
           At mor og barns iboende instinkter får utfolde seg gjør fødselen
           fysiologisk.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Den hellige pausen:{" "}
@@ -276,14 +279,12 @@ export default function Home() {
           barnet. Denne pausen bør respekteres og det er ikke noe galt i å bruke
           litt tid på det.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Den gyldne timen:
@@ -295,14 +296,68 @@ export default function Home() {
           vil oppleve, noe som ofte gir en enorm følelse av kjærlighet for
           barnet som er født.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">
+            Ferguson-refleksen:{" "}
+          </span>
+          Den spontane trykketrangen man ikke får oppleve ved instruert
+          trykking. Dette er en refleks som trigges av den pressende delen av
+          fosteret stimulerer nervereseptorer i bekkenbunnen som igjen gir en
+          tilbakemeldingssløyfe som utløser mer og mer oksytocin og endrer
+          sammentrekningsmønsteret til sterkere og mer utstøtende. Dette er den
+          normale ukontrollerbare spontane trangen til å trykke, som mange
+          beskriver som presserier. Begrepet Ferguson-refleksen er oppkalt etter
+          legen James Ferguson etter at han beskrev fenomenet i en artikkel i
+          1941. Denne refleksen må ikke forveksles med
+          Fosterutløsnings-refleksen.
+        </p>
+        <p className="text-black">
+          <br />
+          <br />
+          <br />
+          <br />
+        </p>
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">
+            Fosterutløsnings-refleksen:{" "}
+          </span>
+          («The Fetus Ejection Reflex»).Dette er et fantastisk spennende fenomen
+          der hele barnet fødes på en gang! Refleksen er avhengig av fraværet av
+          andres nærvær eller undersøkelser. I et privat og mørkt miljø, der
+          kvinnen opplever uobservert frihet til å være primal, kan det skje.
+          Analytisk tenkning eller bevissthet må også være pauset. <br />
+          <br /> Begrepet ble popularisert av den franske fødselslegen Michel
+          Odent, som merket seg fenomenet flere ganger. Odent mener
+          fosterutløsnings-refleksen forebygger rifter, legger til rette for en
+          ideel morkakefødsel og er den beste forebyggingen mot alvorlig
+          blødning. Andre leger kan kanskje anse fenomenet som en myte, kanskje
+          fordi fødslene de har sett har foregått i miljøer som effektivt
+          blokkerer for denne refleksen. <br />
+          <br />
+          Forsterutsøtnings-refleksen kan eliminere hele det andre stadiet, også
+          kalt aktiv fødsel. Den kan sette inn lenge før livmorhalsen har åpnet
+          seg 10 cm og før barnet har kommet ned på bekkenbunn. En forutsetning
+          ser også ut til å være intakt fostersekk. Det starter med noen få
+          kraftige rier som ikke gir rom for frivillige bevegelser, før fosteret
+          skytes ut kvinnen på en ri i en voldsom kraft. Kvinnen befinner seg
+          som regel i en oppreist eller framoverbøyd posisjon uten å kunne
+          bevege seg. <br />
+          <br />
+          Fosterutløsingsrefleksen gjør fødselen trygg, og forsvarer å velge et
+          fødselsmiljø der en er totalt uobservert og uforstyrret.
+        </p>
+        <p className="text-black">
+          <br />
+          <br />
+          <br />
+          <br />
+        </p>
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Suveren fødsel:{" "}
@@ -312,14 +367,12 @@ export default function Home() {
           Altså, de opererer med et begrep for frifødsel der fødsel med
           profesjonelle fødselsarbeidere tilstede utelukkes.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Radical Birth Keeper:{" "}
@@ -328,14 +381,12 @@ export default function Home() {
           School eller MatriBirth Midwifery Institute utdannelsen hos Freebirth
           Society.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Free Birth Society:{" "}
@@ -357,7 +408,6 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             The Complete Guide to Freebirth:{" "}
@@ -365,14 +415,12 @@ export default function Home() {
           Et nettkurs laget av Emilee Saldaya og Yolande Norris-Clark som er
           manges forberedelse til å friføde selv.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Iatrogen skade:{" "}
@@ -390,14 +438,12 @@ export default function Home() {
           ikke at de ikke kan være riktige å bruke, men at også i de tilfellene
           det er riktig valg vil fordelene følges av skade.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Fødselens iboende, fysiologiske skadepotensial:{" "}
@@ -413,7 +459,6 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Faglig forsvarlig:{" "}
@@ -423,14 +468,12 @@ export default function Home() {
           konsekvenser, og flytter delvis vurderingen til et metanivå av
           retningslinjer.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Obstetrisk vold:{" "}
@@ -443,14 +486,12 @@ export default function Home() {
           Dette er ofte svært traumatiserende å oppleve, men også noe det kan ta
           lang tid å innse at man har vært utsatt for.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Etterfødselssamtale:{" "}
@@ -462,12 +503,10 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Barnevernet: </span>
           Det norske barnevern har som mandat å sørge for at umyndige
@@ -476,14 +515,12 @@ export default function Home() {
           har vist seg å gjøre bedre vurderinger av friføderes omsorgsevne enn
           helsepersonell.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Omsorgssvikt: </span>
           Å ikke elske og ta vare på barna sine til den grad som dekker deres
@@ -502,14 +539,12 @@ export default function Home() {
           tilknytningen mellom mor og barn, kanskje det mest definerende for
           hvordan det nye individet vil klare seg i livet.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Morkake: </span>
           Morkaken er et blodfylt organ som har en morsside og en barnside.
@@ -519,14 +554,12 @@ export default function Home() {
           fortsatt en stor andel av babyens blod der. Det må gis tid til at alt
           blodet får pulsere ut.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Morkakefødsel:{" "}
@@ -534,14 +567,12 @@ export default function Home() {
           Etter at babyens kropp er født er morkaken fortsatt inne i livmoren.
           Morkakens passasje gjennom fødselsportalen er morkakefødselen.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Morkakebegravelse:{" "}
@@ -550,14 +581,12 @@ export default function Home() {
           fortjener en verdig begravelse, for eksempel under et frukttre i
           hagen.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Lotusfødsel: </span>Å
           la navlesnor og morkake være påkoblet den nyfødte til den løsner fra
@@ -574,7 +603,6 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Fødselens hormonelle mal:{" "}
@@ -586,14 +614,12 @@ export default function Home() {
           å føde i omgivelser som føles trygge og kjente, og hvordan stress og
           følesen av utrygghet hindrer og skader fødselsprosessen.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Autorisert jordmor:{" "}
@@ -604,14 +630,12 @@ export default function Home() {
           helsepersonell. Obstetrisk sykepleier vært et svært kvinnedominert
           yrke som nå opplever en noe økt rekruttering av ciss-menn.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Fødselslege: </span>
           En utdannet lege som har en tilleggsspesialisering i obstetrikk og
@@ -627,14 +651,12 @@ export default function Home() {
           hjerteskjærende posisjon for legene å bli satt i, uten å sette dette
           over familien vår sine behov.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Medisinsk kidnapping:{" "}
@@ -646,14 +668,12 @@ export default function Home() {
           er galt, og at foreldre kan ha rett og handle godt når de begrenser
           medisinske intervensjoner overfor sine barn.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Helsepersonell:{" "}
@@ -664,14 +684,12 @@ export default function Home() {
           pasienter. Leger, sykepleiere, hjelpepleiere, fysioterapeuter og
           autoriserte jordmødre er eksempel på helsepersonell.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Informert samtykke:{" "}
@@ -681,14 +699,12 @@ export default function Home() {
           samtykke, altså si ja til det, på en informert måte. Å samtykke er å
           ønske behandlingen basert på realistiske forventninger.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Informert avslag:{" "}
@@ -700,14 +716,12 @@ export default function Home() {
           eller har en høy toleranse for usikkerhet, eller baserer sin vurdering
           på andre verdier og siktemål enn nytte-kostnadanalyse.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Retten til privatliv:{" "}
@@ -718,14 +732,12 @@ export default function Home() {
           menneskerettigheter og verdier som gir livskvalitet når det
           respekteres, og ødelegger livskvalitet når det overkjøres.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Bekymringsmelding til barnevernet:{" "}
@@ -738,14 +750,12 @@ export default function Home() {
           en forelder-overgriper. I virkeligheten er barnevernssaker komplekse
           prosesser, og ikke en enkel måte å «redde» noen på.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Tilstedeværelse i øyeblikket:{" "}
@@ -757,14 +767,12 @@ export default function Home() {
           kultiveres gjennom ulike praksiser, for eksempel yoga, mindfullness,
           the Kiloby Inquiries og De Tre Prinsipper fra Sydney Banks.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Selvbestemt abort:{" "}
@@ -778,14 +786,12 @@ export default function Home() {
           likevel utføres i spesielle tilfeller frem til uke 22 med døden til
           følge for fosteret.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Kvinne: </span>
           En kvinne er et voksent, myndig menneske og et individ. Når vi skriver
@@ -811,42 +817,36 @@ export default function Home() {
           <br />Å være biologisk (bio-logisk) ciss-kvinne er å ta sikte på å
           leve etter biologisk design og naturens harmoni som kvinne.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Venterom: </span>
           Et sted å bruke den lille, våkne fritiden vi har tilgjengelig i dagens
           samfunn. Der venter man på at det er sin tur til å komme inn til
           legen, som da er på jobb, og har sin fritid senere på dagen.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Symptomer: </span>
           Kroppslige opplevelser og ubehag mange tror de er pålagt å fortelle
           helsepersonell om for å få dem vurdert, men du kan ha symptomer uten å
           blande inn helsepersonell. Dette er retten til å ikke bli pasient.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Sykdom: </span>
           Hvis kroppen var en maskin så ville sykdommene vært feilene som
@@ -854,40 +854,34 @@ export default function Home() {
           kaller sykdommer er meningsfulle adaptasjoner, men de kan likefullt
           være dødelige.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Medisin: </span>
           En medisin helbreder. Legemidler er derfor ofte ikke medisiner, men
           noe som angriper og fjerner symptomer.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Helsevesenet:</span>{" "}
           Toppen av samfunnets hierarki. Mer innflytelsesrike enn økonomien,
           politikken og vitenskap generelt.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Omreisende fødselsambulanse:{" "}
@@ -897,26 +891,22 @@ export default function Home() {
           ville vært en måte å innrette den offentlige fødselsomsorgen på helt
           annerledes enn nå.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Åndelighet: </span>Å
           ha kontakt med ikke-fysiske aspekter av livet.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Spirituell: </span>
           Alt har en spirituell dimensjon ved seg og uttrykker en viss
@@ -924,14 +914,12 @@ export default function Home() {
           uten Gud, med materialisme som grunnlag, en ikke-spirituell
           spiritualitet.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Helsestasjonen:{" "}
@@ -940,38 +928,32 @@ export default function Home() {
           gjennom barndommen. Norske mødres kontrollsenter, et sted fedre drar i
           mye midre grad.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Skatteetaten: </span>
           Teller, navngir og kjønner nasjonalstatens befolkning.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Byråkrati:</span>{" "}
           Storskalaorganisering.
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Barselopprøret, Bunadsgeriljaen, Landsforeningen 1001 dager og
@@ -992,12 +974,10 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Helsedirektoratet:{" "}
@@ -1005,28 +985,24 @@ export default function Home() {
           De som gir retningslinjer og kvalitetssikrer utdannelser innen
           helsefag.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             UKOM og Helsetilsynet:{" "}
           </span>
           De som lager rapporter ved alvorlige hendelser i helsevesenet.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Rapport etter uønsket hendelse:{" "}
@@ -1037,12 +1013,10 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold"> Unnfangelse: </span>
           Samleie mellom fruktbar mann og kvinne kan føre til unnfangelse av et
@@ -1051,12 +1025,10 @@ export default function Home() {
           paralleller og flere ulikheter i denne syklusen. <br />
           <br />
         </p>
-
         <p className="text-black">
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold"> Dødfødsel: </span>
           Døden, spontanabort og naturlig dødfødsel reflekterer frifødende
@@ -1065,12 +1037,10 @@ export default function Home() {
           fortellinger fra frifødende om dette. <br />
           <br />
         </p>
-
         <p className="text-black">
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Døden: </span>
           Menneskeheten kan ikke seire over døden. Samtidig er naturgitt død og
@@ -1093,12 +1063,10 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Må: </span>
           Når man velger noe uten å ta eierskap til valget sier man «jeg måtte».
@@ -1106,13 +1074,11 @@ export default function Home() {
           frihet og valg. <br />
           <br />
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Ordlisten er utarbeidet av A. B-W. Solberg og H. B. Clarke, <br />

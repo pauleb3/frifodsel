@@ -48,11 +48,13 @@ export default function OmOss() {
         <p className="text-black">
           <span className="text-black font-bold font-bold">Birthkeeper: </span>
           <br />
-          Frihetssøkende fødende kan ønske å motta støtte fra en birthkeeper
-          (fødselsvitne), og noen handler på et dypt kall til å innta rollen.
-          Birthkeepere, slik dette nettverket definerer det, tilbyr praktisk,
-          emosjonell, psykologisk og energetisk støtte i svangerskap, fødsel og
-          barseltid, med klare grenser og tydelig kommunikasjon.
+          Hvis en frihetssøkende fødende ikke tar sikte på å utnytte fordelene
+          ved en totalt uobservert fødsel, kan hun ønske støtte av en
+          birthkeeper (fødselsvitne), og noen handler på et dypt kall til å
+          innta rollen. Birthkeepere, slik dette nettverket definerer det,
+          tilbyr praktisk, emosjonell, psykologisk og energetisk støtte i
+          svangerskap, fødsel og barseltid, med klare grenser og tydelig
+          kommunikasjon.
           <br />
           Birthkeepers tar <span className="italic">ikke </span> på seg ansvar
           for utfallet av uassisterte fødsler, innehar ikke medisinsk ansvar og
@@ -165,6 +167,62 @@ export default function OmOss() {
             <Accordion>
               <AccordionTab header="Maria Heiberg">
                 <p className="m-0"></p>
+                Jeg er en av initiativtagerne til frifødselsbevegelsen i Norge,
+                og er her for å bistå i den kollektive oppvåkningen tilbake til
+                feminine og jordnære verdier.
+                <br />
+                <br />
+                Etter en nær døden opplevelse som 3åring har jeg alltid
+                fascinert meg av døden, fødsler og det åndelige.
+                <br />
+                <br />
+                Jeg jobbet med døende i 7 år, og trives med å holde rom for
+                livets overganger.
+                <br />
+                <br />
+                I 2021 ble min første fødsel igangsatt på sykehuset. En
+                traumatisk opplevelse preget av overformynderi og dårlig omsorg.
+                Å gå gravid og føde innad i det medisinske systemet opplevde jeg
+                som både forstyrrende og begrensende, preget av en fundamentellt
+                manglende forståelse for fødselens energetiske og spirituelle
+                dimensjon. <br />
+                <br />
+                Opplevelsen av å ikke bli møtt på det planet jeg trengte for å
+                føle meg trygg, fikk meg til å opprette en kvinnesirkel sammen
+                med andre frifødende under mitt andre svangerskap. Kjærlighet,
+                tillit og autensitet erstattet protokoller og retningslinjer.{" "}
+                <br />
+                <br />
+                Barn nummer to ble født hjemme med familien, uten
+                helsepersonell. En hverdagslig og enkel, terapeutisk og
+                nytelsesfylt opplevelse. Å ta tilbake fødselen som en hellig og
+                integrert familieseremoni er den vakreste initeringen i mitt
+                liv. <br />
+                <br />
+                For tiden er jeg hjemme med to små barn, koordinerer et
+                community prosjekt og fasiliteter digitale kvinnesirkler for
+                Holistisk Forbund.
+                <br />
+                <br /> Min bønn er at kvinner får avgjøre hvor, når og med hvem
+                vi føder våre barn, at vi hedres for denne innsatsen med god
+                omsorg i barselstiden og at de som ønsker det får økonomisk
+                støtte til å være hjemme med barna sine. <br />
+                <br />
+                Jeg lar meg inspirere av naturens sykliske visdom, av det
+                guddommelige og av kjærligheten.
+                <br />
+                <br /> Du finner meg på instagram:{" "}
+                <Button
+                  className="text-left"
+                  label="@mariaheiberg"
+                  link
+                  onClick={() =>
+                    window.open(
+                      "https://www.instagram.com/maria.heiberg/",
+                      "_blank"
+                    )
+                  }
+                />
               </AccordionTab>
             </Accordion>
           </div>
