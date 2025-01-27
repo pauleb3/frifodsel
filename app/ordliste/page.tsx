@@ -315,7 +315,7 @@ export default function Home() {
           beskriver som presserier. Begrepet Ferguson-refleksen er oppkalt etter
           legen James Ferguson etter at han beskrev fenomenet i en artikkel i
           1941. Denne refleksen må ikke forveksles med
-          Fosterutløsnings-refleksen.
+          Fosterutstøtnings-refleksen.
         </p>
         <p className="text-black">
           <br />
@@ -325,32 +325,37 @@ export default function Home() {
         </p>
         <p className="text-black">
           <span className="text-black font-bold font-bold">
-            Fosterutløsnings-refleksen:{" "}
+            Fosterutstøtnings-refleksen:{" "}
           </span>
-          («The Fetus Ejection Reflex»).Dette er et fantastisk spennende fenomen
-          der hele barnet fødes på en gang! Refleksen er avhengig av fraværet av
-          andres nærvær eller undersøkelser. I et privat og mørkt miljø, der
-          kvinnen opplever uobservert frihet til å være primal, kan det skje.
-          Analytisk tenkning eller bevissthet må også være pauset. <br />
-          <br /> Begrepet ble popularisert av den franske fødselslegen Michel
-          Odent, som merket seg fenomenet flere ganger. Odent mener
-          fosterutløsnings-refleksen forebygger rifter, legger til rette for en
-          ideel morkakefødsel og er den beste forebyggingen mot alvorlig
-          blødning. Andre leger kan kanskje anse fenomenet som en myte, kanskje
+          («The Fetus Ejection Reflex», FER). Dette er et fantastisk spennende
+          fenomen der hele barnet fødes på en gang! I et privat og mørkt miljø,
+          der kvinnen opplever uobservert frihet til å være primal, kan det
+          skje! Analytisk eller bevisst tenkning må også være pauset. <br />
+          <br />
+          Begrepet ble popularisert av den franske fødselslegen Michel Odent,
+          som merket seg fenomenet flere ganger. Odent mener
+          fosterutstøtnings-refleksen forebygger rifter, legger til rette for en
+          ideell morkakefødsel og er den beste forebyggingen mot alvorlig
+          blødning. Andre leger kan muligens anse fenomenet som en myte, kanskje
           fordi fødslene de har sett har foregått i miljøer som effektivt
           blokkerer for denne refleksen. <br />
           <br />
-          Forsterutsøtnings-refleksen kan eliminere hele det andre stadiet, også
-          kalt aktiv fødsel. Den kan sette inn lenge før livmorhalsen har åpnet
-          seg 10 cm og før barnet har kommet ned på bekkenbunn. En forutsetning
-          ser også ut til å være intakt fostersekk. Det starter med noen få
-          kraftige rier som ikke gir rom for frivillige bevegelser, før fosteret
-          skytes ut kvinnen på en ri i en voldsom kraft. Kvinnen befinner seg
-          som regel i en oppreist eller framoverbøyd posisjon uten å kunne
-          bevege seg. <br />
+          Fosterutstøtnings-refleksen kan eliminere hele utdrivningsfasen. Den
+          kan sette inn lenge før livmorhalsen har åpnet seg ti cm og før barnet
+          har kommet ned på bekkenbunnen. En forutsetning ser også ut til å være
+          intakt fostersekk. <br />
           <br />
-          Fosterutløsingsrefleksen gjør fødselen trygg, og forsvarer å velge et
-          fødselsmiljø der en er totalt uobservert og uforstyrret.
+          Det starter med noen kraftige pulserende rier som ikke gir rom for
+          frivillige bevegelser, før fosteret skytes ut av kvinnen på en ri, med
+          voldsom kraft. Kvinnen befinner seg som regel i en oppreist eller
+          framoverbøyd posisjon uten å kunne bevege seg.
+          <br />
+          <br />
+          Fosterutstøtnings-refleksen gjør fødselen trygg ved å for eksempel
+          eliminere faren for skulderdystoci. Denne tryggheten forsvarer det å
+          velge et fødselsmiljø der en <span className="italic">ikke</span>{" "}
+          undersøkes og overvåkes av andre, men er totalt uobservert og
+          uforstyrret.
         </p>
         <p className="text-black">
           <br />

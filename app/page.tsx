@@ -37,8 +37,8 @@ export default function Home() {
         til pasienter. I tråd med våre prinsipper oppfordrer vi{" "}
         <span className="italic">ikke</span> til spesifikk handling, men til en
         holdning av radikalt selvansvar og personlig integritet. Vi oppfordrer
-        til å tenke på det som står her, men ikke handle på det. Din handling er
-        opp til deg.
+        til å tenke på det som står her, men handle på det. Din handling er opp
+        til deg.
         <br /> <br />
         <br />
         <span className="text-black font-bold font-bold">
