@@ -8,7 +8,6 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col p-8 items-center bg-white justify-between">
       <h1 className="text-5xl font-bold m-6">Frifødsel Nettverk Blogg</h1>​​{" "}
-      <div className="cover shrink-0 h-[30vw] w-[70vw]"></div>
       <br /> <br />{" "}
       <div className="m-12 p-8 lg:mx-48">
         <Card className="p-2 overflow-hidden">

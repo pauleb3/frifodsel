@@ -9,7 +9,7 @@ export default function Home() {
         <br />
         ORDLISTE
       </h1>
-      <div className="m-16 p-8">
+      <div className="m-4 p-4">
         Dette er en fragmentarisk ordliste som blander definering med normering.
         Listen har som formål å utdype nettverkets prinsipper, berike
         kategoriseringer av fødsel og oppmuntre til å sette ord på det vi ikke
@@ -1090,7 +1090,7 @@ export default function Home() {
             med gjensidig tilbakemelding og tillegg. <br />
             Godkjennelse er gitt av M. B. Dybvik.
             <br />
-            17. januar 2025
+            29. januar 2025
             <br />
             <br />
             <br />
