@@ -92,6 +92,16 @@ export default function Home() {
           <br />
         </p>
         <p className="text-black">
+          <span className="text-black font-bold font-bold">Solofødsel: </span>
+          Å friføde alene. Uforstyrret og uobservert, helt fri og uhemmet. Uten
+          andre mennesker tilstede.
+          <br />
+          <br />
+          <br />
+          <br />
+        </p>
+
+        <p className="text-black">
           <span className="text-black font-bold font-bold">
             Vill graviditet:{" "}
           </span>
