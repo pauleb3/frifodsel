@@ -28,7 +28,7 @@ export default function RootLayout({
           <NavBar />
           {children}
           <footer className="text-right bg-slate-200 border-t-2 p-16">
-            <span className="text-xl bold">Frifødsel nettverk 2025</span>
+            <span className="text-xl bold">Frifødsel nettverk 2025 ©</span>
           </footer>{" "}
         </body>
       </html>
