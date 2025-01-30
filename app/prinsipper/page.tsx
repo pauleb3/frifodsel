@@ -140,8 +140,9 @@ export default function Home() {
         morsomsorgen som ikke kan tas igjen senere i livet.
         <br />
         <br />
-        - Vi støtter fødselsvitners rett til å jobbe med lojalitet til kvinnen,
-        ikke institusjoner.
+        - Vi støtter kvinners rett til selv å velge hvem som skal være til stede
+        under fødselen, inkludert frie fødselsvitner som utelukkende er lojale
+        mot henne, ikke mot institusjoner.
         <br />
         <br />
         - Vi anerkjenner norsk lov, og vet at kun helsepersonell i kraft av sin

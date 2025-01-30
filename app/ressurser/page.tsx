@@ -15,26 +15,31 @@ export default function Home() {
         styrke deg i møte med helsevesenet. Våre åpne brev til offentlige
         etater, myndigheter, organisasjoner, medier og andre er også å finne
         her. Her kan ressurser legges til etterhvert som de utarbeides, av ren
-        inspirasjon.
+        inspirasjon. <br /> <br />
         <Card className="m-16 p-8 w-screen">
           <span className="font-bold">INNHOLD</span>
           <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
+            {" "}
+            <br /> <br />
             <li>Informasjon om frifødsel</li>
+            <br /> <br />
             <li>
               Registrering av barn av som er født uten helsepersonell tilstede
-            </li>
-            <li> Om frifødsel </li>
-            <li>Podcaster </li>
-            <li>Leseverdige bøker </li>
+            </li>{" "}
+            <br /> <br />
+            <li> Om frifødsel </li> <br /> <br />
+            <li>Podcaster </li> <br /> <br />
+            <li>Leseverdige bøker </li> <br /> <br />
             <li>
               Registrering av barn av som er født uten elsepersonell tilstede
-            </li>
-            <li>Engangsstønad ved hjemmefødsel </li>
-            <li> Barns rett til helsekontroller</li>
-            <li> Engangsstønad ved hjemmefødsel</li>
-            <li>Barns rett til helsekontroller</li>
-            <li>​Leseverdige bøker Podcaster</li>
-            <li>Podcaster</li>
+            </li>{" "}
+            <br /> <br />
+            <li>Engangsstønad ved hjemmefødsel </li> <br /> <br />
+            <li> Barns rett til helsekontroller</li> <br /> <br />
+            <li> Engangsstønad ved hjemmefødsel</li> <br /> <br />
+            <li>Barns rett til helsekontroller</li> <br /> <br />
+            <li>​Leseverdige bøker Podcaster</li> <br /> <br />
+            <li>Podcaster</li> <br /> <br />
           </ol>
           ​​​
         </Card>
