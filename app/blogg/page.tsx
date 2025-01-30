@@ -7,7 +7,7 @@ import { Card } from "primereact/card";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col p-8 items-center bg-white justify-between">
-      <h1 className="text-5xl font-bold m-6">Frifødsel Nettverk Blogg</h1>​​{" "}
+      <h1 className="text-5xl font-bold m-6">Frifødselsnettverket Blogg</h1>​​{" "}
       <br /> <br />{" "}
       <div className="m-12 p-8 lg:mx-48">
         <Card className="p-2 overflow-hidden">
@@ -35,11 +35,11 @@ export default function Home() {
           <br />
           <br />
           Når du skal skrive et innlegg som også representerer
-          frifødselnettverket, så gjør du det slik: Skriv om det du ønsker som
+          frifødselsnettverket, så gjør du det slik: Skriv om det du ønsker som
           har relevans for nettverket, kategoriser innlegget, få det lest og
           godkjent av en annen av nettverkets tilsluttede. Utveksle gjerne
           innspill og konstruktiv kritikk. Avslutt slik: Skrevet av [navn] som
-          representant for Frifødselnettverket og godkjent av [navn].
+          representant for Frifødselsnettverket og godkjent av [navn].
           <br />
           <br />
           Du kan også skrive og skape uten å blande inn andre, og da gjør du det
@@ -47,7 +47,7 @@ export default function Home() {
           nyskapning kjennetegner dette desentraliserte nettverket.
           <br />
           <br />
-          Forslag til bloggkategorier for Frifødselnettverket:
+          Forslag til bloggkategorier for Frifødselsnettverket:
           <br />
           - Fødselsdebatt i media
           <br />
@@ -61,7 +61,7 @@ export default function Home() {
           <br />
           - Etiske refleksjoner
           <br />
-          - Kvinnelighet og feminitet
+          - Kvinnelighet og femininitet
           <br />
           <br />
           Her er forslag til emneknagger som kan brukes på sosiale medier og

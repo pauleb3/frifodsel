@@ -8,7 +8,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center text-black justify-between bg-pink-100">
       <Card className="w-[90vw] lg:w-[50vw] m-10 p-2 text-black">
         <h1 className="font-bold text-3xl m-auto text-center">
-          FRIFØDSEL NETTVERK
+          FRIFØDSELSNETTVERKET
         </h1>
         <br />
         Velkommen til frifodsel.net, en varmende plattform for frifødsel. Her er
@@ -37,7 +37,8 @@ export default function Home() {
         til pasienter. I tråd med våre prinsipper oppfordrer vi{" "}
         <span className="italic">ikke</span> til spesifikk handling, men til en
         holdning av radikalt selvansvar og personlig integritet. Vi oppfordrer
-        til å tenke på det som står her, men handle på det. Din handling er opp
+        til å tenke på det som står her, men{" "}
+        <span className="italic">ikke</span> handle på det. Din handling er opp
         til deg.
         <br /> <br />
         <br />

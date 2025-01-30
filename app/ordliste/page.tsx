@@ -11,7 +11,7 @@ export default function Home() {
       </h1>
       <div className="m-4 p-4">
         Dette er en fragmentarisk ordliste som blander definering med normering.
-        Listen har som formål å utdype nettverkets prinsipper, berike
+        Listen har som formål å utdype frifødselsnettverkets prinsipper, berike
         kategoriseringer av fødsel og oppmuntre til å sette ord på det vi ikke
         enda har språk for.
         <br />
@@ -64,10 +64,10 @@ export default function Home() {
           skje en frifødsel.
           <br />
           <br />
-          Den Australske frifødselsdoulaen Amy Lou har en videre definisjon og
-          kalle sin doula-tjeneste en energetisk vokterrolle ved frifødsler,
-          altså hun mener en frifødsel kan skje i nærvær av profesjonelle
-          fødselsarbeidere som henne selv.
+          Australieren Amy Lou hadde en videre definisjon og har kalt sin
+          tjeneste en energetisk vokterrolle ved frifødsler, altså hun mener en
+          frifødsel kan skje i nærvær av profesjonelle fødselsarbeidere som
+          henne selv.
           <br />
           <br />
           Alt ettersom hvordan du velger å se på det kan frifødsel skje alene, i
@@ -172,7 +172,7 @@ export default function Home() {
         </p>
         <p className="text-black">
           <span className="text-black font-bold font-bold">
-            Birthkeeper-assistert fødsel{" "}
+            Birthkeeper-assistert fødsel:{" "}
           </span>
           En frifødsel planlagt i samarbeid med en uavhengig birthkeeper eller
           fødselsvitne, og utført med hennes støtte.
@@ -205,18 +205,18 @@ export default function Home() {
           <span className="text-black font-bold font-bold">
             Fødsel i fangenskap:{" "}
           </span>
-          «Født i fangenskap» (Born in captivity), er et uttrykk lansert av
+          Å være født i fangenskap (Born in captivity), er et uttrykk lansert av
           Sister MorningStar hvor hun beskriver hvordan mødre og nyfødte sliter
           med å utfolde sine iboende instinker når de opplever seg fanget og
-          overvåket på en institusjon. Uttrykket «Fødsel i fangenskap» (Birth in
-          captivity) har blitt videreutviklet av Free Birth Society. Uttrykket
-          beskriver opplevelsen av å føde mens man er innestengt, fastspent og
-          under overvåkning. Det henviser ikke til opplevelsen av å føde med
-          håndjern, mens man bokstavelig talt sitter fengslet for et lovbrudd,
-          men det å la seg sperres inne av helsevesenet under fødsel i søken på
-          trygghet og overlevelse. Som et dyr i bur tror den fødende kvinnen hun
-          er tryggere der enn i «villmarken», og kanskje er det også sant om hun
-          har blitt domestikert i den grad at hun har mistet kontakten med sine
+          overvåket på en institusjon. Uttrykket «Fødsel i fangenskap» har blitt
+          videreutviklet av Free Birth Society. Uttrykket beskriver opplevelsen
+          av å føde mens man er innestengt, fastspent og under overvåkning. Det
+          henviser ikke til opplevelsen av å føde med håndjern, mens man
+          bokstavelig talt sitter fengslet for et lovbrudd, men det å la seg
+          sperres inne av helsevesenet under fødsel i søken på trygghet og
+          overlevelse. Som et dyr i bur tror den fødende kvinnen hun er tryggere
+          der enn i «villmarken», og kanskje er det også sant om hun har blitt
+          domestikert i den grad at hun har mistet kontakten med sine
           urinstinkter. De som er født i fangenskap «velger» å føde i fangenskap
           helt til de bryter ut og gjenoppdager sin ville natur.
         </p>
@@ -234,9 +234,9 @@ export default function Home() {
           hjemmefødsel, og det er strenge krav for når hun må sørge for å få deg
           overflyttet til sykehus. Også etter at barnet er ute kan det være
           påkrevet å overflytte dere. Du vil gjennom hele graviditeten leve med
-          et press om å føde før uke 42+0, ellers vil tilbudet brått bli tatt
+          et press om å føde innen uke 41+6, ellers vil tilbudet brått bli tatt
           fra deg, i den siste, sårbare delen av graviditeten da alt du ønsker
-          er stabilitet og tryggheten i at du er holdt.
+          er stabilitet.
         </p>
         <p className="text-black">
           <br />
@@ -317,7 +317,7 @@ export default function Home() {
             Ferguson-refleksen:{" "}
           </span>
           Den spontane trykketrangen man ikke får oppleve ved instruert
-          trykking. Dette er en refleks som trigges av den pressende delen av
+          trykking. Dette er en refleks som trigges av at den pressende delen av
           fosteret stimulerer nervereseptorer i bekkenbunnen som igjen gir en
           tilbakemeldingssløyfe som utløser mer og mer oksytocin og endrer
           sammentrekningsmønsteret til sterkere og mer utstøtende. Dette er den
@@ -393,7 +393,7 @@ export default function Home() {
             Radical Birth Keeper:{" "}
           </span>
           En tittel man kan kalle seg etter å ha tatt Radical Birth Keeper
-          School eller MatriBirth Midwifery Institute utdannelsen hos Freebirth
+          School eller MatriBirth Midwifery Institute utdannelsen hos Free birth
           Society.
         </p>
         <p className="text-black">
@@ -441,9 +441,9 @@ export default function Home() {
             Iatrogen skade:{" "}
           </span>
           Skader en er påført av medisinsk behandling, undersøkelse og
-          intervensjon. Medisinsk inngrep kan være både livreddende og
-          dettimentalt også i nødstilfeller. Praksis vi mener alltid også skaper
-          iatrogen skade (både fysisk og spirituelt) er stripping,
+          intervensjon. Medisinske inngrep kan være både livreddende og
+          dettrimentale også i nødstilfeller. Praksis vi mener alltid også
+          skaper iatrogen skade (både fysisk og spirituelt) er stripping,
           igangsettelse, aminotomi, drypp med riestimulerende legemidler,
           skalpelektrode, skalplaktat, å kutte navlestrengen før en nyfødt
           puster selvstendig, voldsom suging av nyfødtes luftveier,
@@ -494,7 +494,7 @@ export default function Home() {
             Obstetrisk vold:{" "}
           </span>
           En dårlig måte å utøve sitt yrke som autorisert jordmor eller
-          fødselslege på der en tvinger, presser og krenker sine pasienter for å
+          fødselslege, der en tvinger, presser og krenker sine pasienter for å
           få dem til å innordne seg normer og retningslinjer. Å ha opplevd
           obstetrisk vold er å ha blitt utsatt for dette, av det personell som
           skulle ha gitt helsehjelp med omsorg og basert på informert samtykke.
@@ -524,7 +524,7 @@ export default function Home() {
         </p>
         <p className="text-black">
           <span className="text-black font-bold font-bold">Barnevernet: </span>
-          Det norske barnevern har som mandat å sørge for at umyndige
+          Det norske barnevern har som mandat å sørge for at unge umyndige
           statsborgerne og beboere får nødvendig omsorg og kjærlighet i
           familien, og er fri for omsorgssvikt og vold i hjemmet. Barnevernet
           har vist seg å gjøre bedre vurderinger av friføderes omsorgsevne enn
@@ -622,11 +622,11 @@ export default function Home() {
           <span className="text-black font-bold font-bold">
             Fødselens hormonelle mal:{" "}
           </span>
-          «Hormonal blueprint of birth» er et uttrykk som ble lansert av legen
-          Dr. Sarah Buckly i boken{" "}
+          «The hormonal blueprint of birth» er et uttrykk som ble lansert av
+          legen Dr. Sarah Buckly i boken{" "}
           <span className="italic">Gentle Birth, Gentle Mothering </span>{" "}
-          (2008). Der hun forklarer hvordan hormonsystemet vårt er kalibrert for
-          å føde i omgivelser som føles trygge og kjente, og hvordan stress og
+          (2008). Hun forklarer hvordan hormonsystemet vårt er kalibrert for å
+          føde i omgivelser som føles trygge og kjente, og hvordan stress og
           følesen av utrygghet hindrer og skader fødselsprosessen.
         </p>
         <p className="text-black">
@@ -642,8 +642,9 @@ export default function Home() {
           En utdannet sykepleier med mastergrad i jordmorfag som ikke er blitt
           fratatt sin autorisasjon av Helsedirektoratet for å ha brutt
           retningslinjer eller på andre måter vist seg uskikket som
-          helsepersonell. Obstetrisk sykepleier vært et svært kvinnedominert
-          yrke som nå opplever en noe økt rekruttering av ciss-menn.
+          helsepersonell. Obstetrisk sykepleie har lenge vært et svært
+          kvinnedominert yrke som nå opplever en noe økt rekruttering av
+          ciss-menn.
         </p>
         <p className="text-black">
           <br />
@@ -793,13 +794,13 @@ export default function Home() {
             Selvbestemt abort:{" "}
           </span>
           Retten kvinner har til å få sitt svangerskap avsluttet ved hjelp av
-          legemidler og eller fysiske intervensjoner utført av helsepersonell.
-          Tidlig i svangerskapet er det tilsvarende en sterk menstruasjon og
-          senere i svangerskapet er det en tidlig igangsatt fødsel. Ved uke 18
-          av svangerskapet avløses kvinnens rett til selvbestemt abort av
-          fosterets rett til liv. Abort, les tidlig igangsatt fødsel, kan
-          likevel utføres i spesielle tilfeller frem til uke 22 med døden til
-          følge for fosteret.
+          legemidler og fysiske intervensjoner utført av helsepersonell. Tidlig
+          i svangerskapet er det tilsvarende en sterk menstruasjon og senere i
+          svangerskapet er det en tidlig igangsatt fødsel. Ved uke 18 av
+          svangerskapet avløses kvinnens rett til selvbestemt abort av fosterets
+          rett til liv. Abort, les tidlig igangsatt fødsel, kan likevel utføres
+          i spesielle tilfeller frem til uke 22 med døden til følge for
+          fosteret.
         </p>
         <p className="text-black">
           <br />
@@ -818,7 +819,7 @@ export default function Home() {
           Trans-kvinner er kvinner på andre måter enn gjennom å være gravid og
           føde. <br />
           <br />
-          Frifødselnettverket består blant annet av kvinner som opplever at det
+          Frifødselsnettverket består blant annet av kvinner som opplever at det
           å være gravid, føde, bli mor og amme gjør at vi får utfoldet vår
           kvinnelighet og vi anser det derfor som viktig å bli omtalt som kvinne
           for å få bekreftet vår identitet. <br />
@@ -980,7 +981,7 @@ export default function Home() {
           inn Frifødsel som et bekymringsverdig symptom på en for dårlig
           svangerskapsomsorg og fødetilbud. <br />
           <br />
-          Frifødselnettverket ser på frifødsel som et gode som vil fortsette å
+          Frifødselsnettverket ser på frifødsel som et gode som vil fortsette å
           eksistere også etter at offentlig omsorg er optimalisert.
           Frifødselsnettverket kan virke å stå sammen med organisasjonene i mye.
           Dersom organisasjonene hadde adoptert dette nettverkets syn på

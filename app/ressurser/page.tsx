@@ -10,7 +10,7 @@ export default function Home() {
       <div className="mx-20" style={{ marginLeft: "10vw", width: "80vw" }}>
         <h1 className="text-2xl font-bold">INNHOLD</h1>
         <br />
-        Her finner du ressurser og verk knyttet til frifødselnettverket. Det
+        Her finner du ressurser og verk knyttet til frifødselsnettverket. Det
         ligger to lister her med gode, inspirerende podcaster og bøker. Det
         ligger skriv utarbeidet av nettverksmedlemmer her. Åpne brev til
         offentlige etater, myndigheter, organisasjoner, medier og andre kan,

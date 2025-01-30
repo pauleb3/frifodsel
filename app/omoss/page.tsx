@@ -10,12 +10,13 @@ export default function OmOss() {
     <main className="flex min-h-screen flex-col items-center justify-between text-black bg-pink-100">
       <h1 className="font-bold text-5xl m-auto text-center my-[5vh]">Om oss</h1>
       <div className="p-[2vh] w-[80vw]">
-        Vi er kvinner som har direkte erfaring med vill graviditet og frifødsel,
-        og mennesker som støtter, feirer og gleder seg over denne typen
-        graviditet og fødsel. Ved å samle oss for frifødselsaken uten å være
-        formelt organisert, kan vi invitere inn i den ikraftgjørende dynamikken
-        ved et desentralisert nettverk. Dynamikken fanger ingen i kategoriene
-        følger og forbruker, men lar alle forbli skapende individer.
+        Frifødselsnettverket er kvinner som har direkte erfaring med vill
+        graviditet og frifødsel, og mennesker som støtter, feirer og gleder seg
+        over denne typen graviditet og fødsel. Ved å samle oss for
+        frifødselsaken uten å være formelt organisert, kan vi invitere inn i den
+        ikraftgjørende dynamikken ved et desentralisert nettverk. Dynamikken
+        fanger ingen i kategoriene følger og forbruker, men lar alle forbli
+        skapende individer.
         <br />
         <br />
         Hvis du ønsker å tilslutte deg nettverket tar du personlig kontakt med
@@ -24,7 +25,7 @@ export default function OmOss() {
         sikt.
         <br />
         <br />
-        Av støttepersoner er traumeterapeuter, birthkeepers og
+        Av støttepersoner er traumeterapeuter, birthkeepere og
         jurister/advokater etterspurt av folk i miljøene rundt frifødsel.
         <br />
         <br />
@@ -56,7 +57,7 @@ export default function OmOss() {
           svangerskap, fødsel og barseltid, med klare grenser og tydelig
           kommunikasjon.
           <br />
-          Birthkeepers tar <span className="italic">ikke </span> på seg ansvar
+          Birthkeepere tar <span className="italic">ikke </span> på seg ansvar
           for utfallet av uassisterte fødsler, innehar ikke medisinsk ansvar og
           utfører ingen medisinske intervensjoner eller diagnostisering.
           <br />
@@ -70,7 +71,7 @@ export default function OmOss() {
           ta til seg klienter som er i stand til å ta fullt ansvar for seg selv
           og sin egen fødsel. Det er ikke hos den selvstendige birthkeeperen som
           fulgte en kvinne i graviditet eller fødsel ansvaret ligger dersom
-          fødselen ender annerledes enn den fødende og hennes familie hadde
+          fødselen ender annerledes enn det den fødende og hennes familie hadde
           ønsket.
           <br /> <br />
           Birthkeeperens frihet står i sterk kontrast til posisjonen
