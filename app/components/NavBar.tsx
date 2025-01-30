@@ -35,14 +35,14 @@ export default function Home() {
         router.push("/ordliste");
       },
     },
-    
-   /* {
+
+    {
       label: "Ressurser",
       icon: "pi pi-home",
       command: () => {
         router.push("/ressurser");
       },
-    },*/
+    },
     {
       label: "Blogg",
       icon: "pi pi-home",

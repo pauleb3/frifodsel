@@ -5,7 +5,7 @@ import "primereact/resources/themes/lara-light-indigo/theme.css";
 import "./bilder.css";
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between sky">
+    <main className="flex min-h-screen flex-col items-center justify-between bg-pink-100">
       <Card className="m-16 p-8 lg:w-[80vw] w-[100vw]">
         <h1 className="lg:text-5xl text-3xl font-bold">
           OM VÅRE GRUNNLEGGENDE PRINSIPPER
