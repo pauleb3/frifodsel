@@ -316,16 +316,12 @@ export default function Home() {
           <span className="text-black font-bold font-bold">
             Ferguson-refleksen:{" "}
           </span>
-          Den spontane trykketrangen man ikke får oppleve ved instruert
-          trykking. Dette er en refleks som trigges av at den pressende delen av
-          fosteret stimulerer nervereseptorer i bekkenbunnen som igjen gir en
-          tilbakemeldingssløyfe som utløser mer og mer oksytocin og endrer
-          sammentrekningsmønsteret til sterkere og mer utstøtende. Dette er den
-          normale ukontrollerbare spontane trangen til å trykke, som mange
-          beskriver som presserier. Begrepet Ferguson-refleksen er oppkalt etter
-          legen James Ferguson etter at han beskrev fenomenet i en artikkel i
+          Når fosterets hode står på bekkenbunn, trigges nervereseptorer som
+          setter i gang en tilbakemeldingssløyfe som gir kraftigere og
+          kraftigere rier. Dette gir en instiktiv og ukontrollerbar trang til å
+          trykke barnet ut. Fenomenet ble dokumnetert av legen James Ferguson i
           1941. Denne refleksen må ikke forveksles med
-          Fosterutstøtnings-refleksen.
+          fosterutstøtnings-refleksen.
         </p>
         <p className="text-black">
           <br />
@@ -356,9 +352,10 @@ export default function Home() {
           intakt fostersekk. <br />
           <br />
           Det starter med noen kraftige pulserende rier som ikke gir rom for
-          frivillige bevegelser, før fosteret skytes ut av kvinnen på en ri, med
-          voldsom kraft. Kvinnen befinner seg som regel i en oppreist eller
-          framoverbøyd posisjon uten å kunne bevege seg.
+          frivillige bevegelser eller viljestyrt trykking, før fosteret skytes
+          ut av kvinnen på en ri, med voldsom kraft. Kvinnen befinner seg som
+          regel i en oppreist eller framoverbøyd posisjon uten å kunne bevege
+          seg.
           <br />
           <br />
           Fosterutstøtnings-refleksen gjør fødselen trygg ved å for eksempel
