@@ -19,7 +19,7 @@ export default function Home() {
         <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
           <li>
             <a
-              className="text-l font-bold"
+              className="text-l font-bold text-blue-800 underline"
               href={"./OM_FRIFODSEL.pdf"}
               download="om frifødsel"
             >
@@ -28,7 +28,7 @@ export default function Home() {
           </li>
           <li>
             <a
-              className="text-l font-bold"
+              className="text-l font-bold text-blue-800 underline"
               href={"./PODCASTER.pdf"}
               download="podcaster"
             >
@@ -37,7 +37,7 @@ export default function Home() {
           </li>{" "}
           <li>
             <a
-              className="text-l font-bold"
+              className="text-l font-bold text-blue-800 underline"
               href={"./LESEVERDIGE_BOKER.pdf"}
               download="LESEVERDIGE BØKER"
             >
@@ -46,7 +46,7 @@ export default function Home() {
           </li>
           <li>
             <a
-              className="text-l font-bold"
+              className="text-l font-bold text-blue-800 underline"
               href={"./registrering_av_barn.pdf"}
               download="Registrering av barn"
             >
@@ -55,7 +55,7 @@ export default function Home() {
           </li>
           <li>
             <a
-              className="text-l font-bold"
+              className="text-l font-bold text-blue-800 underline"
               href={"./engangsstonad.pdf"}
               download="Engangsstønad"
             >
@@ -64,7 +64,7 @@ export default function Home() {
           </li>
           <li>
             <a
-              className="text-l font-bold"
+              className="text-l font-bold text-blue-800 underline"
               href={"./helsekontroller.pdf"}
               download="Barns rett til helsekontroller"
             >
@@ -73,7 +73,7 @@ export default function Home() {
           </li>{" "}
           <li>
             <a
-              className="text-l font-bold"
+              className="text-l font-bold text-blue-800 underline"
               href={"./jm.pdf"}
               download="Frifødere og jm"
             >
