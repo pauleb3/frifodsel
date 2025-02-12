@@ -636,12 +636,9 @@ export default function Home() {
           <span className="text-black font-bold font-bold">
             Autorisert jordmor:{" "}
           </span>
-          En utdannet sykepleier med mastergrad i jordmorfag som ikke er blitt
-          fratatt sin autorisasjon av Helsedirektoratet for å ha brutt
-          retningslinjer eller på andre måter vist seg uskikket som
-          helsepersonell. Obstetrisk sykepleie har lenge vært et svært
-          kvinnedominert yrke som nå opplever en noe økt rekruttering av
-          ciss-menn.
+          En utdannet sykepleier med mastergrad i jordmorfag. Obstetrisk
+          sykepleie har lenge vært et svært kvinnedominert yrke som nå opplever
+          en noe økt rekruttering av ciss-menn.
         </p>
         <p className="text-black">
           <br />
