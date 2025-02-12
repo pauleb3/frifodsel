@@ -498,8 +498,7 @@ export default function OmOss() {
                   />
                   <br />
                   <br />
-                  Du kan høre mine fødselshistorier på
-                  <br />
+                  Du kan høre mine fødselshistorier på{" "}
                   <Button
                     className="text-left"
                     label="   Frifødsel Podcast"
@@ -511,6 +510,7 @@ export default function OmOss() {
                       )
                     }
                   />
+                  Foto: Anja Bache-Wiig Solberg
                 </p>
               </AccordionTab>
             </Accordion>

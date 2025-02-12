@@ -44,9 +44,9 @@ export default function Home() {
         </h1>
         <br />
         <br />
-        1: Fullstendig fysiologisk, naturlig og fri fødsel kan kun skje i fravær
-        av helsepersonell. Vi ønsker å fremme og beskytte denne hellige
-        hendelsen sosialt, spirituelt og juridisk.
+        1: Fullstendig uforstyrret, fysiologisk, naturlig og fri fødsel kan kun
+        skje i fravær av helsepersonell. Vi ønsker å fremme og beskytte denne
+        hellige hendelsen sosialt, spirituelt og juridisk.
         <br />
         <br />
         2: Fødsel handler selvfølgelig ikke kun om kvinnene som føder, men også
@@ -217,11 +217,11 @@ export default function Home() {
         ha lest prinsippene? <br /> <br />
         Som en kur mot dette inviterer vi til å tolke prinsippene på en
         både-og-måte. Ofte kan vi falle inn i å tenke enten-eller, i skarpe
-        dikotomier. Ta for eksempel første prinsipp «Fullstendig fysiologisk,
+        dikotomier. Ta for eksempel første prinsipp «Fullstendig uforstyrret,
         naturlig og fri fødsel kan kun skje i fravær av helsepersonell».
         Dikotomisk kan det høres ut som at en god fødsel er slik, og at det
         betyr at alle andre fødsler er dårlige. Men, virkeligheten er paradoksal
-        og kompleks. En fysiologisk fødsel kan være bra.{" "}
+        og kompleks. Fullstendig uforstyrret fødsel kan være bra.{" "}
         <span className="italic">Og </span> en annen type fødsel kan være bra,{" "}
         <span className="italic">og </span>
         en tredje type fødsel kan være bra. Selv om en ting er sant, er ikke det
