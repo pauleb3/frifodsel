@@ -20,9 +20,9 @@ export default function Home() {
         <br />
         Alle tilsluttede individer kan snakke som representanter for nettverket.
         Individuelle aktører representerer seg selv og nettverket, men ikke
-        hverandre. Som et desentralisert nettverk er vi unntatt å ta på oss
-        ansvar overfor hverandres uttalelser, handlinger og deres konsekvenser.{" "}
-        <br />
+        hverandre og heller ikke uassistert fødsel generelt. Som et
+        desentralisert nettverk er vi unntatt å ta på oss ansvar overfor
+        hverandres uttalelser, handlinger og deres konsekvenser. <br />
         <br />
         De fleste prinsippene har tema fødsel, men det er også noen generelle
         prinsipper innimellom. Dette nettverket er basert på å{" "}
