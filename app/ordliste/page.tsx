@@ -319,9 +319,9 @@ export default function Home() {
           Når fosterets hode står på bekkenbunn, trigges nervereseptorer som
           setter i gang en tilbakemeldingssløyfe som gir kraftigere og
           kraftigere rier. Dette gir en instiktiv og ukontrollerbar trang til å
-          trykke barnet ut. Fenomenet ble dokumnetert av legen James Ferguson i
-          1941. Denne refleksen må ikke forveksles med
-          fosterutstøtnings-refleksen.
+          trykke barnet ut. Fenomenet ble første gang dokumnetert av legen James
+          Ferguson i 1941. Denne refleksen utløses av lokale faktorer og må ikke
+          forveksles med fosterutstøtnings-refleksen.
         </p>
         <p className="text-black">
           <br />
@@ -336,7 +336,8 @@ export default function Home() {
           («The Fetus Ejection Reflex», FER). Dette er et fantastisk spennende
           fenomen der hele barnet fødes på en gang! I et privat og mørkt miljø,
           der kvinnen opplever uobservert frihet til å være primal, kan det
-          skje! Analytisk eller bevisst tenkning må også være pauset. <br />
+          skje! Analytisk eller bevisst tenkning må også være pauset. Neocortal
+          aktivitet i hjernen må være fraværende. <br />
           <br />
           Begrepet ble popularisert av den franske fødselslegen Michel Odent,
           som merket seg fenomenet flere ganger. Odent mener
@@ -648,11 +649,11 @@ export default function Home() {
         </p>
         <p className="text-black">
           <span className="text-black font-bold font-bold">Fødselslege: </span>
-          En utdannet lege som har en tilleggsspesialisering i obstetrikk og
-          gynekologi, altså fødselshjelp og kvinnesykdommer. Det er disse legene
-          som kan utføre bukkirurgien kjent som keisersnitt for å få babyer ut
-          av magen, gjennom magen. Vi er svært takknemlig for at disse legene
-          finnes ved nødstilfeller og anerkjenner at de kan redde liv.
+          En utdannet lege som har en spesialisering i obstetrikk og gynekologi,
+          altså fødselshjelp og kvinnesykdommer. Det er disse legene som kan
+          utføre bukkirurgien kjent som keisersnitt for å få babyer ut av magen,
+          gjennom magen. Vi er svært takknemlig for at disse legene finnes ved
+          nødstilfeller og anerkjenner at de kan redde liv.
           <br />
           <br />
           Frifødere tar selv på seg ansvaret for forsinkelsen i livreddende
@@ -693,6 +694,17 @@ export default function Home() {
           de er på jobb yter de helsetjenester og administrerer legemidler til
           pasienter. Leger, sykepleiere, hjelpepleiere, fysioterapeuter og
           autoriserte jordmødre er eksempel på helsepersonell.
+        </p>
+        <br />
+        <br />
+        <br />
+        <br />
+
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">Doula: </span>
+          En emosjonell støtteperson under fødsel med jordmor og lege til stede.
+          En doula er spesialist på å få til et godt samarbeid mellom pasient og
+          helsepersonell.
         </p>
         <p className="text-black">
           <br />
