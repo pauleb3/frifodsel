@@ -7,9 +7,11 @@ import { Card } from "primereact/card";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col p-8 items-center bg-white justify-between">
-      <h1 className="text-5xl font-bold m-6">Frifødselsnettverket Blogg</h1>​​{" "}
-      <br /> <br />{" "}
-      <div className="m-12 p-8 lg:mx-48">
+      <h1 className="text-xl lg:text-5xl font-bold m-6">
+        Frifødselsnettverket Blogg
+      </h1>
+      ​​ <br /> <br />{" "}
+      <div className="m-2 lg:m-12 p-2 lg:p-8 lg:mx-48">
         <Card className="p-2 overflow-hidden">
           Her er en liste over blogger eid av nettverkets medlemmer:
           <br />
