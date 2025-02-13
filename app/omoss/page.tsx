@@ -473,17 +473,6 @@ export default function OmOss() {
                   sykehusfødsel begynte jeg å utforske tema.
                   <br />
                   <br />
-                  Ønsker du kontakt kan du finne min kontakinfo på{" "}
-                  <Button
-                    className="text-left"
-                    label="www.heleneshage.com"
-                    link
-                    onClick={() =>
-                      window.open("https://heleneshage.com", "_blank")
-                    }
-                  />
-                  <br />
-                  <br />
                   Lese min betrakninger på{" "}
                   <Button
                     className="text-left"
@@ -510,6 +499,8 @@ export default function OmOss() {
                       )
                     }
                   />
+                  <br />
+                  <br />
                   Foto: Anja Bache-Wiig Solberg
                 </p>
               </AccordionTab>
