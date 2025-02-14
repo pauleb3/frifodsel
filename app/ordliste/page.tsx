@@ -337,7 +337,8 @@ export default function Home() {
           fenomen der hele barnet fødes på en gang! I et privat og mørkt miljø,
           der kvinnen opplever uobservert frihet til å være primal, kan det
           skje! Analytisk eller bevisst tenkning må også være pauset. Neocortal
-          aktivitet i hjernen må være fraværende. <br />
+          aktivitet i hjernen ser ut til å måtte være undertrykket, for at
+          refleksen skal inntreffe. <br />
           <br />
           Begrepet ble popularisert av den franske fødselslegen Michel Odent,
           som merket seg fenomenet flere ganger. Odent mener
