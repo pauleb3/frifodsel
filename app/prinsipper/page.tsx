@@ -44,7 +44,7 @@ export default function Home() {
         </h1>
         <br />
         <br />
-        1: Fullstendig uforstyrret, fysiologisk, naturlig og fri fødsel kan kun
+        1: Fullstendig uforstyrret, fysiologisk og naturlig frifødsel kan kun
         skje i fravær av helsepersonell. Vi ønsker å fremme og beskytte denne
         hellige hendelsen sosialt, spirituelt og juridisk.
         <br />

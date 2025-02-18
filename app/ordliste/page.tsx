@@ -100,7 +100,6 @@ export default function Home() {
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Vill graviditet:{" "}
@@ -177,14 +176,12 @@ export default function Home() {
           En frifødsel planlagt i samarbeid med en uavhengig birthkeeper eller
           fødselsvitne, og utført med hennes støtte.
         </p>
-
         <p className="text-black">
           <br />
           <br />
           <br />
           <br />
         </p>
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Familiefødsel:{" "}
@@ -194,7 +191,6 @@ export default function Home() {
           hjelperne for fødemor. En seremoni til ære for det nye
           familiemedlemmets ankomst og morskap.
         </p>
-
         <p className="text-black">
           <br />
           <br />
@@ -700,7 +696,6 @@ export default function Home() {
         <br />
         <br />
         <br />
-
         <p className="text-black">
           <span className="text-black font-bold font-bold">Doula: </span>
           En emosjonell støtteperson under fødsel med jordmor og lege til stede.
@@ -745,6 +740,33 @@ export default function Home() {
           <br />
           <br />
         </p>
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">Prefigurativ: </span>
+          Hvordan kan vi allerede nå praktisere det vi ønsker å se i fremtiden?
+          Å være prefigurativ er en måte å handle på i sosiale bevegelser der
+          midlene må være forenelig med målet. Ikke «målet helliger
+          middel»-tankegang.
+        </p>
+        <p className="text-black">
+          <br />
+          <br />
+          <br />
+          <br />
+        </p>
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">Synergi: </span>
+          Hvordan kan vi allerede nå praktisere det vi ønsker å se i fremtiden?
+          Når samspillet mellom to eller flere elementer skaper en effekt som er
+          større enn summen av deres individuelle bidrag. Ikke det samme som
+          symbiose, som innebærer en helt nødvendig strukturell avhengighet.
+        </p>
+        <p className="text-black">
+          <br />
+          <br />
+          <br />
+          <br />
+        </p>
+
         <p className="text-black">
           <span className="text-black font-bold font-bold">
             Retten til privatliv:{" "}
@@ -851,6 +873,19 @@ export default function Home() {
           Et sted å bruke den lille, våkne fritiden vi har tilgjengelig i dagens
           samfunn. Der venter man på at det er sin tur til å komme inn til
           legen, som da er på jobb, og har sin fritid senere på dagen.
+        </p>
+        <p className="text-black">
+          <br />
+          <br />
+          <br />
+          <br />
+        </p>
+        <p className="text-black">
+          <span className="text-black font-bold font-bold"> Autopoetisk: </span>
+          Evnen til å skape og opprettholde seg selv og sin form. Dette
+          kjennetegner liv i systemtenkning, der levende systemer opprettholder
+          sin identitet ved å regenerere sine egne komponenter og prosesser. Se
+          gjerne Ken Wilber’s omtale av begrepet.
         </p>
         <p className="text-black">
           <br />
@@ -970,6 +1005,25 @@ export default function Home() {
         <p className="text-black">
           <span className="text-black font-bold font-bold">Byråkrati:</span>{" "}
           Storskalaorganisering.
+          <br />
+          <br />
+        </p>
+        <p className="text-black">
+          <br />
+          <br />
+        </p>
+        <p className="text-black">
+          <span className="text-black font-bold font-bold">
+            Desentralisert nettverk:{" "}
+          </span>{" "}
+          Småskalarorganisering, i praksis individer i relasjon til hverandre,
+          uten en overordnet struktur. Et desentralisert nettverk er ikke en
+          organisasjon, ikke en bedrift og heller ikke en forening. Individer
+          står for sine egne uttalelser og er ansvarlig for å bidra med det de
+          ønsker slik at synergi kan oppstå. Radikalt selvutrykk, deltakelse og
+          gjensidig tillit er sentrale verdier for en nettverksdynamikk.
+          Frifødselsnettverket kan kun siteres som et «vi» direkte fra denne
+          nettsiden.
           <br />
           <br />
         </p>
