@@ -1023,7 +1023,7 @@ export default function Home() {
           ønsker slik at synergi kan oppstå. Radikalt selvutrykk, deltakelse og
           gjensidig tillit er sentrale verdier for en nettverksdynamikk.
           Frifødselsnettverket kan kun siteres som et «vi» direkte fra denne
-          nettsiden.
+          nettsiden, og kommer til liv gjennom hvert tilsluttede individ.
           <br />
           <br />
         </p>
