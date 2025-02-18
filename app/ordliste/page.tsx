@@ -755,7 +755,6 @@ export default function Home() {
         </p>
         <p className="text-black">
           <span className="text-black font-bold font-bold">Synergi: </span>
-          Hvordan kan vi allerede nå praktisere det vi ønsker å se i fremtiden?
           Når samspillet mellom to eller flere elementer skaper en effekt som er
           større enn summen av deres individuelle bidrag. Ikke det samme som
           symbiose, som innebærer en helt nødvendig strukturell avhengighet.
