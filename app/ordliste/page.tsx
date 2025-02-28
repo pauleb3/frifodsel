@@ -1132,10 +1132,12 @@ export default function Home() {
           evig forbi fødselsøyeblikket, og selv 90-åringer kan lengte etter sin
           forlengst avdøde mamma.
           <br /> <br />
-          Noen ganger ender fødsel med død. Det er svært sjeldent, men
-          forekommer i alle typer fødsler, både frifødsler og sykehusfødsler.
-          Grensen for når fravær av medisinsk behandling, som så fører til død
-          og regnes som «galt», varierer kulturelt, personlig og økonomisk.
+          Noen ganger ender fødsel med død. Det forekommer i alle typer fødsler,
+          både frifødsler, sykehusfødsler og andre typer fødsel. Det finnes dog
+          ingen tall som sammenlikner den statistiske risikoen på et
+          populasjonsnivå. Grensen for når fravær av medisinsk behandling, som
+          så fører til død og regnes som «galt», varierer kulturelt, personlig
+          og økonomisk.
           <br />
           <br />
         </p>

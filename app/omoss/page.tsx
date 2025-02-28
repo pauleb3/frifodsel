@@ -473,10 +473,9 @@ export default function OmOss() {
                   sykehusfødsel begynte jeg å utforske tema.
                   <br />
                   <br />
-                  Lese min betrakninger på{" "}
+                  Les min betrakninger på{" "}
                   <Button
                     className="text-left"
-                    label="substack.com/@helenebclarke"
                     link
                     onClick={() =>
                       window.open(
