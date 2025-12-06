@@ -435,7 +435,7 @@ export default function OmOss() {
         <br />
         Marlene Omlid <br />
         <br />
-        Kristine Indreeide <br />
+        Kristin Indreeide <br />
         <br />
         Helene B. Clarke
         <br />
