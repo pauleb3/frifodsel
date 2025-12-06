@@ -25,7 +25,7 @@ export default function OmOss() {
       </div>
       <Card className="w-full p-0 lg:p-20">
         Vi er:
-        <Card>
+        {/*<Card>
           <div className="flex lg:flex-row flex-col">
             <div className="maren shrink-0 lg:h-[20vw] h-[70vw] lg:w-[20vw] w-[70vw]"></div>
             <Accordion>
@@ -422,7 +422,20 @@ export default function OmOss() {
               </AccordionTab>
             </Accordion>
           </div>
-        </Card>{" "}
+        </Card>{" "*/}
+        Maren Berg dybvik
+        <br />
+        <br />
+        Maria Heiberg <br />
+        <br />
+        Anja Bache-Wiig Solberg
+        <br />
+        <br />
+        Marlene Omlid <br />
+        <br />
+        Kristine Indreeide <br />
+        <br />
+        Helene B. Clarke
         <br />
         <br /> Sunniva Halstensen
         <br />
