@@ -5,7 +5,10 @@ import "./bilder.css";
 import { Card } from "primereact/card";
 
 export default function Home() {
+  return <br />;
+  /*
   return (
+
     <main className="flex min-h-screen flex-col p-8 items-center bg-white justify-between">
       <h1 className="text-xl lg:text-5xl font-bold m-6">
         Frifødselsnettverket Blogg
@@ -74,5 +77,5 @@ export default function Home() {
         </Card>
       </div>
     </main>
-  );
+  ); */
 }

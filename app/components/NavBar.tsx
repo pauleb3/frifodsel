@@ -21,7 +21,7 @@ export default function Home() {
         router.push("/omoss");
       },
     },
-    {
+    /* {
       label: "Våre prinsipper",
       icon: "pi pi-home",
       command: () => {
@@ -49,7 +49,7 @@ export default function Home() {
       command: () => {
         router.push("/blogg");
       },
-    },
+    },*/
   ];
 
   return (

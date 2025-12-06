@@ -3,7 +3,8 @@ import { Card } from "primereact/card";
 import "primereact/resources/themes/lara-light-indigo/theme.css";
 
 export default function Home() {
-  return (
+  return <br />;
+  /* return (
     <main className="flex min-h-screen flex-col items-center p-8 justify-between bg-pink-100">
       <h1 className="text-5xl font-bold">
         <br />
@@ -1184,5 +1185,5 @@ export default function Home() {
         </p>
       </Card>
     </main>
-  );
+  );*/
 }

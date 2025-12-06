@@ -11,16 +11,22 @@ export default function Home() {
           FRIFØDSELSNETTVERKET
         </h1>
         <br />
-        Velkommen til frifodsel.net, en varmende plattform for frifødsel. Her er
-        både enige og uenige velkommen til å titte og forholde seg til innholdet
-        som er gjort tilgjengelig for å fremme klarhet, dialog og forståelse.
+        <span className="bold">Frifødselsnettverket</span> er samlet om troen på
+        fordelene ved fullstendig uforstyrret fødsel.
         <br />
         <br />
-        Nettsiden representerer <span className="italic">ikke</span> en
-        organisasjon, men derimot et desentralisert nettverk for kvinner som har
-        direkte erfaring med vill graviditet og frifødsel, i tillegg til
-        mennesker som støtter, feirer og gleder seg over denne typen graviditet
-        og fødsel.
+        <span className="bold">Uassistert hjemmefødsel</span> oppsto som
+        reaksjonen på økende medikalisering og institusjonalisering av
+        fødselsomsorgen allerede på{" "}
+        <a
+          className="font-bold text-blue-800 underline"
+          href={"https://pubmed.ncbi.nlm.nih.gov/32361690/"}
+        >
+          1950-tallet i USA
+        </a>
+        . Kvinner har frivillig og intensjonelt født sine sønner og døtre
+        hjemme, uten helsepersonell. Mødrene har fortalt om disse erfaringene i
+        tre kvart århundre.
         <br />
         <br />
         Nettsiden er en kilde til, og en kilde til andre kilder til, erfaringer
@@ -28,30 +34,35 @@ export default function Home() {
         og vill og fri mor.
         <br />
         <br />
-        Siden inneholder <span className="italic">ikke</span> medisinske råd.{" "}
+        De lykkeligste opplevelsene viser hva som kontinuerlig går tapt når
+        fødsel er blitt medisin: prosessens fulle potensial både fysiologisk,
+        psykologisk og åndelig.
         <br />
         <br />
-        Det som deles er tidvis sterk, ufaglært forankret, kritikk av
-        helsevesenets praksiser. Denne diskusjonen går innunder ytringsfriheten
-        og må <span className="italic">ikke</span> misforstås som medisinske råd
-        til pasienter. I tråd med våre prinsipper oppfordrer vi{" "}
-        <span className="italic">ikke</span> til spesifikk handling, men til en
-        holdning av radikalt selvansvar og personlig integritet. Vi oppfordrer
-        til å tenke på det som står her, men{" "}
-        <span className="italic">ikke</span> handle på det. Din handling er opp
-        til deg.
+        De tragiske historiene anskueliggjør de potensielle farene ved
+        uassistert fødsel.
         <br /> <br />
+        Den eneste garantien mot skade og død i forbindelse med fødsel er å
+        aldri bli gravid. Så lenge individer velger å gi liv gjennom egen kropp,
+        så skal de også få velge fritt hvordan de vil handle i fødsel.
+        <br /> <br />
+        Valget om å føde uten helsepersonell{" "}
+        <span className="bold">må fortsatt være lovlig.</span>
         <br />
-        <span className="text-black font-bold font-bold">
-          {" "}
-          Ansvarsfraskrivelse:{" "}
-        </span>
-        Nettverkets tilsluttede individer fraskriver seg alt ansvar for hvordan
-        du lar innholdet på denne nettsiden påvirker deg, og konsekvenser av
-        dine etterfølgende handlinger.
-        <br />
-        <br />
-        <br />
+        <br />I 2025 inneholdt denne nettsiden en rekke prinsipper, definisjoner
+        og ressurser. Inn i 2026 står kun én ting igjen: troen på potensialet i
+        den uforstyrrede <span className="bold">frifødselen</span> – for mor,
+        barn, familie og samfunn.
+        <br /> <br />
+        <span className="bold">Ansvarsfraskrivelse:</span> Mottakere av
+        nettsidens innhold står selv ansvarlig for alle beslutninger knyttet til
+        egen graviditet og fødsel. Nettverket og dets tilsluttede individer kan
+        ikke holdes ansvarlige for konsekvensene av valg og handlinger basert på
+        tolkning av vår formidling. En er selv ansvarlig for å innhente
+        oppdatert helsefaglig informasjon og anbefalinger fra helsemyndighetene.
+        Svangerskapsoppfølging og fødselshjelp er gratis og tilgjengelig i
+        Norge, og tjenesten kan nås gjennom å kontakte din nærmeste
+        helsestasjon.
       </Card>
       <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex"></div>
     </main>

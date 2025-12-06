@@ -10,99 +10,21 @@ export default function OmOss() {
     <main className="flex min-h-screen flex-col items-center justify-between text-black bg-pink-100">
       <h1 className="font-bold text-5xl m-auto text-center my-[5vh]">Om oss</h1>
       <div className="p-[2vh] w-[80vw]">
-        Frifødselsnettverket er kvinner som har direkte erfaring med vill
-        graviditet og frifødsel, og mennesker som støtter, feirer og gleder seg
-        over denne typen graviditet og fødsel. Ved å samle oss for
-        frifødselsaken uten å være formelt organisert, kan vi invitere inn i den
-        ikraftgjørende dynamikken ved et desentralisert nettverk. Dynamikken
-        fanger ingen i kategoriene følger og forbruker, men lar alle forbli
-        skapende individer.
+        Frifødselsnettverket er ikke en organisasjon. Det har ingen leder og
+        ingen fast struktur, men er et desentralisert nettverk.
         <br />
         <br />
-        Hvis du ønsker å tilslutte deg nettverket tar du personlig kontakt med
-        en av de som er i nettverket nå. De vil da godkjenne din beskrivelse av
-        deg selv, ta imot et bilde av deg og få det publisert på nettsiden, på
-        sikt.
+        Individene kan oppgi at de er tilsluttet Frifødselsnettverket, men hver
+        enkelt representerer seg selv, ikke andre tilsluttede individer.
         <br />
         <br />
-        Av støttepersoner er traumeterapeuter, birthkeepere og
-        jurister/advokater etterspurt av folk i miljøene rundt frifødsel.
+        Det er ingen penger å tjene på å være tilsluttet nettverket og det
+        oppsto idealistisk.
         <br />
         <br />
-        <p className="text-black">
-          <span className="text-black font-bold font-bold">
-            {" "}
-            Ulike terapeuter:{" "}
-          </span>
-          <br />
-          Det kan være ensomt å velge annerledes. Påbegynte frifødsler kan ende
-          i vanskelige opplevelser som trenger å bearbeides. En fødsel innad i
-          systemet kan bearbeides i kontrast til hva som er mulig å oppleve i en
-          frifødsel.
-          <br />
-          Om du er en traumeterapeut/coach som feirer frifødsel kan du tilslutte
-          deg nettverket med presentasjon av deg selv og link til dine
-          tjenester, slik at kvinner vet hvor de kan kontakte deg.
-          <br />
-          <br />
-        </p>
-        <p className="text-black">
-          <span className="text-black font-bold font-bold">Birthkeeper: </span>
-          <br />
-          Hvis en frihetssøkende fødende ikke tar sikte på å utnytte fordelene
-          ved en totalt uobservert fødsel, kan hun ønske støtte av en
-          birthkeeper (fødselsvitne), og noen handler på et dypt kall til å
-          innta rollen. Birthkeepere, slik dette nettverket definerer det,
-          tilbyr praktisk, emosjonell, psykologisk og energetisk støtte i
-          svangerskap, fødsel og barseltid, med klare grenser og tydelig
-          kommunikasjon.
-          <br />
-          Birthkeepere tar <span className="italic">ikke </span> på seg ansvar
-          for utfallet av uassisterte fødsler, innehar ikke medisinsk ansvar og
-          utfører ingen medisinske intervensjoner eller diagnostisering.
-          <br />
-          <br />
-          Mulighetspotensialet er en gjensidig samtykket relasjon som styrker og
-          helbreder. Kvinneressonans og å bli holdt kan være berikende i en
-          fødsel. Å få støtte en kvinne i fødsel, og et menneskets ankomst til
-          jordlivet, er en ære som gir et uslåelig energetisk påfyll.
-          <br /> <br />
-          I tråd med nettverkets prinsipper har birthkeepers et ansvar for å kun
-          ta til seg klienter som er i stand til å ta fullt ansvar for seg selv
-          og sin egen fødsel. Det er ikke hos den selvstendige birthkeeperen som
-          fulgte en kvinne i graviditet eller fødsel ansvaret ligger dersom
-          fødselen ender annerledes enn det den fødende og hennes familie hadde
-          ønsket.
-          <br /> <br />
-          Birthkeeperens frihet står i sterk kontrast til posisjonen
-          helsepersonell er i når de må hjelpe alle som kommer til dem med et
-          reelt behov, og hvor systemet de jobber i må stå til ansvar for
-          utfallet. Birthkeepere er fritatt fra både plikt og ansvar.
-          <br /> <br />
-          Om du er en birthkeeper eller fødselsvitne som feirer frifødsel, kan
-          du tilslutte deg nettverket med presentasjon av deg selv og link til
-          dine tjenester, slik at kvinner vet hvor de kan finne deg.
-        </p>
-        <br />
-        <br />
-        <br />
-        <p className="text-black">
-          <span className="text-black font-bold font-bold">
-            {" "}
-            Jurister og advokater:{" "}
-          </span>
-          <br />
-          Frifødere og frie mødre kan trenge bistand fra advokater for å
-          opprettholde foreldreretten for sine barn. Har du kompetanse på
-          lovverket rundt foreldreskap og brenner for foresattes medisinske
-          frihet på vegne av sine barn, tilslutt deg gjerne nettverket.
-          <br />
-          <br />
-          <br />
-          <br />
-        </p>
       </div>
       <Card className="w-full p-0 lg:p-20">
+        Vi er:
         <Card>
           <div className="flex lg:flex-row flex-col">
             <div className="maren shrink-0 lg:h-[20vw] h-[70vw] lg:w-[20vw] w-[70vw]"></div>
@@ -160,7 +82,6 @@ export default function OmOss() {
             </Accordion>
           </div>
         </Card>
-
         <Card>
           <div className="flex lg:flex-row flex-col">
             <div className="maria shrink-0 lg:h-[20vw] h-[70vw] lg:w-[20vw] w-[70vw]"></div>
@@ -228,7 +149,6 @@ export default function OmOss() {
             </Accordion>
           </div>
         </Card>
-
         <Card>
           <div className="flex lg:flex-row flex-col">
             <div className="anja shrink-0 lg:h-[20vw] h-[70vw] lg:w-[20vw] w-[70vw]"></div>
@@ -295,7 +215,6 @@ export default function OmOss() {
             </Accordion>
           </div>
         </Card>
-
         <Card>
           <div className="flex lg:flex-row flex-col">
             <div className="marlene shrink-0 lg:h-[20vw] h-[70vw] lg:w-[20vw] w-[70vw]"></div>
@@ -367,7 +286,6 @@ export default function OmOss() {
             </Accordion>
           </div>
         </Card>
-
         <Card>
           <div className="flex lg:flex-row flex-col">
             <div className="kristin shrink-0 lg:h-[20vw] h-[70vw] lg:w-[20vw] w-[70vw]"></div>
@@ -413,7 +331,6 @@ export default function OmOss() {
             </Accordion>
           </div>
         </Card>
-
         <Card>
           <div className="flex lg:flex-row flex-col">
             <div className="helene shrink-0 lg:h-[20vw] h-[70vw] lg:w-[20vw] w-[70vw]"></div>
@@ -505,7 +422,15 @@ export default function OmOss() {
               </AccordionTab>
             </Accordion>
           </div>
-        </Card>
+        </Card>{" "}
+        <br />
+        <br /> Sunniva Halstensen
+        <br />
+        <br />
+        Kristina Folkestad
+        <br />
+        <br />
+        Anya Ragnhild Sæter
       </Card>
 
       <div className="bg-white">
@@ -513,77 +438,25 @@ export default function OmOss() {
           Ønsker du å slutte deg til nettverket?
         </h1>
         <div className="mx-[10vw] mb-5">
-          Hvis du ønsker å tilslutte deg nettverket tar du personlig kontakt med
-          en av personene som er i nettverket nå. De vil da godkjenne din
-          beskrivelse av deg selv, ta imot et bilde av deg og få det publisert
-          på nettsiden.
+          Hvis du ønsker å være en del av frifødselsbevegelsen, er du det
+          allerede. Dette er Frifødselsnettverket, en liten fasett av
+          bevegelsen, vevet av relasjonene mellom de navngitte individene.
         </div>
-      </div>
-      <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw] m-3 p-5">
-        <div className="bg-pink-100 sm:w-[90vw] lg:w-[25vw]">
-          <br />
-          <br />
-          <br />
-          <br />
-          <br />
-          Hvis du tilslutter deg nettverket i kategorien «kvinner som har
-          direkte erfaring med vill graviditet og frifødsel», så kan du
-          presentere deg ved å svare på disse spørsmålene:{" "}
-          <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
-            <li>
-              Beskriv din direkte, selvopplevde erfaring med vill graviditet og
-              frifødsel.
-            </li>
-            <li>
-              Beskriv din direkte, selvopplevde erfaring med å være
-              fødselsvitne.
-            </li>
-            <li>Hvorfor var frifødsel riktig for deg og dine barn?</li>
-            <li>
-              Hva kan du tilby av støtte og hjelp, og hvor finner vi
-              beskrivelsen av dine eventuelle tjenester?
-            </li>
-          </ol>
-        </div>
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        Spørsmål for deg som tilslutter deg nettverket i kategorien «mennesker
-        som støtter, feirer og gleder seg over denne typen graviditet og fødsel»
-        uten nødvendigvis å ha opplevd det selv eller ha utsikter til å oppleve
-        det i fremtiden.
-        <ol className="pl-8 mt-2" style={{ listStyle: "decimal" }}>
-          <li>
-            Fortell gjerne om din egen fødsel, altså da du kom til verden.
-          </li>
-          <li>
-            Beskriv din direkte, selvopplevde erfaring med å føde og å være
-            fødselsvitne.
-          </li>
-          <li>
-            Hva er grunnene til at du støtter og feirer frifødsel og vill
-            graviditet?
-          </li>
-          <li>
-            Hva kan du tilby av støtte og hjelp, og hvor finner vi beskrivelsen
-            av dine eventuelle tjenester?
-          </li>
-        </ol>
       </div>
 
       <div className="bg-white px-[15vw] py-12">
         <p className="text-black">
           <span className="text-black font-bold font-bold">
-            Ansvarsfraskrivelse:{" "}
-          </span>
-          Hvis du bruker presentasjonen av nettverkets tilsluttede individer i
-          den hensikt å finne tjenester for deg selv, så må du vite at det er
-          mellom deg og den du kontakter. Ingen andre tilsluttede individer
-          eller nettverket som sådan står til ansvar for tjenestene. Du er selv
-          ansvarlig for å undersøke om de passer deg og forsikre deg om at de
-          følger gjeldende lover og regler.
+            Ansvarsfraskrivelse:
+          </span>{" "}
+          Mottakere av nettsidens innhold står selv ansvarlig for alle
+          beslutninger knyttet til egen graviditet og fødsel. Nettverket og dets
+          tilsluttede individer kan ikke holdes ansvarlige for konsekvensene av
+          valg og handlinger basert på tolkning av vår formidling. En er selv
+          ansvarlig for å innhente oppdatert helsefaglig informasjon og
+          anbefalinger fra helsemyndighetene. Svangerskapsoppfølging og
+          fødselshjelp er gratis og tilgjengelig i Norge, og tjenesten kan nås
+          gjennom å kontakte din nærmeste helsestasjon.
         </p>
       </div>
     </main>

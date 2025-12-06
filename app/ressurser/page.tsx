@@ -4,6 +4,9 @@
 import { Card } from "primereact/card";
 import "primereact/resources/themes/lara-light-indigo/theme.css";
 export default function Home() {
+  return <br />;
+
+  /*
   return (
     <main className="flex min-h-screen p-16 flex-col items-center bg-pink-100">
       <h1 className="text-5xl font-bold pb-18 h-36">RESSURSER </h1>
@@ -85,4 +88,6 @@ export default function Home() {
       </div>
     </main>
   );
+
+  */
 }
