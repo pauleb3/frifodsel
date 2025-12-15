@@ -11,11 +11,11 @@ export default function Home() {
           FRIFØDSELSNETTVERKET
         </h1>
         <br />
-        <span className="bold">Frifødselsnettverket</span> er samlet om troen på
-        fordelene ved fullstendig uforstyrret fødsel.
+        <span className="font-bold">Frifødselsnettverket</span> er samlet om
+        troen på fordelene ved fullstendig uforstyrret fødsel.
         <br />
         <br />
-        <span className="bold">Uassistert hjemmefødsel</span> oppsto som
+        <span className="font-bold">Uassistert hjemmefødsel</span> oppsto som
         reaksjonen på økende medikalisering og institusjonalisering av
         fødselsomsorgen allerede på{" "}
         <a
@@ -27,11 +27,6 @@ export default function Home() {
         . Kvinner har frivillig og intensjonelt født sine sønner og døtre
         hjemme, uten helsepersonell. Mødrene har fortalt om disse erfaringene i
         tre kvart århundre.
-        <br />
-        <br />
-        Nettsiden er en kilde til, og en kilde til andre kilder til, erfaringer
-        og tanker om å navigere i det norske samfunn som vill gravid, friføder
-        og vill og fri mor.
         <br />
         <br />
         De lykkeligste opplevelsene viser hva som kontinuerlig går tapt når
@@ -47,14 +42,14 @@ export default function Home() {
         så skal de også få velge fritt hvordan de vil handle i fødsel.
         <br /> <br />
         Valget om å føde uten helsepersonell{" "}
-        <span className="bold">må fortsatt være lovlig.</span>
+        <span className="font-bold">må fortsatt være lovlig.</span>
         <br />
         <br />I 2025 inneholdt denne nettsiden en rekke prinsipper, definisjoner
         og ressurser. Inn i 2026 står kun én ting igjen: troen på potensialet i
-        den uforstyrrede <span className="bold">frifødselen</span> – for mor,
-        barn, familie og samfunn.
+        den uforstyrrede <span className="font-bold">frifødselen</span> – for
+        mor, barn, familie og samfunn.
         <br /> <br />
-        <span className="bold">Ansvarsfraskrivelse:</span> Mottakere av
+        <span className="font-bold">Ansvarsfraskrivelse:</span> Mottakere av
         nettsidens innhold står selv ansvarlig for alle beslutninger knyttet til
         egen graviditet og fødsel. Nettverket og dets tilsluttede individer kan
         ikke holdes ansvarlige for konsekvensene av valg og handlinger basert på

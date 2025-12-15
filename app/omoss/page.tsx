@@ -453,7 +453,8 @@ export default function OmOss() {
           Ønsker du å slutte deg til nettverket?
         </h1>
         <div className="mx-[10vw] mb-5">
-          Hvis du ønsker å være en del av frifødselsbevegelsen, er du det
+          Hvis du ønsker å være en del av{" "}
+          <span className="font-bold">frifødselsbevegelsen</span>, er du det
           allerede. Dette er Frifødselsnettverket, en liten fasett av
           bevegelsen, vevet av relasjonene mellom de navngitte individene.
         </div>
